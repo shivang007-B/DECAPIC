@@ -1,34 +1,65 @@
 <div align="center">
 
-# 🎬 DecaPic
-### Next-Gen Film Production Control Room & AI Intelligence System
+<img src="assets/banner.svg" alt="DecaPic Logo Banner" width="100%" />
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4%2B-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![JavaScript](https://img.shields.io/badge/Vanilla_JS-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
-[![Chart.js](https://img.shields.io/badge/Chart.js-4.4-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://chartjs.org)
-[![Offline First](https://img.shields.io/badge/100%25-Offline_Bundled-10c49f?style=for-the-badge)](#architecture)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+<br/><br/>
 
-<br/>
-
-> **"Every script, schedule, rupee and shot of a film production — in one unified frame."**
-> 
-> *A full-stack, enterprise-grade production management platform powered by a **52-table MySQL database (`cineops`)**, **7 machine learning models**, stored procedures, triggers, and an ultra-fast zero-build Vanilla JS SPA.*
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![MySQL 8.0](https://img.shields.io/badge/MySQL_8.0-10c49f?style=for-the-badge&logo=mysql&logoColor=07110f)](https://mysql.com)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-c5aa8d?style=for-the-badge&logo=scikitlearn&logoColor=07110f)](https://scikit-learn.org)
+[![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-ef7b5f?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org)
+[![Chart.js](https://img.shields.io/badge/Chart.js_4.4-4f9de8?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://chartjs.org)
+[![Theme](https://img.shields.io/badge/Theme-Teal_%7C_Tan_%7C_Coral-10c49f?style=for-the-badge)](#-brand-theme--design-tokens)
+[![100% Offline](https://img.shields.io/badge/100%25-Offline_Bundled-07110f?style=for-the-badge&logo=offline&logoColor=10c49f)](#architecture)
 
 <br/>
 
-[🚀 Quick Start](#-quick-start) • [✨ Key Features](#-key-features) • [🧠 AI Studio & ML](#-ai-studio--ml-layer) • [🔬 SQL Lab](#-sql-lab--database-architecture) • [🛡️ RBAC Personas](#️-role-based-access-control-rbac) • [📐 Architecture](#-system-architecture)
+### *“Every script, schedule, rupee and shot of a film production — in one frame.”*
+
+A synchronized production management & predictive intelligence system powered by a **52-table MySQL database (`cineops`)**, **7 machine learning models**, dynamic triggers, stored procedures, and a responsive zero-build Vanilla JS SPA.
+
+<br/>
+
+[🎬 Live Showcase](#-live-ui-showcase) • [🎨 Brand Theme](#-brand-theme--design-tokens) • [✨ Key Features](#-key-features) • [🧠 AI Studio & ML](#-ai-studio--ml-layer) • [🔬 SQL Lab](#-sql-lab--database-architecture) • [🛡️ RBAC Personas](#️-role-based-access-control-rbac) • [🚀 Quick Start](#-quick-start)
 
 </div>
 
 ---
 
-## 🌟 Executive Showcase
+## 🎬 Live UI Showcase
 
-**DecaPic** transforms the chaotic reality of filmmaking into a synchronized, predictive operation. It connects every department — directing, cinematography, line production, finance, casting, and logistics — through live relational data integrity and machine learning forecasting.
+<div align="center">
+  <img src="assets/dashboard_preview.jpg" alt="DecaPic Live Dashboard in Dark Mode" width="95%" style="border-radius: 16px; border: 2px solid #1b2f2a; box-shadow: 0 20px 40px rgba(0,0,0,0.6);" />
+  <p><em>Live DecaPic Production Control Room · Real-time aggregations across 52 MySQL tables with Chart.js analytics and quick role switching.</em></p>
+</div>
+
+---
+
+## 🎨 Brand Theme & Design Tokens
+
+DecaPic features a custom-crafted cinematic color palette designed for high legibility, contrast, and film production aesthetics:
+
+| Token | Hex Code | Visual Swatch | Role & Usage |
+| :--- | :--- | :--- | :--- |
+| **Teal (Brand Primary)** | `#10c49f` | `████████` | Logo Heart `♡`, Primary Actions, Active Tabs, KPI Success |
+| **Tan (Deca Accent)** | `#c5aa8d` | `████████` | Wordmark `"Deca"`, Secondary Stat Bars, Neutral Highlights |
+| **Coral (Dot Accent)** | `#ef7b5f` | `████████` | Wordmark `i` dot `•`, Critical Alerts, Delay Highlights |
+| **Dark Slate (Canvas)** | `#07110f` | `████████` | OLED Dark Mode background canvas |
+| **Deep Forest (Card)** | `#0d1a17` | `████████` | Surface containers, card backgrounds, modal layers |
+| **Border Line** | `#1b2f2a` | `████████` | Subtle borders, grid dividers, separators |
+| **Warm Gold** | `#e8b64a` | `████████` | Pre-production stage, star ratings, medium severity |
+| **Sky Blue** | `#4f9de8` | `████████` | In-Production stage badge, informational callouts |
+| **Violet** | `#8b7cf0` | `████████` | Post-production stage badge, VFX scene tags |
+
+### 🔍 Brand Wordmark Anatomy
+* **`Deca`** — Typeset in ultra-light weight (`200`) in warm Tan (`#c5aa8d`).
+* **`Pic`** — Typeset in heavy bold weight (`800`) in pure Mint/White (`#e9f6f2`).
+* **`•` Dot** — The dot over the `ı` is an isolated glowing Coral circle (`#ef7b5f`).
+* **`♡` Heart** — Pulsing teal outline heart (`#10c49f`) signifying the passion of filmmaking.
+
+---
+
+## ✨ Key Features
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -41,10 +72,6 @@
 │ • Incident & Delay Audit │ • Crew-Match Recommendation │ • Read-Only Console & Rollback │
 └──────────────────────────┴─────────────────────────────┴────────────────────────────────┘
 ```
-
----
-
-## ✨ Key Features
 
 ### 1. 🎛️ Live Operations Dashboard
 * **Dynamic Role Adaptive View**: Adapts automatically based on role permissions (Executive financial charts for Producers; shoot schedules & genre distributions for Directors and Crew).
@@ -194,20 +221,17 @@ DecaPic will automatically launch in your default browser at:
 
 ```text
 decapic/
+├── assets/
+│   ├── banner.svg                # DecaPic official vector banner with logo theme
+│   └── dashboard_preview.jpg     # High-resolution screenshot of live dashboard
 ├── backend/
 │   ├── app/
 │   │   ├── config.py             # Environment configurations
-│   │   ├── db.py                 # PyMySQL thread-safe connection pooling
+│   │   ├── db.py                 # PyMySQL connection pooling
 │   │   ├── security.py           # JWT generation, Argon2 hashing & RBAC
 │   │   ├── ml_service.py         # Joblib model loaders & prediction runners
 │   │   ├── main.py               # FastAPI application entrypoint
-│   │   └── routes/
-│   │       ├── auth.py           # Authentication & demo account endpoints
-│   │       ├── dashboard.py      # Live aggregated analytics
-│   │       ├── projects.py       # Full project, scene, schedule & budget CRUD
-│   │       ├── catalog.py        # Films, people & resource registries
-│   │       ├── ml.py             # AI Studio & prediction endpoints
-│   │       └── lab.py            # SQL Lab table explorer, query & trigger test runner
+│   │   └── routes/               # Modular REST endpoints
 ├── database/
 │   ├── 01_schema.sql             # 52 tables with foreign keys and check constraints
 │   ├── 02_load_data.sql          # Bulk CSV loading for synthetic film data
@@ -219,23 +243,9 @@ decapic/
 │   └── data/*.csv                # High-fidelity synthetic dataset
 ├── frontend/
 │   ├── index.html                # Single Page Application entrypoint
-│   ├── css/
-│   │   └── app.css               # DecaPic Mint/Teal design system & keyframes
-│   ├── js/
-│   │   ├── icons.js              # Feather/Lucide custom SVG icon library
-│   │   ├── core.js               # Reactive DOM helpers, Web Audio sound & router
-│   │   ├── shell.js              # Sidebar, topbar, account switcher & Ctrl+K
-│   │   ├── common.js             # Reusable UI cards, tables, drawers & badges
-│   │   ├── dashboard.js          # Role-adaptive analytics & KPI grid
-│   │   ├── projects.js           # 9-tab project control room
-│   │   ├── films.js              # Film catalogue poster wall with genre filters
-│   │   ├── people.js             # Cast & crew directory with profile drawers
-│   │   ├── resources.js          # Gear, vendors, locations & production houses
-│   │   ├── ai.js                 # Scene planner, health curve & Model Lab
-│   │   └── lab.js                # Live SQL console & trigger playground
-│   └── vendor/
-│       ├── chart.umd.min.js      # Bundled Chart.js library
-│       └── fonts/                # Bundled Outfit font files
+│   ├── css/app.css               # DecaPic Mint/Teal design system & keyframes
+│   ├── js/                       # Modular Vanilla JS SPA files
+│   └── vendor/                   # Offline bundled fonts & Chart.js
 ├── ml/
 │   ├── train_models.py           # Model training pipeline
 │   ├── README_ML.md              # Machine learning documentation & benchmark results
@@ -254,15 +264,6 @@ decapic/
 | <kbd>Esc</kbd> | Close Modal, Drawer or Overlay | Global |
 | <kbd>Hover</kbd> | Interactive Mechanical Sound Feedback | All Cards & Buttons |
 | <kbd>Click</kbd> | Material Ripple Effect & Confirmation Sound | Interactive Controls |
-
----
-
-## 👨‍💻 Tech Stack Breakdown
-
-* **Backend**: [FastAPI](https://fastapi.tiangolo.com/) • [Uvicorn](https://www.uvicorn.org/) • [PyMySQL](https://github.com/PyMySQL/PyMySQL) • [Python-Jose](https://github.com/mpdavis/python-jose) (JWT)
-* **Database**: [MySQL 8.0+](https://www.mysql.com/) • Stored Procedures • Dynamic Triggers • Relational Views
-* **Machine Learning**: [Scikit-Learn](https://scikit-learn.org/) • [Joblib](https://joblib.readthedocs.io/) • [NumPy](https://numpy.org/)
-* **Frontend**: Pure Vanilla JavaScript (ES6 Modules) • Modern CSS3 Custom Properties • [Chart.js 4.4](https://chartjs.org/) • HTML5 Web Audio API
 
 ---
 
