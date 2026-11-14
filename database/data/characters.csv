@@ -1,0 +1,2932 @@
+character_id,film_id,character_name,description,character_type,importance_level
+463,11106,Elijah Bachate,Lead character,Lead,1
+464,11106,Brett Amarù,Lead character,Lead,1
+465,11106,Manoli Spencer,Supporting character,Supporting,2
+466,11106,Jason Star,Supporting character,Supporting,2
+467,11106,Neighbour,Minor character,Minor,3
+468,11106,Doctor,Minor character,Minor,3
+469,11106,Landlord,Minor character,Minor,3
+560,13166,Jim Oriel,Lead character,Lead,1
+561,13166,Reiya Gamble,Lead character,Lead,1
+562,13166,Daniel Scotton,Supporting character,Supporting,2
+563,13166,Laura Morenstein,Supporting character,Supporting,2
+564,13166,Mechanic,Minor character,Minor,3
+910,12893,Kim Sauls,Lead character,Lead,1
+911,12893,Tony Cook,Lead character,Lead,1
+912,12893,Sipe Schubert,Supporting character,Supporting,2
+913,12893,Joëlle Rau,Supporting character,Supporting,2
+914,12893,Yuvraj Olaiya,Supporting character,Supporting,2
+915,12893,Shopkeeper,Minor character,Minor,3
+916,12893,Bartender,Minor character,Minor,3
+917,12893,Priest,Minor character,Minor,3
+997,13390,Peter Peck,Lead character,Lead,1
+998,13390,Alice Kimura,Lead character,Lead,1
+999,13390,Jeremy Poobandit,Lead character,Lead,1
+1000,13390,Curt Goodwin,Supporting character,Supporting,2
+1001,13390,Emma Darwish,Supporting character,Supporting,2
+1002,13390,Tomoo Sonje,Supporting character,Supporting,2
+1003,13390,Simon Marley,Supporting character,Supporting,2
+1004,13390,Piotr Saner,Supporting character,Supporting,2
+1005,13390,Fleetwood Nolin,Supporting character,Supporting,2
+1006,13390,Alaijah Hill,Supporting character,Supporting,2
+1007,13390,Taxi Driver,Minor character,Minor,3
+1008,13390,Ivo Kelly,Cameo character,Cameo,4
+1009,13390,Priest,Minor character,Minor,3
+1010,13390,Brian Lowery,Minor character,Minor,3
+1011,13390,Clerk,Minor character,Minor,3
+1012,13390,Police Officer,Minor character,Minor,3
+1013,13390,Steven MacDonnell,Minor character,Minor,3
+1014,13390,Mechanic,Minor character,Minor,3
+1015,13390,Zeke Garon,Minor character,Minor,3
+1016,12746,John Beslik,Lead character,Lead,1
+1017,12746,Ray Fallecen,Supporting character,Supporting,2
+1025,12063,Aleks Colina,Lead character,Lead,1
+1026,12063,Katie Vambhol,Lead character,Lead,1
+1027,12063,Victor Mazzella,Supporting character,Supporting,2
+1028,12063,Ripley Parker,Supporting character,Supporting,2
+1029,12063,Alok Lopez,Supporting character,Supporting,2
+1030,12063,Ariel Street,Minor character,Minor,3
+1031,12063,Priest,Background character,Background,5
+1032,12063,Draginja Ellett,Minor character,Minor,3
+1201,14074,Jeff Nitchals,Lead character,Lead,1
+1202,14074,Fernando Jokic,Lead character,Lead,1
+1203,14074,Mohammad Colina,Lead character,Lead,1
+1204,14074,Channery Dangi,Supporting character,Supporting,2
+1205,14074,Kim Tovar,Supporting character,Supporting,2
+1206,14074,Tan Martin,Supporting character,Supporting,2
+1207,14074,Balaji Cancillo,Supporting character,Supporting,2
+1208,14074,Chico Maulana,Supporting character,Supporting,2
+1209,14074,Sébastien Ahmad,Supporting character,Supporting,2
+1210,14074,Landlord,Minor character,Minor,3
+1211,14074,Bartender,Minor character,Minor,3
+1212,14074,Laura Overdose,Minor character,Minor,3
+1213,14074,Priest,Minor character,Minor,3
+1214,14074,Mechanic,Minor character,Minor,3
+1215,14074,Ryan Fleming,Cameo character,Cameo,4
+1216,14074,Priest,Minor character,Minor,3
+1217,14074,Receptionist,Minor character,Minor,3
+1218,14074,Bartender,Background character,Background,5
+1320,13228,Giorgia Chaudhari,Lead character,Lead,1
+1321,13228,DirtyPueppy Evans,Lead character,Lead,1
+1322,13228,Regina Lénárd,Supporting character,Supporting,2
+1323,13228,Melissa Alkis,Supporting character,Supporting,2
+1324,13228,Madeline Kim,Cameo character,Cameo,4
+1378,12637,Joel Abbott,Lead character,Lead,1
+1379,12637,Jeong Liu,Supporting character,Supporting,2
+1442,12592,Peter Karmakar,Lead character,Lead,1
+1443,12592,Matteo Kassioppia,Lead character,Lead,1
+1444,12592,Jonathan Sariçam,Supporting character,Supporting,2
+1445,12592,Josh Cannon,Supporting character,Supporting,2
+1446,12592,Nevan Nakaigusa,Supporting character,Supporting,2
+1447,12592,Priest,Minor character,Minor,3
+1448,12592,Passenger,Minor character,Minor,3
+1449,12592,Waiter,Minor character,Minor,3
+1450,12592,Reporter,Minor character,Minor,3
+1532,12183,Carolina Mohan,Lead character,Lead,1
+1533,12183,Saskia Gorman,Supporting character,Supporting,2
+1534,12183,Dennis McAleer,Cameo character,Cameo,4
+1924,13634,Marianne Yukawa,Lead character,Lead,1
+1925,13634,Saki McIntyre,Supporting character,Supporting,2
+1926,13634,Landlord,Minor character,Minor,3
+2009,11921,Martina Ndjolo,Lead character,Lead,1
+2010,11921,Jang Rivera,Lead character,Lead,1
+2011,11921,Surendran Franks,Supporting character,Supporting,2
+2012,11921,Shôta Togneri,Supporting character,Supporting,2
+2013,11921,Nurse,Minor character,Minor,3
+2112,14020,Fern Mogashoa,Lead character,Lead,1
+2113,14020,Nancy Mansker,Lead character,Lead,1
+2114,14020,John Stowers,Supporting character,Supporting,2
+2115,14020,Miano Marconi,Supporting character,Supporting,2
+2116,14020,José Bora,Supporting character,Supporting,2
+2117,14020,Bert Hays,Supporting character,Supporting,2
+2118,14020,Waiter,Minor character,Minor,3
+2119,14020,Neighbour,Minor character,Minor,3
+2120,14020,Bartender,Minor character,Minor,3
+2121,14020,Mechanic,Minor character,Minor,3
+2143,13006,Xisto Whitefeather,Lead character,Lead,1
+2144,13006,Bapi Rivera,Supporting character,Supporting,2
+2145,13006,Courier,Minor character,Minor,3
+2302,13757,Jerry Meester,Lead character,Lead,1
+2303,13757,Tomas Nasserdeen,Lead character,Lead,1
+2304,13757,Logan Gielke,Supporting character,Supporting,2
+2305,13757,Martin Holt,Supporting character,Supporting,2
+2306,13757,Teacher,Minor character,Minor,3
+2399,12347,Ole Pavlinovich,Lead character,Lead,1
+2400,12347,Jaileene Thompson,Supporting character,Supporting,2
+2401,12347,Claire Arévalo,Minor character,Minor,3
+2423,12738,Molly Kanezawa,Lead character,Lead,1
+2424,12738,Chris Andi,Supporting character,Supporting,2
+2425,12738,Teacher,Minor character,Minor,3
+2426,12738,Clerk,Minor character,Minor,3
+2461,12827,Kevin Farid,Lead character,Lead,1
+2462,12827,Jack Hernandez,Supporting character,Supporting,2
+2463,12827,James Bear,Cameo character,Cameo,4
+2515,11878,Daniel Booysen,Lead character,Lead,1
+2516,11878,Maree Hannah,Lead character,Lead,1
+2517,11878,Maiko Bombata,Supporting character,Supporting,2
+2518,11878,Chico Lee,Supporting character,Supporting,2
+2519,11878,Penny Wright,Supporting character,Supporting,2
+2520,11878,Receptionist,Minor character,Minor,3
+2521,11878,Guard,Background character,Background,5
+2522,11878,Neighbour,Minor character,Minor,3
+2544,16150,Martine Wilde,Lead character,Lead,1
+2545,16150,Harmandeep Gilsig,Lead character,Lead,1
+2546,16150,Angelo Khan,Supporting character,Supporting,2
+2547,16150,Beth Grebaus,Supporting character,Supporting,2
+2548,16150,Heather Harvey,Supporting character,Supporting,2
+2549,16150,Masha Foxx,Background character,Background,5
+2550,16150,Marta Vodopija,Minor character,Minor,3
+2551,16150,Taxi Driver,Minor character,Minor,3
+2556,13760,Juancris Granger,Lead character,Lead,1
+2557,13760,YaiMakMak Lapesora,Lead character,Lead,1
+2558,13760,Mario Ellett,Supporting character,Supporting,2
+2559,13760,Robert Lucarda,Supporting character,Supporting,2
+2560,13760,Rajesh Inger,Minor character,Minor,3
+2561,13760,Landlord,Minor character,Minor,3
+2600,13349,Olle Rader,Lead character,Lead,1
+2601,13349,Ash Knight,Supporting character,Supporting,2
+2602,13349,Enea Gorman,Minor character,Minor,3
+2603,13349,Nurse,Background character,Background,5
+2624,13831,Martin Lollo,Lead character,Lead,1
+2625,13831,Jang Depauli,Supporting character,Supporting,2
+2634,13397,Lauren Müller,Lead character,Lead,1
+2635,13397,Jun Thompson,Lead character,Lead,1
+2636,13397,Mily Katz,Supporting character,Supporting,2
+2637,13397,Gui Lucarda,Supporting character,Supporting,2
+2638,13397,Shannon Scott,Minor character,Minor,3
+2639,13397,Priest,Minor character,Minor,3
+2640,13397,Charles Wells,Minor character,Minor,3
+2644,13799,Nick Martínez,Lead character,Lead,1
+2645,13799,Jessica Sonje,Lead character,Lead,1
+2646,13799,Vanessa Gateno,Supporting character,Supporting,2
+2647,13799,Saeed Zachary,Supporting character,Supporting,2
+2648,13799,Courier,Minor character,Minor,3
+2649,13799,Nick Acosta,Minor character,Minor,3
+2654,13991,Magda Chie,Lead character,Lead,1
+2655,13991,Kelechi Ladur,Supporting character,Supporting,2
+2656,13991,Brian McAleer,Cameo character,Cameo,4
+2763,10987,Arline Lowe,Lead character,Lead,1
+2764,10987,Sam Amarù,Lead character,Lead,1
+2765,10987,Chris Fisher,Supporting character,Supporting,2
+2766,10987,Tami Quesada,Supporting character,Supporting,2
+2767,10987,Waiter,Minor character,Minor,3
+2792,12710,Itokin Stanback,Lead character,Lead,1
+2793,12710,Diego Todd,Supporting character,Supporting,2
+2818,14360,Rahul Mendez,Lead character,Lead,1
+2819,14360,Fadil McMahon,Supporting character,Supporting,2
+2820,14360,Bartender,Minor character,Minor,3
+2821,14360,Terrisa Viravaux,Minor character,Minor,3
+3011,13717,Hakim Frantova,Lead character,Lead,1
+3012,13717,Jessica Arabia,Supporting character,Supporting,2
+3013,13717,Clerk,Minor character,Minor,3
+3026,15210,David Bergh,Lead character,Lead,1
+3027,15210,Kevin Henderson,Supporting character,Supporting,2
+3028,15210,Jerker Ozdoba,Cameo character,Cameo,4
+3154,14185,Pierre Martínez,Lead character,Lead,1
+3155,14185,Emily Putten,Lead character,Lead,1
+3156,14185,Tyler Boatman,Supporting character,Supporting,2
+3157,14185,Leander Phillips,Supporting character,Supporting,2
+3158,14185,Waiter,Minor character,Minor,3
+3159,14185,Taxi Driver,Background character,Background,5
+3164,11972,Luna Decoteau,Lead character,Lead,1
+3165,11972,Sam Capobianco,Supporting character,Supporting,2
+3166,11972,Jakub Hason,Cameo character,Cameo,4
+3190,13682,Snezana Sanchez,Lead character,Lead,1
+3191,13682,Thomas Stickle,Supporting character,Supporting,2
+3192,13682,Adam Davis,Background character,Background,5
+3193,13682,Police Officer,Minor character,Minor,3
+3321,13732,Bruce Wright,Lead character,Lead,1
+3322,13732,Edin Wicki,Lead character,Lead,1
+3323,13732,Jeann Rudd,Supporting character,Supporting,2
+3324,13732,Jianguo Dowideit,Supporting character,Supporting,2
+3325,13732,Doctor,Minor character,Minor,3
+3443,13856,Yuriy Tolwinska,Lead character,Lead,1
+3444,13856,Ferdinand Sobenin,Supporting character,Supporting,2
+3445,13856,Doctor,Minor character,Minor,3
+3446,13856,Lamont Wade,Minor character,Minor,3
+3461,12969,Isao Amego,Lead character,Lead,1
+3462,12969,Kevin Booysen,Supporting character,Supporting,2
+3463,12969,Doctor,Minor character,Minor,3
+3464,12969,Teacher,Minor character,Minor,3
+3505,11673,Michael Rogers,Lead character,Lead,1
+3506,11673,Natalie Alexander,Supporting character,Supporting,2
+3507,11673,Passenger,Minor character,Minor,3
+3508,11673,Courier,Minor character,Minor,3
+3546,12475,Vladimir Bolding,Lead character,Lead,1
+3547,12475,Horacio Matsui,Lead character,Lead,1
+3548,12475,Jonathan Lénárd,Lead character,Lead,1
+3549,12475,Tom Bonczyk,Supporting character,Supporting,2
+3550,12475,Karthik Williams,Supporting character,Supporting,2
+3551,12475,Claudia Green,Supporting character,Supporting,2
+3552,12475,Anisa Gabashvili,Supporting character,Supporting,2
+3553,12475,Clerk,Minor character,Minor,3
+3554,12475,Landlord,Background character,Background,5
+3555,12475,Elena Haines,Minor character,Minor,3
+3556,12475,Police Officer,Minor character,Minor,3
+3557,12475,Morgan Gonsky,Minor character,Minor,3
+3590,13093,Cecilia Snyder,Lead character,Lead,1
+3591,13093,Ted Cheung,Lead character,Lead,1
+3592,13093,Kennedy Mori,Lead character,Lead,1
+3593,13093,Abhay Henry,Supporting character,Supporting,2
+3594,13093,Jessica Saldaña,Supporting character,Supporting,2
+3595,13093,Tomohisa Mendoza,Supporting character,Supporting,2
+3596,13093,Takashi Hart,Supporting character,Supporting,2
+3597,13093,Robert Doyle,Supporting character,Supporting,2
+3598,13093,Jenn Barucky,Supporting character,Supporting,2
+3599,13093,Taxi Driver,Minor character,Minor,3
+3600,13093,Taylor Pantsou,Minor character,Minor,3
+3601,13093,Martin Sabo,Minor character,Minor,3
+3602,13093,Doctor,Minor character,Minor,3
+3603,13093,Nurse,Minor character,Minor,3
+3604,13093,Brandon Evans,Minor character,Minor,3
+3605,13093,Casey Ziegler,Cameo character,Cameo,4
+3802,11146,Shweta Bilbao,Lead character,Lead,1
+3803,11146,José Ydery,Supporting character,Supporting,2
+3814,14323,Racqueza Akiyama,Lead character,Lead,1
+3815,14323,Daniel Sin,Lead character,Lead,1
+3816,14323,Saranya Shamikh,Supporting character,Supporting,2
+3817,14323,Amara Delvir,Supporting character,Supporting,2
+3818,14323,Courier,Minor character,Minor,3
+3907,13754,Peter Slaninováa,Lead character,Lead,1
+3908,13754,Erik Jacquot,Supporting character,Supporting,2
+3945,12866,Sam Bolutano,Lead character,Lead,1
+3946,12866,Jennifer Stuart,Supporting character,Supporting,2
+3947,12866,Receptionist,Background character,Background,5
+3979,14264,Ralph Rhymer,Lead character,Lead,1
+3980,14264,Laura Martinez,Lead character,Lead,1
+3981,14264,Teddy Easley,Lead character,Lead,1
+3982,14264,Anand Gomes,Supporting character,Supporting,2
+3983,14264,Andreas Robertson,Supporting character,Supporting,2
+3984,14264,Acadia Miranda,Supporting character,Supporting,2
+3985,14264,Lauri Overdose,Supporting character,Supporting,2
+3986,14264,Tom Gillette,Supporting character,Supporting,2
+3987,14264,Neighbour,Minor character,Minor,3
+3988,14264,Receptionist,Minor character,Minor,3
+3989,14264,Marta Ismatov,Minor character,Minor,3
+3990,14264,Neighbour,Minor character,Minor,3
+3991,14264,Charlotte Travis,Cameo character,Cameo,4
+3992,14264,Steve Borgatin,Cameo character,Cameo,4
+3993,14264,Simon Fogal,Cameo character,Cameo,4
+4003,13781,Fabio Rosensträter,Lead character,Lead,1
+4004,13781,Meenakshi Welch,Supporting character,Supporting,2
+4005,13781,Pedro Doss,Cameo character,Cameo,4
+4006,13781,Teacher,Minor character,Minor,3
+4061,13619,Michael Williams,Lead character,Lead,1
+4062,13619,Danny Khalil,Supporting character,Supporting,2
+4063,13619,Passenger,Minor character,Minor,3
+4126,13873,Miriam Hall,Lead character,Lead,1
+4127,13873,Vladimir Hicks,Lead character,Lead,1
+4128,13873,Kim Artes,Supporting character,Supporting,2
+4129,13873,Zoltán Gee,Supporting character,Supporting,2
+4130,13873,Guard,Minor character,Minor,3
+4178,13911,Francesc Castro,Lead character,Lead,1
+4179,13911,Yoshihiro Perez,Supporting character,Supporting,2
+4223,12585,Miriam Pishva,Lead character,Lead,1
+4224,12585,Bart Charon,Supporting character,Supporting,2
+4253,11328,Carla Smith,Lead character,Lead,1
+4254,11328,Robert Aroor,Supporting character,Supporting,2
+4255,11328,Landlord,Minor character,Minor,3
+4256,11328,Clerk,Minor character,Minor,3
+4275,13726,Mary Alonzo,Lead character,Lead,1
+4276,13726,Wagner Roos,Supporting character,Supporting,2
+4361,12061,Paolo Karamnov,Lead character,Lead,1
+4362,12061,Gabriel Alvarez,Lead character,Lead,1
+4363,12061,Roberto Fifield,Supporting character,Supporting,2
+4364,12061,Jeffrey Marcuso,Supporting character,Supporting,2
+4365,12061,Derek Lewis,Minor character,Minor,3
+4366,12061,Rony Lorrison,Background character,Background,5
+4398,13590,Kevin Tischler,Lead character,Lead,1
+4399,13590,Thane Campagna,Lead character,Lead,1
+4400,13590,Rebecca Walker,Supporting character,Supporting,2
+4401,13590,Takashi Usta,Supporting character,Supporting,2
+4402,13590,Yoshie Baldi,Minor character,Minor,3
+4403,13590,Patryk Ndjolo,Minor character,Minor,3
+4564,14146,Madeline Trifkovic,Lead character,Lead,1
+4565,14146,Petr Honarpisheh,Lead character,Lead,1
+4566,14146,Matthew Sochivko,Supporting character,Supporting,2
+4567,14146,David Greenwood,Supporting character,Supporting,2
+4568,14146,Neighbour,Background character,Background,5
+4569,14146,Doctor,Minor character,Minor,3
+4600,14151,Nick Velez,Lead character,Lead,1
+4601,14151,Ljubisa Park,Supporting character,Supporting,2
+4602,14151,Police Officer,Minor character,Minor,3
+4603,14151,Guard,Minor character,Minor,3
+4664,14164,Ben Poole,Lead character,Lead,1
+4665,14164,Alicia Santos,Supporting character,Supporting,2
+4666,14164,Taxi Driver,Minor character,Minor,3
+4667,13551,Lena Schunk,Lead character,Lead,1
+4668,13551,Maurine Lin,Supporting character,Supporting,2
+4669,13551,Meriç Attard,Cameo character,Cameo,4
+4726,14225,April Antonio,Lead character,Lead,1
+4727,14225,Ivan Plateroti,Supporting character,Supporting,2
+4728,14225,Mayra Khalil,Background character,Background,5
+4729,14225,Passenger,Minor character,Minor,3
+4767,14668,Crystal Savarth,Lead character,Lead,1
+4768,14668,Yola Hackett,Lead character,Lead,1
+4769,14668,Joëlle Hulse,Supporting character,Supporting,2
+4770,14668,Anant Gibson,Supporting character,Supporting,2
+4771,14668,Kristyn Heath,Minor character,Minor,3
+4772,14668,Shopkeeper,Minor character,Minor,3
+4853,14521,Tony Weatherby,Lead character,Lead,1
+4854,14521,Bucks Monahan,Lead character,Lead,1
+4855,14521,Eric Osman,Supporting character,Supporting,2
+4856,14521,Stephen Aletras,Supporting character,Supporting,2
+4857,14521,Reporter,Minor character,Minor,3
+4858,14521,Krystal Gateno,Cameo character,Cameo,4
+4859,14521,Teacher,Minor character,Minor,3
+4899,14110,Nathan Badendyck,Lead character,Lead,1
+4900,14110,Christopher Irvine,Supporting character,Supporting,2
+4901,14110,Clerk,Minor character,Minor,3
+4927,11933,Acob Regla,Lead character,Lead,1
+4928,11933,Tanner Tolbert,Lead character,Lead,1
+4929,11933,David Papp,Lead character,Lead,1
+4930,11933,Adam Mattig,Supporting character,Supporting,2
+4931,11933,Charles Kempf,Supporting character,Supporting,2
+4932,11933,Jeremy Høegh,Supporting character,Supporting,2
+4933,11933,Allegra Gahra,Supporting character,Supporting,2
+4934,11933,Mitch Hiessboeck,Supporting character,Supporting,2
+4935,11933,Tim Koppen,Minor character,Minor,3
+4936,11933,Per Dias,Cameo character,Cameo,4
+4937,11933,Nurse,Minor character,Minor,3
+4938,11933,Ben Schecter,Cameo character,Cameo,4
+4939,11933,Tony Kreiss,Background character,Background,5
+4940,11933,Mechanic,Minor character,Minor,3
+4941,11933,Lora Silva,Minor character,Minor,3
+5003,13906,John Manikandon,Lead character,Lead,1
+5004,13906,Tomi Marsiglia,Supporting character,Supporting,2
+5005,13906,Doctor,Minor character,Minor,3
+5224,14390,Roman Moffatt,Lead character,Lead,1
+5225,14390,John Edwards,Supporting character,Supporting,2
+5226,14390,Peter Capper,Cameo character,Cameo,4
+5350,14649,Number Avila,Lead character,Lead,1
+5351,14649,Joakim Susskind,Supporting character,Supporting,2
+5352,14649,Reporter,Background character,Background,5
+5392,13600,Patrick Marosi,Lead character,Lead,1
+5393,13600,Jordan Marconi,Supporting character,Supporting,2
+5394,13600,Otar Kishan,Cameo character,Cameo,4
+5395,13600,Priest,Minor character,Minor,3
+5541,14442,Griffin Artes,Lead character,Lead,1
+5542,14442,Tobias Lyons,Supporting character,Supporting,2
+5543,14442,Police Officer,Minor character,Minor,3
+5544,14442,Florencia Kay,Minor character,Minor,3
+5580,15886,Enteng Ragsdale,Lead character,Lead,1
+5581,15886,Clare Robert,Supporting character,Supporting,2
+5582,15886,Talia Ziegler,Cameo character,Cameo,4
+5583,15886,Police Officer,Minor character,Minor,3
+5782,14293,Jack Astrain,Lead character,Lead,1
+5783,14293,Chris Faye,Lead character,Lead,1
+5784,14293,Randy Wilkins,Supporting character,Supporting,2
+5785,14293,Ammar Johnstone,Supporting character,Supporting,2
+5786,14293,Courier,Minor character,Minor,3
+5840,14726,Tony Manos,Lead character,Lead,1
+5841,14726,Yushuke Mata,Lead character,Lead,1
+5842,14726,Dexire Khue,Supporting character,Supporting,2
+5843,14726,Chuck Carrier,Supporting character,Supporting,2
+5844,14726,Waiter,Minor character,Minor,3
+5845,14726,Shopkeeper,Minor character,Minor,3
+5903,14353,Fanette Ryan,Lead character,Lead,1
+5904,14353,Anjali Inoue,Supporting character,Supporting,2
+5905,14353,Martine Ortiz,Minor character,Minor,3
+5914,14940,William Wit,Lead character,Lead,1
+5915,14940,Andreas Saputra,Supporting character,Supporting,2
+5916,14940,Manny Piscina,Cameo character,Cameo,4
+5974,13614,Heather Kandera,Lead character,Lead,1
+5975,13614,James Gomes,Supporting character,Supporting,2
+6016,14522,Juan Petrov,Lead character,Lead,1
+6017,14522,Autinary Stone,Supporting character,Supporting,2
+6153,14207,Paula Marrero,Lead character,Lead,1
+6154,14207,Baran Bonczyk,Lead character,Lead,1
+6155,14207,Adam Catanzano,Lead character,Lead,1
+6156,14207,Jatin Ngah,Supporting character,Supporting,2
+6157,14207,Tim Brown,Supporting character,Supporting,2
+6158,14207,Karthik Sullivan,Supporting character,Supporting,2
+6159,14207,Laura Jalil,Supporting character,Supporting,2
+6160,14207,Nathan Robinson,Supporting character,Supporting,2
+6161,14207,Tim Bartolome,Supporting character,Supporting,2
+6162,14207,Vincent Cazanave,Minor character,Minor,3
+6163,14207,Markus Dugan,Minor character,Minor,3
+6164,14207,Waiter,Minor character,Minor,3
+6165,14207,Priest,Minor character,Minor,3
+6166,14207,Brigit Kumar,Minor character,Minor,3
+6167,14207,Taxi Driver,Minor character,Minor,3
+6168,14207,Guard,Minor character,Minor,3
+6169,14207,Isabella Horváth,Background character,Background,5
+6170,14207,Guard,Minor character,Minor,3
+6407,15803,Kerri Ashok,Lead character,Lead,1
+6408,15803,Kirsty Sharfi,Lead character,Lead,1
+6409,15803,Raj Worthington,Lead character,Lead,1
+6410,15803,Tomas James,Supporting character,Supporting,2
+6411,15803,Effie Martinez,Supporting character,Supporting,2
+6412,15803,Vadim Kreiss,Supporting character,Supporting,2
+6413,15803,Livia Marcuso,Supporting character,Supporting,2
+6414,15803,Lauri Baisley,Supporting character,Supporting,2
+6415,15803,Neighbour,Minor character,Minor,3
+6416,15803,Courier,Minor character,Minor,3
+6417,15803,Waiter,Minor character,Minor,3
+6418,15803,Chris Nagai,Minor character,Minor,3
+6419,15803,Waiter,Minor character,Minor,3
+6420,15803,Courier,Minor character,Minor,3
+6467,14901,Amarildo Wheaton,Lead character,Lead,1
+6468,14901,Mark Livnjak,Supporting character,Supporting,2
+6469,14901,Qiangyi Kleineisen,Minor character,Minor,3
+6522,14426,Camille Mahoney,Lead character,Lead,1
+6523,14426,Chris Vine,Supporting character,Supporting,2
+6619,14690,Maurice Kabacaoglu,Lead character,Lead,1
+6620,14690,Sudarshan Oliver,Lead character,Lead,1
+6621,14690,Billy Stern,Supporting character,Supporting,2
+6622,14690,Gerda Priestnall,Supporting character,Supporting,2
+6623,14690,Clerk,Minor character,Minor,3
+6624,14690,Jheanelle Vilder,Cameo character,Cameo,4
+6664,14519,Kelly Corradi,Lead character,Lead,1
+6665,14519,Evan Man,Lead character,Lead,1
+6666,14519,Askaf Walker,Supporting character,Supporting,2
+6667,14519,Gökhan Hannon,Supporting character,Supporting,2
+6668,14519,Gulshan Sides,Cameo character,Cameo,4
+6678,15209,Ivo Tovilla,Lead character,Lead,1
+6679,15209,Alex González,Supporting character,Supporting,2
+6680,15209,Denis Fields,Background character,Background,5
+6681,15209,Miguel Rabijns,Background character,Background,5
+6802,14689,Daniel Hutti,Lead character,Lead,1
+6803,14689,Rafal Ambrosi,Lead character,Lead,1
+6804,14689,Jorge Nuijten,Supporting character,Supporting,2
+6805,14689,Karla Aziral,Supporting character,Supporting,2
+6806,14689,Leila Pawar,Cameo character,Cameo,4
+6807,14689,Myrna Miranda,Minor character,Minor,3
+6863,14994,Justin Honarpisheh,Lead character,Lead,1
+6864,14994,Betty Thomé,Lead character,Lead,1
+6865,14994,Patrick Andersen,Supporting character,Supporting,2
+6866,14994,Eddie Argüello,Supporting character,Supporting,2
+6867,14994,Sachin Bowen,Cameo character,Cameo,4
+7042,15783,Wassim Gaddy,Lead character,Lead,1
+7043,15783,Xiuying Roma,Supporting character,Supporting,2
+7044,15783,Anand Logan,Cameo character,Cameo,4
+7045,15783,Mathew Cornelius,Minor character,Minor,3
+7083,14845,Brass Maggard,Lead character,Lead,1
+7084,14845,Nick Ramana,Supporting character,Supporting,2
+7085,14845,Shopkeeper,Minor character,Minor,3
+7099,14162,Marc Boehm,Lead character,Lead,1
+7100,14162,Charlie Ulkucu,Supporting character,Supporting,2
+7101,14162,Priest,Minor character,Minor,3
+7102,14162,Taxi Driver,Minor character,Minor,3
+7276,14750,The Pablo,Lead character,Lead,1
+7277,14750,Jayashree Bohannon,Supporting character,Supporting,2
+7278,14750,Passenger,Minor character,Minor,3
+7279,14750,Lino Gimenez,Cameo character,Cameo,4
+7297,13642,Onur Paridokht,Lead character,Lead,1
+7298,13642,Bina Sharma,Supporting character,Supporting,2
+7318,15249,Analise Lee,Lead character,Lead,1
+7319,15249,Priya Gagliardi,Supporting character,Supporting,2
+7381,15319,Eden Nakano,Lead character,Lead,1
+7382,15319,Sid Jones,Supporting character,Supporting,2
+7386,15589,Miguel Jenz,Lead character,Lead,1
+7387,15589,Laura Sin,Supporting character,Supporting,2
+7388,15589,Waiter,Minor character,Minor,3
+7444,15787,Brad Jiarui,Lead character,Lead,1
+7445,15787,Nitzan Thor,Lead character,Lead,1
+7446,15787,Zachary Tuillo,Supporting character,Supporting,2
+7447,15787,Donald McAllister,Supporting character,Supporting,2
+7448,15787,Judith Bossanove,Minor character,Minor,3
+7449,15787,Stephanie Monteiro,Cameo character,Cameo,4
+7450,15787,Clerk,Minor character,Minor,3
+7502,14866,Adetia Bakhsh,Lead character,Lead,1
+7503,14866,Caroline Cleary,Supporting character,Supporting,2
+7549,15812,Elvin Chivaka,Lead character,Lead,1
+7550,15812,Mojeed Ansari,Supporting character,Supporting,2
+7638,15851,Loïc Gilmour,Lead character,Lead,1
+7639,15851,Rey Mirco,Supporting character,Supporting,2
+7640,15851,Clerk,Minor character,Minor,3
+7641,15851,Mechanic,Minor character,Minor,3
+7724,15679,Shashanka Vogel,Lead character,Lead,1
+7725,15679,Masato Matthews,Lead character,Lead,1
+7726,15679,Spencer Sørensen,Supporting character,Supporting,2
+7727,15679,Rudolf Werner,Supporting character,Supporting,2
+7728,15679,Martina Senior,Supporting character,Supporting,2
+7729,15679,Neighbour,Minor character,Minor,3
+7730,15679,Waiter,Minor character,Minor,3
+7731,15679,Saroj Possenti,Background character,Background,5
+7732,15679,Miodrag Lee,Cameo character,Cameo,4
+7755,15456,Mallikarjun Direk,Lead character,Lead,1
+7756,15456,Yeoh Williamson,Lead character,Lead,1
+7757,15456,Nadia Benoit,Supporting character,Supporting,2
+7758,15456,Judith Shaw,Supporting character,Supporting,2
+7759,15456,Police Officer,Minor character,Minor,3
+7760,15456,Richard Scott,Cameo character,Cameo,4
+7761,15456,David Dray,Minor character,Minor,3
+7774,15362,David Pujol,Lead character,Lead,1
+7775,15362,Garth Fasano,Supporting character,Supporting,2
+7866,15274,Charles Stoddard,Lead character,Lead,1
+7867,15274,Bud Shan,Supporting character,Supporting,2
+7996,15549,Edin Zhe,Lead character,Lead,1
+7997,15549,Kayte Kendel,Supporting character,Supporting,2
+7998,15549,Shopkeeper,Minor character,Minor,3
+8036,15674,Stepan Battersby,Lead character,Lead,1
+8037,15674,Chonnikan Hadley,Supporting character,Supporting,2
+8038,15674,Priest,Minor character,Minor,3
+8039,15674,Courier,Minor character,Minor,3
+8095,15377,Karolline Elenudóttir,Lead character,Lead,1
+8096,15377,Holly Carroll,Lead character,Lead,1
+8097,15377,Emjay Aitken,Supporting character,Supporting,2
+8098,15377,Maruv Hays,Supporting character,Supporting,2
+8099,15377,Tony McCauley,Supporting character,Supporting,2
+8100,15377,Mojeed Hipolito,Cameo character,Cameo,4
+8101,15377,Shawnda Bremer,Cameo character,Cameo,4
+8102,15377,Louis García,Cameo character,Cameo,4
+8149,15311,Steve Chakowree,Lead character,Lead,1
+8150,15311,Anand Smith,Supporting character,Supporting,2
+8151,15311,Receptionist,Minor character,Minor,3
+8275,14613,Nick Neudecker,Lead character,Lead,1
+8276,14613,Jrzil Rudy,Lead character,Lead,1
+8277,14613,Kat Sukawa,Supporting character,Supporting,2
+8278,14613,Alexander Dhami,Supporting character,Supporting,2
+8279,14613,Daniel Vázquez,Minor character,Minor,3
+8337,14324,Olivia Cohen,Lead character,Lead,1
+8338,14324,Mat Mansker,Lead character,Lead,1
+8339,14324,Chris Busquet,Supporting character,Supporting,2
+8340,14324,Riikka Simon,Supporting character,Supporting,2
+8341,14324,Police Officer,Minor character,Minor,3
+8359,15900,Rajesh Zinchenko,Lead character,Lead,1
+8360,15900,Livia Kim,Lead character,Lead,1
+8361,15900,Rilo Nikic,Lead character,Lead,1
+8362,15900,Antoine Griffith,Supporting character,Supporting,2
+8363,15900,Alexandria McCarthy,Supporting character,Supporting,2
+8364,15900,Mickey Brown,Supporting character,Supporting,2
+8365,15900,Sakae Kanade,Supporting character,Supporting,2
+8366,15900,James Lindsey,Supporting character,Supporting,2
+8367,15900,Teacher,Minor character,Minor,3
+8368,15900,Andy Gordon,Minor character,Minor,3
+8369,15900,Diana Walker,Minor character,Minor,3
+8370,15900,Reporter,Background character,Background,5
+8371,15900,Neighbour,Minor character,Minor,3
+8372,16402,Derron Kumar,Lead character,Lead,1
+8373,16402,Rony Goyal,Supporting character,Supporting,2
+8374,16402,Antosha Quinto,Cameo character,Cameo,4
+8635,15960,Julia Ovídio,Lead character,Lead,1
+8636,15960,Tim Herman,Lead character,Lead,1
+8637,15960,Johnny Alan,Supporting character,Supporting,2
+8638,15960,Dorian Scott,Supporting character,Supporting,2
+8639,15960,Mojan Mariani,Supporting character,Supporting,2
+8640,15960,Clerk,Minor character,Minor,3
+8641,15960,Bartender,Minor character,Minor,3
+8642,15960,Nurse,Minor character,Minor,3
+8685,15821,Rosemarie Possemato,Lead character,Lead,1
+8686,15821,Gary Stickle,Supporting character,Supporting,2
+8687,15821,Julien Aguiar,Minor character,Minor,3
+8737,15615,Tony Tøsse,Lead character,Lead,1
+8738,15615,Evan Tokyo,Supporting character,Supporting,2
+8739,15615,Priest,Minor character,Minor,3
+8740,15615,Passenger,Background character,Background,5
+8743,16057,Speli Aiello,Lead character,Lead,1
+8744,16057,Alexander Buck,Lead character,Lead,1
+8745,16057,Susan André,Supporting character,Supporting,2
+8746,16057,Georgie Aoun,Supporting character,Supporting,2
+8747,16057,Imad Usha,Supporting character,Supporting,2
+8748,16057,Reporter,Minor character,Minor,3
+8749,16057,Shopkeeper,Background character,Background,5
+8750,16057,Bartender,Minor character,Minor,3
+8828,14068,Nilgün Cole,Lead character,Lead,1
+8829,14068,Ryan Gaglioni,Lead character,Lead,1
+8830,14068,Rudy McGill,Supporting character,Supporting,2
+8831,14068,Kim Ali,Supporting character,Supporting,2
+8832,14068,Guard,Background character,Background,5
+8833,14068,Landlord,Minor character,Minor,3
+8882,16961,Nicole Benton,Lead character,Lead,1
+8883,16961,Amari Madge,Supporting character,Supporting,2
+8884,16961,Passenger,Minor character,Minor,3
+8885,16961,Teacher,Minor character,Minor,3
+8960,16121,Christopher Ray,Lead character,Lead,1
+8961,16121,Matthew Gajer,Lead character,Lead,1
+8962,16121,Rodrigues Sariçam,Supporting character,Supporting,2
+8963,16121,Francis Dowideit,Supporting character,Supporting,2
+8964,16121,Police Officer,Minor character,Minor,3
+8965,16121,Abdou Grachev,Minor character,Minor,3
+8966,16121,Passenger,Minor character,Minor,3
+9114,15453,Ariana Campanozzi,Lead character,Lead,1
+9115,15453,Olga Brady,Supporting character,Supporting,2
+9116,15453,David Albertoni,Minor character,Minor,3
+9228,15190,Rachael Dubuc,Lead character,Lead,1
+9229,15190,Conrad Salah,Supporting character,Supporting,2
+9230,15190,Landlord,Minor character,Minor,3
+9231,15190,Police Officer,Minor character,Minor,3
+9266,15924,Venkatesh Baldwin,Lead character,Lead,1
+9267,15924,Caleb Word,Lead character,Lead,1
+9268,15924,Matthieu Réis,Supporting character,Supporting,2
+9269,15924,Imad Ziegler,Supporting character,Supporting,2
+9270,15924,Wentao Hall,Minor character,Minor,3
+9271,15924,Waiter,Minor character,Minor,3
+9316,16229,Chris Loughlin,Lead character,Lead,1
+9317,16229,Tom Daniel,Lead character,Lead,1
+9318,16229,Lisette Retzer,Supporting character,Supporting,2
+9319,16229,Mkhitar Fierro,Supporting character,Supporting,2
+9320,16229,Louca Raischl,Supporting character,Supporting,2
+9321,16229,Mechanic,Minor character,Minor,3
+9322,16229,George Gerada,Minor character,Minor,3
+9323,16229,Shopkeeper,Minor character,Minor,3
+9376,16212,Bram Auriaux,Lead character,Lead,1
+9377,16212,Sergey Rauscher,Lead character,Lead,1
+9378,16212,Annabel Park,Supporting character,Supporting,2
+9379,16212,Peder Rishidev,Supporting character,Supporting,2
+9380,16212,Saravanan Paz,Minor character,Minor,3
+9664,15749,Guillermo VanLoo,Lead character,Lead,1
+9665,15749,Guillermo Ray,Supporting character,Supporting,2
+9666,15749,Deborah Hamowy,Cameo character,Cameo,4
+9667,15749,Roy Pennazzato,Cameo character,Cameo,4
+9777,16487,Christiaan Tuillo,Lead character,Lead,1
+9778,16487,Roger Ragland,Supporting character,Supporting,2
+9779,16283,Sue Presnov,Lead character,Lead,1
+9780,16283,Ivan Linda,Lead character,Lead,1
+9781,16283,Rjn Goodman,Supporting character,Supporting,2
+9782,16283,Miren Mishin,Supporting character,Supporting,2
+9783,16283,Brent Aldor,Minor character,Minor,3
+9784,16283,Dane West,Minor character,Minor,3
+9852,16566,Swoop Schunk,Lead character,Lead,1
+9853,16566,Presian Weyer,Supporting character,Supporting,2
+10022,16365,Amir Biçer,Lead character,Lead,1
+10023,16365,Daniel Barnes,Supporting character,Supporting,2
+10053,15996,Henryk Matthews,Lead character,Lead,1
+10054,15996,Tarak Cossette,Supporting character,Supporting,2
+10055,15996,Doctor,Minor character,Minor,3
+10056,15996,Rubén Lucero,Minor character,Minor,3
+10145,14623,William Borgatin,Lead character,Lead,1
+10146,14623,Gábor Müller,Lead character,Lead,1
+10147,14623,Christian Potter,Supporting character,Supporting,2
+10148,14623,Charo Smith,Supporting character,Supporting,2
+10149,14623,Teacher,Minor character,Minor,3
+10191,16282,Luke Verbruggen,Lead character,Lead,1
+10192,16282,Orson Matsiko,Supporting character,Supporting,2
+10280,15550,Baby Urbán,Lead character,Lead,1
+10281,15550,Jesús Chakraborty,Supporting character,Supporting,2
+10305,15949,Rebecca Doyle,Lead character,Lead,1
+10306,15949,Kim Revun,Lead character,Lead,1
+10307,15949,Rob Corona,Supporting character,Supporting,2
+10308,15949,Stephen Sharfi,Supporting character,Supporting,2
+10309,15949,Reporter,Minor character,Minor,3
+10310,15949,Landlord,Minor character,Minor,3
+10319,16142,Rilo Youn,Lead character,Lead,1
+10320,16142,Meika Miller,Lead character,Lead,1
+10321,16142,Stephanie Sarovs,Lead character,Lead,1
+10322,16142,Maud Aydin,Supporting character,Supporting,2
+10323,16142,Gorcin Ndjolo,Supporting character,Supporting,2
+10324,16142,Caroline Goggio,Supporting character,Supporting,2
+10325,16142,Adam Direk,Supporting character,Supporting,2
+10326,16142,Clint Solution,Supporting character,Supporting,2
+10327,16142,Chris Lace,Supporting character,Supporting,2
+10328,16142,Wendy Melton,Cameo character,Cameo,4
+10329,16142,Badong Tomchak,Cameo character,Cameo,4
+10330,16142,Gökhan Raffaghello,Cameo character,Cameo,4
+10331,16142,Mechanic,Minor character,Minor,3
+10332,16142,Clerk,Minor character,Minor,3
+10333,16142,Taxi Driver,Minor character,Minor,3
+10334,16142,Bartender,Minor character,Minor,3
+10335,13123,Dagmar Chie,Lead character,Lead,1
+10336,13123,Griffin Brailey,Supporting character,Supporting,2
+10337,13123,Receptionist,Minor character,Minor,3
+10413,16190,Nadezhda Ovídio,Lead character,Lead,1
+10414,16190,James Monte,Supporting character,Supporting,2
+10415,16190,Clerk,Minor character,Minor,3
+10416,16190,Taxi Driver,Minor character,Minor,3
+10417,16396,Lin Talib,Lead character,Lead,1
+10418,16396,Kjetil Nikhil,Supporting character,Supporting,2
+10431,14885,Pradeep Long,Lead character,Lead,1
+10432,14885,Caleigh Williamson,Supporting character,Supporting,2
+10433,14885,Lin Sanchez,Minor character,Minor,3
+10442,15513,Paulina Väänänen,Lead character,Lead,1
+10443,15513,Carsten Terlecki,Supporting character,Supporting,2
+10444,15513,Maximiliano Santiago,Minor character,Minor,3
+10445,12551,Stephen Mirskiy,Lead character,Lead,1
+10446,12551,Bram Holt,Supporting character,Supporting,2
+10447,12551,Connie Hernández,Minor character,Minor,3
+10448,12551,Avonie Williams,Minor character,Minor,3
+10464,16804,Matt Lesou,Lead character,Lead,1
+10465,16804,Tommye Lecaros,Lead character,Lead,1
+10466,16804,David Schorlau,Supporting character,Supporting,2
+10467,16804,Aleksei Seymour,Supporting character,Supporting,2
+10468,16804,Neighbour,Minor character,Minor,3
+10469,16804,Sharon Starkweather,Minor character,Minor,3
+10556,11817,Fanette Gary,Lead character,Lead,1
+10557,11817,Fleetwood Elliot,Supporting character,Supporting,2
+10753,16791,Cedric Svanell,Lead character,Lead,1
+10754,16791,Charles Brown,Lead character,Lead,1
+10755,16791,Elijah Phillips,Lead character,Lead,1
+10756,16791,Max Mohd,Supporting character,Supporting,2
+10757,16791,Haeyeon Cruz,Supporting character,Supporting,2
+10758,16791,Renate Crenshaw,Supporting character,Supporting,2
+10759,16791,Mohammad Carr,Supporting character,Supporting,2
+10760,16791,Mike Bulls,Supporting character,Supporting,2
+10761,16791,Waiter,Minor character,Minor,3
+10762,16791,Doctor,Minor character,Minor,3
+10763,16791,Billy Mihalka,Minor character,Minor,3
+10764,16791,Jeet Szawlewicz,Minor character,Minor,3
+10765,16791,Mechanic,Minor character,Minor,3
+10766,16791,Waiter,Minor character,Minor,3
+10907,15913,Ghislaine Baisley,Lead character,Lead,1
+10908,15913,Antonio Singer,Supporting character,Supporting,2
+10909,15913,Leonor Kartashyov,Minor character,Minor,3
+10910,15618,Shannon Delalande,Lead character,Lead,1
+10911,15618,James Werkzz,Lead character,Lead,1
+10912,15618,Marlon Ferretti,Supporting character,Supporting,2
+10913,15618,Jonathan Reed,Supporting character,Supporting,2
+10914,15618,Michael Word,Minor character,Minor,3
+10915,16218,Bob Demko,Lead character,Lead,1
+10916,16218,Nitzan Soares,Supporting character,Supporting,2
+10925,16407,Petros Hollinger,Lead character,Lead,1
+10926,16407,Andersen Forbes,Supporting character,Supporting,2
+10927,16166,Kolerika Pashin,Lead character,Lead,1
+10928,16166,Otto Greyling,Lead character,Lead,1
+10929,16166,Rai Keustermans,Supporting character,Supporting,2
+10930,16166,Bertrand Ismatov,Supporting character,Supporting,2
+10931,16166,Reporter,Minor character,Minor,3
+10935,15466,Annamarie Flatt,Lead character,Lead,1
+10936,15466,Mathew Ferretti,Supporting character,Supporting,2
+10937,15466,Shopkeeper,Minor character,Minor,3
+11009,15894,Edgar Zaytseva,Lead character,Lead,1
+11010,15894,João Taimitarha,Supporting character,Supporting,2
+11011,15894,Gord Slomkowski,Background character,Background,5
+11033,16434,Bert Khoddami,Lead character,Lead,1
+11034,16434,Janis Bacelar,Supporting character,Supporting,2
+11035,16434,Passenger,Background character,Background,5
+11036,16434,Courier,Minor character,Minor,3
+11088,16145,Paul Wizmane,Lead character,Lead,1
+11089,16145,Raphaël Depauli,Lead character,Lead,1
+11090,16145,Wolf Bailey,Supporting character,Supporting,2
+11091,16145,Lena Gilbert,Supporting character,Supporting,2
+11092,16145,Landlord,Minor character,Minor,3
+11093,16308,Dan Smith,Lead character,Lead,1
+11094,16308,Sharon Cullen,Supporting character,Supporting,2
+11124,15563,Corey Fortuna,Lead character,Lead,1
+11125,15563,Emma Schroerlucke,Supporting character,Supporting,2
+11126,15563,Clerk,Minor character,Minor,3
+11164,17277,Nikki Coulson,Lead character,Lead,1
+11165,17277,Camille Filazi,Lead character,Lead,1
+11166,17277,John Pemberton,Lead character,Lead,1
+11167,17277,Jakov Fishwick,Supporting character,Supporting,2
+11168,17277,Ryan Pilskog,Supporting character,Supporting,2
+11169,17277,Aishwarya Bernús,Supporting character,Supporting,2
+11170,17277,Michelle Parker,Supporting character,Supporting,2
+11171,17277,Steve Leon,Supporting character,Supporting,2
+11172,17277,Wolfgang McInnis,Supporting character,Supporting,2
+11173,17277,Gorcin Thomé,Supporting character,Supporting,2
+11174,17277,Kieran Gray,Supporting character,Supporting,2
+11175,17277,Sophie Swigg,Minor character,Minor,3
+11176,17277,Conrad Kisaragi,Minor character,Minor,3
+11177,17277,Alex Blumenschein,Minor character,Minor,3
+11178,17277,Walang Grace,Minor character,Minor,3
+11179,17277,Austin Delalande,Cameo character,Cameo,4
+11180,17277,Mofakhkharul Lee,Cameo character,Cameo,4
+11181,17277,Police Officer,Minor character,Minor,3
+11182,17277,Jim Purkait,Minor character,Minor,3
+11183,17277,Beauty Vishwakarma,Minor character,Minor,3
+11184,17277,Khaleel Sauls,Cameo character,Cameo,4
+11185,17277,Shina Gonzalez,Cameo character,Cameo,4
+11186,16430,Rob Petrov,Lead character,Lead,1
+11187,16430,Ted Thompson,Supporting character,Supporting,2
+11188,16430,Neighbour,Minor character,Minor,3
+11189,16430,Nurse,Minor character,Minor,3
+11200,16802,Gino Isaac,Lead character,Lead,1
+11201,16802,Dolly Rodríguez,Lead character,Lead,1
+11202,16802,Christina Castaldo,Supporting character,Supporting,2
+11203,16802,Artur Ellaway,Supporting character,Supporting,2
+11204,16802,Avani Kinoshita,Supporting character,Supporting,2
+11205,16802,Daniela Hashimoto,Supporting character,Supporting,2
+11206,16802,Nurse,Minor character,Minor,3
+11207,16802,Hans Cohn,Cameo character,Cameo,4
+11208,16802,Clerk,Minor character,Minor,3
+11209,16802,Nurse,Minor character,Minor,3
+11278,16338,Xin Butti,Lead character,Lead,1
+11279,16338,Dennis Thompson,Supporting character,Supporting,2
+11280,16338,Corinne Crawford,Background character,Background,5
+11439,16994,Gaiming Garibi,Lead character,Lead,1
+11440,16994,Lara Walley,Supporting character,Supporting,2
+11441,16994,Taxi Driver,Minor character,Minor,3
+11442,16994,Teacher,Minor character,Minor,3
+11450,16066,Jorge Ayotte,Lead character,Lead,1
+11451,16066,Kassoum Visconti,Supporting character,Supporting,2
+11452,16066,Neighbour,Minor character,Minor,3
+11453,16066,Damian Mathison,Cameo character,Cameo,4
+11524,17017,Saskia Narsima,Lead character,Lead,1
+11525,17017,Mohamad Hasebe,Supporting character,Supporting,2
+11526,17017,Mohammad Bagana,Minor character,Minor,3
+11545,16552,Hongxu Peters,Lead character,Lead,1
+11546,16552,Aiden Artes,Supporting character,Supporting,2
+11547,16552,Bucks Hashimoto,Minor character,Minor,3
+11622,16922,Phillip Leon,Lead character,Lead,1
+11623,16922,Roxane Smith,Lead character,Lead,1
+11624,16922,James Tan,Supporting character,Supporting,2
+11625,16922,Esther Draghici,Supporting character,Supporting,2
+11626,16922,Will Baggett,Cameo character,Cameo,4
+11758,16459,Mojeed Borri,Lead character,Lead,1
+11759,16459,Keijo Valzenn,Supporting character,Supporting,2
+11760,16459,Jose Avery,Background character,Background,5
+11761,16459,Alain Gorman,Minor character,Minor,3
+11762,16703,Max Abbasova,Lead character,Lead,1
+11763,16703,Gaëlle Ray,Lead character,Lead,1
+11764,16703,Ahmed Mirskiy,Supporting character,Supporting,2
+11765,16703,Philip Tobon,Supporting character,Supporting,2
+11766,16703,Waiter,Minor character,Minor,3
+11767,16703,Maree Washington,Minor character,Minor,3
+11837,16535,Peri Beaudin,Lead character,Lead,1
+11838,16535,Sagar Jones,Lead character,Lead,1
+11839,16535,Alison Fifield,Supporting character,Supporting,2
+11840,16535,Sabrina Santos,Supporting character,Supporting,2
+11841,16535,Suman Perry,Cameo character,Cameo,4
+11842,16535,Maguni Hasebe,Cameo character,Cameo,4
+11890,16958,Germán Stratton,Lead character,Lead,1
+11891,16958,William Vishwakarma,Supporting character,Supporting,2
+11898,17078,Hana Fischer,Lead character,Lead,1
+11899,17078,Jackson Griffith,Lead character,Lead,1
+11900,17078,Rocco Nenu,Supporting character,Supporting,2
+11901,17078,Britney Urbán,Supporting character,Supporting,2
+11902,17078,Marco Martin,Supporting character,Supporting,2
+11903,17078,William Febbo,Minor character,Minor,3
+11904,17078,Luca Prasad,Minor character,Minor,3
+11905,17078,Nima Nitchals,Minor character,Minor,3
+11918,16729,Tony Cisco,Lead character,Lead,1
+11919,16729,Alexander Gheorghiu,Supporting character,Supporting,2
+11920,16729,David Rimler,Minor character,Minor,3
+11950,17272,Shane Mark,Lead character,Lead,1
+11951,17272,Adam Praveen,Supporting character,Supporting,2
+11974,16521,Deborah Rosini,Lead character,Lead,1
+11975,16521,Josh Daniel,Lead character,Lead,1
+11976,16521,Sydnee Verowa,Supporting character,Supporting,2
+11977,16521,Red Brockston,Supporting character,Supporting,2
+11978,16521,Bruno Adams,Supporting character,Supporting,2
+11979,16521,Shopkeeper,Minor character,Minor,3
+11980,16521,Receptionist,Minor character,Minor,3
+11981,16521,Receptionist,Minor character,Minor,3
+11985,17013,Carlo Edelya,Lead character,Lead,1
+11986,17013,Raphaël Podhladnova,Lead character,Lead,1
+11987,17013,Ismail Silber,Supporting character,Supporting,2
+11988,17013,Victor Gould,Supporting character,Supporting,2
+11989,17013,Terry Palaiologos,Cameo character,Cameo,4
+11990,17013,Shopkeeper,Minor character,Minor,3
+12053,16433,Current Gietzen,Lead character,Lead,1
+12054,16433,John Mangalindan,Lead character,Lead,1
+12055,16433,Jorge Warshal,Supporting character,Supporting,2
+12056,16433,Thomas Cossette,Supporting character,Supporting,2
+12057,16433,Qiana Ursachi,Minor character,Minor,3
+12510,17912,Sarah Marris,Lead character,Lead,1
+12511,17912,Julia Krähemann,Supporting character,Supporting,2
+12512,17912,Ronald Tinancourt,Minor character,Minor,3
+12513,17912,Zoran Grädler,Minor character,Minor,3
+12594,17186,Natalie Theuma,Lead character,Lead,1
+12595,17186,Simone Veronese,Supporting character,Supporting,2
+12596,17186,Priest,Minor character,Minor,3
+12597,17186,Shopkeeper,Minor character,Minor,3
+12674,15902,Lisa Burnett,Lead character,Lead,1
+12675,15902,Mike Wicki,Supporting character,Supporting,2
+12676,15902,Cristina Fitzsimmons,Cameo character,Cameo,4
+12677,15902,Shellie Fuentes,Minor character,Minor,3
+12678,16432,Ole Charon,Lead character,Lead,1
+12679,16432,Sanya Ansari,Supporting character,Supporting,2
+12680,16432,Fabrice Stõhr,Cameo character,Cameo,4
+12681,16432,Jose Kumi,Minor character,Minor,3
+12981,16490,Robert Zhang,Lead character,Lead,1
+12982,16490,Tobias Welch,Supporting character,Supporting,2
+12983,16490,Luke Karunaratne,Minor character,Minor,3
+12984,16490,Marta Gietzen,Background character,Background,5
+12993,16943,Alok Matsui,Lead character,Lead,1
+12994,16943,Qiana Hirota,Supporting character,Supporting,2
+13132,17444,Gabe Durčáková,Lead character,Lead,1
+13133,17444,Johnny Lab,Lead character,Lead,1
+13134,17444,Rashad King,Supporting character,Supporting,2
+13135,17444,Franek Bailey,Supporting character,Supporting,2
+13136,17444,Clerk,Minor character,Minor,3
+13137,17444,Holly Steingraber,Cameo character,Cameo,4
+13193,17474,Surendran Earner,Lead character,Lead,1
+13194,17474,Saranya Blanc,Supporting character,Supporting,2
+13195,17474,Donovan Apfelbaum,Minor character,Minor,3
+13196,17474,Summer Simard,Minor character,Minor,3
+13197,15741,Chinedu Marosi,Lead character,Lead,1
+13198,15741,Sebastian Praveen,Lead character,Lead,1
+13199,15741,Wilford Potter,Supporting character,Supporting,2
+13200,15741,Fausto Maggard,Supporting character,Supporting,2
+13201,15741,Doctor,Minor character,Minor,3
+13209,16811,Katrina Vyshnevska,Lead character,Lead,1
+13210,16811,Alex Verbruggen,Lead character,Lead,1
+13211,16811,Bruce Ula,Lead character,Lead,1
+13212,16811,Michael McClintock,Supporting character,Supporting,2
+13213,16811,Jakub Laloux,Supporting character,Supporting,2
+13214,16811,Ashley Hudson,Supporting character,Supporting,2
+13215,16811,Graham Mathison,Supporting character,Supporting,2
+13216,16811,Drew Dias,Supporting character,Supporting,2
+13217,16811,Tarak Maniar,Supporting character,Supporting,2
+13218,16811,Keith Orma,Minor character,Minor,3
+13219,16811,Waiter,Minor character,Minor,3
+13220,16811,Neighbour,Minor character,Minor,3
+13221,16811,Csenge Wirths,Minor character,Minor,3
+13222,16811,Lian Bennett,Cameo character,Cameo,4
+13223,16811,Durgacharan Rodriguez,Minor character,Minor,3
+13224,16811,Bartender,Minor character,Minor,3
+13225,16811,Hayley Skonecki,Minor character,Minor,3
+13268,17301,Andrea Schombing,Lead character,Lead,1
+13269,17301,Daniel Jagadeesh,Lead character,Lead,1
+13270,17301,Palmira Kendel,Supporting character,Supporting,2
+13271,17301,Patrick Kim,Supporting character,Supporting,2
+13272,17301,Reporter,Minor character,Minor,3
+13273,17301,Receptionist,Minor character,Minor,3
+13299,16606,Tom Antonio,Lead character,Lead,1
+13300,16606,Bina Massé,Lead character,Lead,1
+13301,16606,Anita Velez,Lead character,Lead,1
+13302,16606,Susie Lochtenberg,Supporting character,Supporting,2
+13303,16606,Poul Berisha,Supporting character,Supporting,2
+13304,16606,Malavika Shea,Supporting character,Supporting,2
+13305,16606,Sylvia Duchêne,Supporting character,Supporting,2
+13306,16606,Simon Jones,Supporting character,Supporting,2
+13307,16606,Timothy Zito,Supporting character,Supporting,2
+13308,16606,Rudolf Guest,Cameo character,Cameo,4
+13309,16606,Alexander Anderson,Cameo character,Cameo,4
+13310,16606,Nurse,Minor character,Minor,3
+13311,16606,Waiter,Minor character,Minor,3
+13312,16606,Carol Mie,Minor character,Minor,3
+13313,16606,Mitch Madge,Background character,Background,5
+13314,16606,Nick Parker,Minor character,Minor,3
+13315,16606,Courier,Minor character,Minor,3
+13322,14714,Fahriye Hirota,Lead character,Lead,1
+13323,14714,Martine Kartashyov,Lead character,Lead,1
+13324,14714,Akaysha Loughlin,Supporting character,Supporting,2
+13325,14714,Jelani Bernard,Supporting character,Supporting,2
+13326,14714,Novia Murphy,Minor character,Minor,3
+13327,14714,Allan Monaca,Minor character,Minor,3
+13332,17113,Ara Hason,Lead character,Lead,1
+13333,17113,Zack Cho,Supporting character,Supporting,2
+13334,17113,Doctor,Background character,Background,5
+13366,16723,Wes Cleary,Lead character,Lead,1
+13367,16723,John Jackson,Lead character,Lead,1
+13368,16723,Dimitra Forbes,Supporting character,Supporting,2
+13369,16723,Gisela Salinas,Supporting character,Supporting,2
+13370,16723,Jay Kelly,Supporting character,Supporting,2
+13371,16723,Baby Spagnolo,Supporting character,Supporting,2
+13372,16723,Tom Lord,Minor character,Minor,3
+13373,16723,Magnus Rivera,Cameo character,Cameo,4
+13374,16723,Leanue Wieselthier,Minor character,Minor,3
+13375,16723,Clerk,Minor character,Minor,3
+13591,17932,Karim McKee,Lead character,Lead,1
+13592,17932,Shelley Brown,Lead character,Lead,1
+13593,17932,Jessica Corbett,Supporting character,Supporting,2
+13594,17932,Marc Ponce,Supporting character,Supporting,2
+13595,17932,Alen Soldheim,Supporting character,Supporting,2
+13596,17932,Amanda Tharani,Cameo character,Cameo,4
+13597,17932,Reporter,Minor character,Minor,3
+13598,17932,Danie Kelly,Cameo character,Cameo,4
+13599,17932,Taxi Driver,Minor character,Minor,3
+13616,17607,Roman Hendons,Lead character,Lead,1
+13617,17607,Sébastien Misha,Lead character,Lead,1
+13618,17607,Balto Zahid,Supporting character,Supporting,2
+13619,17607,Lysiane Singery,Supporting character,Supporting,2
+13620,17607,Greg Ackerman,Supporting character,Supporting,2
+13621,17607,Shibani Fung,Background character,Background,5
+13622,17607,Munshi Fuentes,Minor character,Minor,3
+13623,17607,Ella Carranza,Minor character,Minor,3
+13624,17607,Passenger,Minor character,Minor,3
+13743,16644,Udin Jannus,Lead character,Lead,1
+13744,16644,Jorge Lai,Supporting character,Supporting,2
+13745,16644,Alex Yosefian,Minor character,Minor,3
+13746,16644,Waiter,Minor character,Minor,3
+13829,16113,Constant Kwan,Lead character,Lead,1
+13830,16113,Theo Charon,Supporting character,Supporting,2
+13831,16113,Ankita McGee,Background character,Background,5
+13832,16113,Neighbour,Minor character,Minor,3
+14128,17643,Martín Rasheed,Lead character,Lead,1
+14129,17643,Alberto Eagan,Lead character,Lead,1
+14130,17643,Alison Foshay,Supporting character,Supporting,2
+14131,17643,Anil Corrigan,Supporting character,Supporting,2
+14132,17643,Victor Rykov,Cameo character,Cameo,4
+14133,17643,Gavin UbiFire,Background character,Background,5
+14144,17322,Szilveszter Dechant,Lead character,Lead,1
+14145,17322,Mark Horsey,Supporting character,Supporting,2
+14146,17322,Landlord,Minor character,Minor,3
+14264,18533,Alejandro Eberhard,Lead character,Lead,1
+14265,18533,Manon Gray,Lead character,Lead,1
+14266,18533,Arturo Baldwin,Supporting character,Supporting,2
+14267,18533,Germán Steensen,Supporting character,Supporting,2
+14268,18533,Shelly Laffitte,Supporting character,Supporting,2
+14269,18533,Jimmy Lace,Supporting character,Supporting,2
+14270,18533,Kaan Lessner,Cameo character,Cameo,4
+14271,18533,Neighbour,Minor character,Minor,3
+14272,18533,Courier,Minor character,Minor,3
+14273,18533,Jerry Cortés,Cameo character,Cameo,4
+14274,18533,Sonny James,Cameo character,Cameo,4
+14275,16580,Mariana Rashmi,Lead character,Lead,1
+14276,16580,Karema Manuels,Supporting character,Supporting,2
+14277,16580,Teacher,Minor character,Minor,3
+14345,16232,Bel Roberson,Lead character,Lead,1
+14346,16232,Jatin Schroerlucke,Supporting character,Supporting,2
+14347,16232,Passenger,Background character,Background,5
+14391,17870,Brandon Monaghan,Lead character,Lead,1
+14392,17870,Sebastian Lénárd,Supporting character,Supporting,2
+14507,19178,Jimmy Gregor,Lead character,Lead,1
+14508,19178,Daniel Boye,Lead character,Lead,1
+14509,19178,Giuseppe Eby,Lead character,Lead,1
+14510,19178,Sadie Kim,Supporting character,Supporting,2
+14511,19178,Tiger Brown,Supporting character,Supporting,2
+14512,19178,Mike Rader,Supporting character,Supporting,2
+14513,19178,John Kulish,Supporting character,Supporting,2
+14514,19178,Anita Tanase,Minor character,Minor,3
+14515,19178,Waiter,Background character,Background,5
+14516,19178,Teacher,Minor character,Minor,3
+14517,19178,Teacher,Minor character,Minor,3
+14518,19178,Landlord,Minor character,Minor,3
+14660,15212,Anton Newman,Lead character,Lead,1
+14661,15212,Rick Diaz,Supporting character,Supporting,2
+14662,15212,Clerk,Minor character,Minor,3
+14663,15212,Passenger,Minor character,Minor,3
+14693,18155,Jackson Negative,Lead character,Lead,1
+14694,18155,Jeremiah Hauser,Lead character,Lead,1
+14695,18155,Hélène Giordano,Supporting character,Supporting,2
+14696,18155,Meenakshi Martín,Supporting character,Supporting,2
+14697,18155,Passenger,Minor character,Minor,3
+14698,18155,Minako Hernandez,Minor character,Minor,3
+14833,17324,Vladimir Anand,Lead character,Lead,1
+14834,17324,Leonor Charrier,Supporting character,Supporting,2
+14835,17324,Fuminori Mariano,Minor character,Minor,3
+14836,17324,Emma Wheaton,Minor character,Minor,3
+14953,15585,Julio Jimenez,Lead character,Lead,1
+14954,15585,Marvin Rosato,Lead character,Lead,1
+14955,15585,Magdalena Staab,Lead character,Lead,1
+14956,15585,Rameshan Ahmadpour,Supporting character,Supporting,2
+14957,15585,Elijah Easterday,Supporting character,Supporting,2
+14958,15585,Paul Monaghan,Supporting character,Supporting,2
+14959,15585,Lin Harvey,Supporting character,Supporting,2
+14960,15585,Julie Castillo,Supporting character,Supporting,2
+14961,15585,Kaylee McDonough,Supporting character,Supporting,2
+14962,15585,Eli Lefort,Minor character,Minor,3
+14963,15585,Daniel Henderson,Minor character,Minor,3
+14964,15585,Angel Jamula,Cameo character,Cameo,4
+14965,15585,James Arévalo,Minor character,Minor,3
+14966,15585,Alexandre Bacelar,Minor character,Minor,3
+14967,15585,Guard,Minor character,Minor,3
+14968,15585,Zeinab Glogowski,Minor character,Minor,3
+15052,16740,Talmiz Mack,Lead character,Lead,1
+15053,16740,Lisa Hallahan,Supporting character,Supporting,2
+15054,16740,Stefano Kamil,Background character,Background,5
+15084,17681,James Gninkeu,Lead character,Lead,1
+15085,17681,Holly White,Supporting character,Supporting,2
+15086,17681,Landlord,Minor character,Minor,3
+15104,16589,Don Delacollette,Lead character,Lead,1
+15105,16589,Sandra Zaytseva,Supporting character,Supporting,2
+15106,17293,Thomas Bradley,Lead character,Lead,1
+15107,17293,Jaisky Ishikawa,Supporting character,Supporting,2
+15212,9299,Apurva Granger,Lead character,Lead,1
+15213,9299,Nadezhda Green,Lead character,Lead,1
+15214,9299,Anthony Mayama,Supporting character,Supporting,2
+15215,9299,Bernard Vaughan,Supporting character,Supporting,2
+15216,9299,Máté Parkaev,Cameo character,Cameo,4
+15311,18265,Isabelle Manganaro,Lead character,Lead,1
+15312,18265,Mariana Combustal,Lead character,Lead,1
+15313,18265,Ronnie Sanders,Supporting character,Supporting,2
+15314,18265,Max Biskupska,Supporting character,Supporting,2
+15315,18265,Donna Roussin,Supporting character,Supporting,2
+15316,18265,Gregorio Bohannon,Supporting character,Supporting,2
+15317,18265,Priest,Minor character,Minor,3
+15318,18265,Bartender,Background character,Background,5
+15319,18265,Clerk,Background character,Background,5
+15320,18265,Katie Colmaine,Minor character,Minor,3
+15334,17466,Aishwarya Bascı,Lead character,Lead,1
+15335,17466,Jesse Hallahan,Supporting character,Supporting,2
+15373,16340,Jason Hooks,Lead character,Lead,1
+15374,16340,Kevin Montesinos,Supporting character,Supporting,2
+15375,16340,Sky Wagner,Cameo character,Cameo,4
+15524,17465,Tanner Ciannavei,Lead character,Lead,1
+15525,17465,Cory Qiang,Lead character,Lead,1
+15526,17465,Monica Brannasky,Supporting character,Supporting,2
+15527,17465,Felix Semm,Supporting character,Supporting,2
+15528,17465,Newton Abbas,Minor character,Minor,3
+15719,17457,Nadezda Tal,Lead character,Lead,1
+15720,17457,Damian Ambrosi,Supporting character,Supporting,2
+15721,17457,Neighbour,Minor character,Minor,3
+15722,17457,Shôta Hauser,Minor character,Minor,3
+15723,17931,Jim Bachate,Lead character,Lead,1
+15724,17931,René Limonta,Lead character,Lead,1
+15725,17931,Robert Coleman,Supporting character,Supporting,2
+15726,17931,Ulf Shibaki,Supporting character,Supporting,2
+15727,17931,Neighbour,Minor character,Minor,3
+15728,17931,Receptionist,Minor character,Minor,3
+15778,9701,Chris Simmons,Lead character,Lead,1
+15779,9701,John Licio,Lead character,Lead,1
+15780,9701,JaeMin André,Lead character,Lead,1
+15781,9701,Akira Viravaux,Supporting character,Supporting,2
+15782,9701,Danie Herbrich,Supporting character,Supporting,2
+15783,9701,Senija Nycander,Supporting character,Supporting,2
+15784,9701,Bente Levy,Supporting character,Supporting,2
+15785,9701,Anita Sepúlveda,Supporting character,Supporting,2
+15786,9701,Violeta Rodríguez,Supporting character,Supporting,2
+15787,9701,Leanne Fleischer,Minor character,Minor,3
+15788,9701,Doctor,Minor character,Minor,3
+15789,9701,Cristine Podhladnova,Cameo character,Cameo,4
+15790,9701,Courier,Minor character,Minor,3
+15791,9701,Alejandro Becker,Minor character,Minor,3
+15792,9701,Tom Pawar,Cameo character,Cameo,4
+15793,9701,Tomas McTavish,Minor character,Minor,3
+15794,9701,Ted Luis,Minor character,Minor,3
+15795,9701,Ron Grodecki,Minor character,Minor,3
+15823,16162,Steven Heath,Lead character,Lead,1
+15824,16162,Lori Cohl,Lead character,Lead,1
+15825,16162,Natalie Turner,Lead character,Lead,1
+15826,16162,Yen Eberhard,Supporting character,Supporting,2
+15827,16162,Sharri Meza,Supporting character,Supporting,2
+15828,16162,Amari Mitchell,Supporting character,Supporting,2
+15829,16162,Isaac Vecchio,Supporting character,Supporting,2
+15830,16162,Martin Patissier,Supporting character,Supporting,2
+15831,16162,Olivier Mason,Supporting character,Supporting,2
+15832,16162,Françoise Trabulo,Supporting character,Supporting,2
+15833,16162,Bilal Handler,Supporting character,Supporting,2
+15834,16162,Patrice Krstonosic,Supporting character,Supporting,2
+15835,16162,Shopkeeper,Minor character,Minor,3
+15836,16162,Romeo Castellano,Background character,Background,5
+15837,16162,Lotta Jarcevski,Cameo character,Cameo,4
+15838,16162,Courier,Minor character,Minor,3
+15839,16162,Clerk,Minor character,Minor,3
+15840,16162,Landlord,Minor character,Minor,3
+15841,16162,Bartender,Background character,Background,5
+15842,16162,José Stern,Minor character,Minor,3
+15843,16162,Waiter,Minor character,Minor,3
+15844,16162,Shopkeeper,Minor character,Minor,3
+15845,16162,LaMont Granato,Minor character,Minor,3
+15846,16162,Luca Ventura,Cameo character,Cameo,4
+15847,16162,Yoriko Roberts,Cameo character,Cameo,4
+15861,17872,Peter DiLuigi,Lead character,Lead,1
+15862,17872,Marcin Anderson,Lead character,Lead,1
+15863,17872,Connie Mangalindan,Supporting character,Supporting,2
+15864,17872,Rosalien Artes,Supporting character,Supporting,2
+15865,17872,Johanna Anderson,Cameo character,Cameo,4
+15866,17872,Landlord,Minor character,Minor,3
+15871,19059,Maurice Ojei,Lead character,Lead,1
+15872,19059,Jesper Francois,Supporting character,Supporting,2
+15902,18316,Andrzej Reckoning,Lead character,Lead,1
+15903,18316,Dieter Altera,Supporting character,Supporting,2
+15904,18316,Eli Johnstone,Minor character,Minor,3
+15950,17472,Marko Schaffstein,Lead character,Lead,1
+15951,17472,Steve Paridokht,Lead character,Lead,1
+15952,17472,Tomas Dayo,Supporting character,Supporting,2
+15953,17472,Zarko Maka,Supporting character,Supporting,2
+15954,17472,Phyll Tostivint,Supporting character,Supporting,2
+15955,17472,Police Officer,Minor character,Minor,3
+15956,17472,Alessia Meyer,Background character,Background,5
+15957,17472,Taxi Driver,Minor character,Minor,3
+16069,19176,Jorge Ozdoba,Lead character,Lead,1
+16070,19176,Marialuce Boyko,Supporting character,Supporting,2
+16071,17808,Steven Tretyakova,Lead character,Lead,1
+16072,17808,Anthony Shibaki,Supporting character,Supporting,2
+16073,17808,Vincent Simard,Minor character,Minor,3
+16074,16947,Jackson Dorian,Lead character,Lead,1
+16075,16947,Magnus Scheinman,Supporting character,Supporting,2
+16076,16947,Roberto Czok,Minor character,Minor,3
+16077,16947,Nial Downie,Minor character,Minor,3
+16164,18096,Thomas Yosefian,Lead character,Lead,1
+16165,18096,Ronghua Hoffmann,Supporting character,Supporting,2
+16166,18096,Teacher,Minor character,Minor,3
+16167,18096,Dmitry Wolfinsohn,Cameo character,Cameo,4
+16282,17772,Antonio Barbar,Lead character,Lead,1
+16283,17772,Antonio Kwan,Supporting character,Supporting,2
+16284,17772,Reporter,Minor character,Minor,3
+16402,18868,Ken Räsänen,Lead character,Lead,1
+16403,18868,Matthew Lavrenenko,Lead character,Lead,1
+16404,18868,Tomas Robertson,Supporting character,Supporting,2
+16405,18868,Tony Solé,Supporting character,Supporting,2
+16406,18868,Nurse,Minor character,Minor,3
+16407,18868,William Bagnall,Minor character,Minor,3
+16466,19295,Benji Høegh,Lead character,Lead,1
+16467,19295,Eduardo Hasegawa,Supporting character,Supporting,2
+16468,19295,Teacher,Minor character,Minor,3
+16487,18261,Dmitriy Fitzhenry,Lead character,Lead,1
+16488,18261,Curtis Lewis,Lead character,Lead,1
+16489,18261,Elizabeth Monteiro,Supporting character,Supporting,2
+16490,18261,Simone Williams,Supporting character,Supporting,2
+16491,18261,Dmitriy Foster,Supporting character,Supporting,2
+16492,18261,Waiter,Minor character,Minor,3
+16493,18261,Patrícia Knipp,Minor character,Minor,3
+16494,18261,Guard,Minor character,Minor,3
+16495,18261,Robert Taylor,Cameo character,Cameo,4
+16519,18000,Peter Czok,Lead character,Lead,1
+16520,18000,Nathan Courchesne,Lead character,Lead,1
+16521,18000,Eoin Knipp,Supporting character,Supporting,2
+16522,18000,Isabelle Dicatana,Supporting character,Supporting,2
+16523,18000,Courier,Minor character,Minor,3
+16533,18877,Andreas Singh,Lead character,Lead,1
+16534,18877,Waleerat Kaya,Lead character,Lead,1
+16535,18877,Mark Bodereau,Supporting character,Supporting,2
+16536,18877,Sebastian Amarù,Supporting character,Supporting,2
+16537,18877,Pavan Santiago,Cameo character,Cameo,4
+16538,18877,Courier,Minor character,Minor,3
+16559,18443,Billy Michaels,Lead character,Lead,1
+16560,18443,Luca Boda,Supporting character,Supporting,2
+16561,18443,Guard,Minor character,Minor,3
+16562,18443,Bruce Sarkar,Background character,Background,5
+16603,15874,David Diaz,Lead character,Lead,1
+16604,15874,Agasti Motion,Supporting character,Supporting,2
+16605,15874,Scott Borgatin,Minor character,Minor,3
+16606,15874,Guard,Minor character,Minor,3
+16660,19586,Allan Howitt,Lead character,Lead,1
+16661,19586,Nick Sarovs,Supporting character,Supporting,2
+16662,19586,Police Officer,Minor character,Minor,3
+16663,19586,Marko Tibaldi,Background character,Background,5
+16720,16718,Lara Sångberg,Lead character,Lead,1
+16721,16718,Brett Greco,Lead character,Lead,1
+16722,16718,Jeremy Polo,Lead character,Lead,1
+16723,16718,Theo Melton,Supporting character,Supporting,2
+16724,16718,Andris Underwood,Supporting character,Supporting,2
+16725,16718,Vivian Mie,Supporting character,Supporting,2
+16726,16718,Felicity Ménard,Supporting character,Supporting,2
+16727,16718,David Carter,Cameo character,Cameo,4
+16728,16718,Landlord,Minor character,Minor,3
+16729,16718,Tom Clara,Minor character,Minor,3
+16730,16718,Marcelo McClintock,Minor character,Minor,3
+16731,16718,Christopher Williams,Cameo character,Cameo,4
+16741,17764,Diego Monteiro,Lead character,Lead,1
+16742,17764,Dolores Valyaev,Supporting character,Supporting,2
+16743,17764,Chris Cichelli,Minor character,Minor,3
+16870,18592,Jamal Bieber,Lead character,Lead,1
+16871,18592,Yanqing Payán,Lead character,Lead,1
+16872,18592,Rachel Clark,Supporting character,Supporting,2
+16873,18592,Jiangfeng Nasserdeen,Supporting character,Supporting,2
+16874,18592,Omary Parra,Minor character,Minor,3
+16875,18592,Cecilia Regimbal,Minor character,Minor,3
+16923,18835,Miren Kempf,Lead character,Lead,1
+16924,18835,Gerry Welch,Lead character,Lead,1
+16925,18835,David Dimitrova,Supporting character,Supporting,2
+16926,18835,Pedro Daigle,Supporting character,Supporting,2
+16927,18835,Doctor,Minor character,Minor,3
+17000,17553,Ariel Kozlenko,Lead character,Lead,1
+17001,17553,Shubham Lazzaretto,Supporting character,Supporting,2
+17002,17553,Hidetoshi Lathan,Minor character,Minor,3
+17003,17553,Police Officer,Minor character,Minor,3
+17090,17563,Didrik Shintuza,Lead character,Lead,1
+17091,17563,Samantha Ojei,Lead character,Lead,1
+17092,17563,Razel Blakney,Supporting character,Supporting,2
+17093,17563,Carol Gultiajeva,Supporting character,Supporting,2
+17094,17563,Guard,Minor character,Minor,3
+17207,18881,Domenic Kapsidi,Lead character,Lead,1
+17208,18881,Allen Skog,Lead character,Lead,1
+17209,18881,Livia Fitzhenry,Supporting character,Supporting,2
+17210,18881,James Schunk,Supporting character,Supporting,2
+17211,18881,Taxi Driver,Minor character,Minor,3
+17212,18881,Juliana Diaz,Minor character,Minor,3
+17216,17612,Sunny Baird,Lead character,Lead,1
+17217,17612,Gorcin Huff,Supporting character,Supporting,2
+17224,15980,April Cyran,Lead character,Lead,1
+17225,15980,Miriam Kelly,Supporting character,Supporting,2
+17226,15980,Jamie Rathod,Minor character,Minor,3
+17227,15980,Fabian Herman,Minor character,Minor,3
+17244,18436,Giovanni Martin,Lead character,Lead,1
+17245,18436,Samantha Kozlenko,Supporting character,Supporting,2
+17246,18436,Zoltán Lord,Minor character,Minor,3
+17359,18403,Emanuel Holosko,Lead character,Lead,1
+17360,18403,Jamie Radier,Supporting character,Supporting,2
+17364,18799,Lauren Muskala,Lead character,Lead,1
+17365,18799,Lynn Kato,Supporting character,Supporting,2
+17366,18799,Sascha Sin,Cameo character,Cameo,4
+17367,18799,Passenger,Minor character,Minor,3
+17391,17396,Ofelia Wong,Lead character,Lead,1
+17392,17396,Michela Nakai,Supporting character,Supporting,2
+17393,17396,Wallis Jourdan,Cameo character,Cameo,4
+17435,17600,Yujuan Pieroni,Lead character,Lead,1
+17436,17600,Natalie Rubinstien,Lead character,Lead,1
+17437,17600,Daniel Lera,Supporting character,Supporting,2
+17438,17600,Wolf Shareef,Supporting character,Supporting,2
+17439,17600,Özlem Saldaña,Supporting character,Supporting,2
+17440,17600,Jorge Zanoli,Supporting character,Supporting,2
+17441,17600,Taxi Driver,Minor character,Minor,3
+17442,17600,Taxi Driver,Minor character,Minor,3
+17443,17600,Waiter,Minor character,Minor,3
+17444,17600,Shopkeeper,Minor character,Minor,3
+17517,19607,Kazuyuki Zoudé,Lead character,Lead,1
+17518,19607,Ricardo Nicolae,Lead character,Lead,1
+17519,19607,Sascha Spates,Lead character,Lead,1
+17520,19607,Lara Elgueta,Supporting character,Supporting,2
+17521,19607,Lola Bawa,Supporting character,Supporting,2
+17522,19607,Masato Haddadou,Supporting character,Supporting,2
+17523,19607,Marcelo Baldwin,Supporting character,Supporting,2
+17524,19607,Michèle Goldberg,Supporting character,Supporting,2
+17525,19607,Mike Samiez,Minor character,Minor,3
+17526,19607,Stuart Llewellyn,Minor character,Minor,3
+17527,19607,Aishwarya Neish,Background character,Background,5
+17528,19607,Jorge Kempken,Minor character,Minor,3
+17529,19607,Maryana Ugochukwu,Minor character,Minor,3
+17627,19371,Cristine Tran,Lead character,Lead,1
+17628,19371,Euforia Rodas,Lead character,Lead,1
+17629,19371,Neil Ponce,Lead character,Lead,1
+17630,19371,Tita Forner,Supporting character,Supporting,2
+17631,19371,Joseph Dastrup,Supporting character,Supporting,2
+17632,19371,Fengzhou Smith,Supporting character,Supporting,2
+17633,19371,Mikkel Washington,Supporting character,Supporting,2
+17634,19371,Philip Sen,Supporting character,Supporting,2
+17635,19371,Asli Brandicourt,Supporting character,Supporting,2
+17636,19371,Ray Pawar,Cameo character,Cameo,4
+17637,19371,Jelani Pope,Minor character,Minor,3
+17638,19371,Mike Marko,Cameo character,Cameo,4
+17639,19371,Vicky Borgatin,Minor character,Minor,3
+17640,19371,Teacher,Minor character,Minor,3
+17641,19371,Guard,Minor character,Minor,3
+17642,19371,Taxi Driver,Minor character,Minor,3
+17680,18129,Jessica Willis,Lead character,Lead,1
+17681,18129,Happy Valyaev,Supporting character,Supporting,2
+17682,18129,Priest,Background character,Background,5
+17806,17880,Joaquim Patel,Lead character,Lead,1
+17807,17880,Baby Kate,Supporting character,Supporting,2
+17808,17880,Priest,Minor character,Minor,3
+17809,17880,Grazio Pasichnik,Cameo character,Cameo,4
+17810,18786,Peter Cendejas,Lead character,Lead,1
+17811,18786,Jacques Kwan,Lead character,Lead,1
+17812,18786,Morgan Padilla,Supporting character,Supporting,2
+17813,18786,Nicholas Ulkucu,Supporting character,Supporting,2
+17814,18786,Passenger,Minor character,Minor,3
+17815,18786,Sini Biçer,Minor character,Minor,3
+17835,18517,Maxime Doherty,Lead character,Lead,1
+17836,18517,Jennifer Erhardt,Supporting character,Supporting,2
+17837,18517,Hongjun Handler,Background character,Background,5
+17894,19999,Jun Colmaine,Lead character,Lead,1
+17895,19999,Peter Foxx,Lead character,Lead,1
+17896,19999,Snezana Ziegler,Lead character,Lead,1
+17897,19999,Naoki Khan,Supporting character,Supporting,2
+17898,19999,Max Martinez,Supporting character,Supporting,2
+17899,19999,Martin Dave,Supporting character,Supporting,2
+17900,19999,Monckton Appelquist,Supporting character,Supporting,2
+17901,19999,Havoc Stubhan,Supporting character,Supporting,2
+17902,19999,Receptionist,Minor character,Minor,3
+17903,19999,Shopkeeper,Minor character,Minor,3
+17904,19999,Waiter,Minor character,Minor,3
+17905,19999,Donna Guntur,Minor character,Minor,3
+17906,19999,Simon Valdovinos,Minor character,Minor,3
+17907,19999,Waiter,Minor character,Minor,3
+17924,11247,Dogtown Martin,Lead character,Lead,1
+17925,11247,Adam Priyasad,Supporting character,Supporting,2
+17926,11247,Guard,Background character,Background,5
+17927,16969,Margit Harris,Lead character,Lead,1
+17928,16969,Andrew Tamarzist,Supporting character,Supporting,2
+17929,16969,Reporter,Minor character,Minor,3
+18185,18568,Leah McCarthy,Lead character,Lead,1
+18186,18568,Roy Muminzhanova,Supporting character,Supporting,2
+18227,15875,Prada Roussin,Lead character,Lead,1
+18228,15875,Jirí Carter,Supporting character,Supporting,2
+18229,15875,Jordi Jenkins,Cameo character,Cameo,4
+18230,18784,Julio Bharathi,Lead character,Lead,1
+18231,18784,Sebastiaan Stern,Supporting character,Supporting,2
+18232,18784,Taxi Driver,Background character,Background,5
+18233,18784,Reporter,Minor character,Minor,3
+18243,16964,Jimhey Doherty,Lead character,Lead,1
+18244,16964,Vincent Leon,Supporting character,Supporting,2
+18249,17169,Alexandra Zhou,Lead character,Lead,1
+18250,17169,Olga Mustafa,Supporting character,Supporting,2
+18251,17169,Shopkeeper,Background character,Background,5
+18252,17169,Frank Kokta,Minor character,Minor,3
+18277,17524,Craig Geddes,Lead character,Lead,1
+18278,17524,Haraszti Mudd,Supporting character,Supporting,2
+18325,18360,Timmy Attitude,Lead character,Lead,1
+18326,18360,Kaspar Usilton,Supporting character,Supporting,2
+18327,18360,Swoop Raj,Cameo character,Cameo,4
+18364,17538,Ayomide Communicate,Lead character,Lead,1
+18365,17538,Giorgio Keener,Supporting character,Supporting,2
+18366,17538,Mechanic,Minor character,Minor,3
+18367,17538,Doctor,Minor character,Minor,3
+18494,18493,Kevin Arabia,Lead character,Lead,1
+18495,18493,Peter Saltz,Supporting character,Supporting,2
+18529,18622,Allessandro Geddes,Lead character,Lead,1
+18530,18622,Kiyoshi Kernmayer,Supporting character,Supporting,2
+18531,18622,Alan Fernandez,Minor character,Minor,3
+18532,18622,Shopkeeper,Minor character,Minor,3
+18571,18846,Sahar Gray,Lead character,Lead,1
+18572,18846,Geoff Bhatnagar,Lead character,Lead,1
+18573,18846,Alexandra Foley,Supporting character,Supporting,2
+18574,18846,Cassandra Cortés,Supporting character,Supporting,2
+18575,18846,Landlord,Minor character,Minor,3
+18611,18946,Pauline Yarra,Lead character,Lead,1
+18612,18946,Kerri Carpenter,Lead character,Lead,1
+18613,18946,Gaurav Eberhard,Supporting character,Supporting,2
+18614,18946,Magda Eskendar,Supporting character,Supporting,2
+18615,18946,Leslie Ong,Cameo character,Cameo,4
+18642,19361,Simon Green,Lead character,Lead,1
+18643,19361,Baby Lee,Lead character,Lead,1
+18644,19361,Jianxun Amego,Lead character,Lead,1
+18645,19361,Gerda Sampara,Supporting character,Supporting,2
+18646,19361,Lily Lee,Supporting character,Supporting,2
+18647,19361,Emmet Brewin,Supporting character,Supporting,2
+18648,19361,Pradeep Alencar,Supporting character,Supporting,2
+18649,19361,Harmandeep Beaudin,Supporting character,Supporting,2
+18650,19361,Elena Martikainen,Cameo character,Cameo,4
+18651,19361,Debashish Kwan,Minor character,Minor,3
+18652,19361,Lauren Tajdar,Cameo character,Cameo,4
+18653,19361,Taxi Driver,Minor character,Minor,3
+18654,19361,Tim Huang,Minor character,Minor,3
+18719,18542,Burris Nitchals,Lead character,Lead,1
+18720,18542,Madeline Soto,Supporting character,Supporting,2
+18721,18542,Justin Kanezawa,Minor character,Minor,3
+18722,18542,Lord Meditz,Cameo character,Cameo,4
+18768,18281,Sandra Chen,Lead character,Lead,1
+18769,18281,Dawn Mang,Supporting character,Supporting,2
+18770,18281,Linda Beggs,Background character,Background,5
+18788,17060,Harshraj Sudarshan,Lead character,Lead,1
+18789,17060,María Gelpi,Lead character,Lead,1
+18790,17060,Katie Crishlow,Supporting character,Supporting,2
+18791,17060,Gopal Parkaev,Supporting character,Supporting,2
+18792,17060,Passenger,Minor character,Minor,3
+18793,17060,Manuel Chimangafisi,Cameo character,Cameo,4
+18817,19146,Nadezda Rellstab,Lead character,Lead,1
+18818,19146,Paul Hartmann,Supporting character,Supporting,2
+18927,18413,Andrea Beggs,Lead character,Lead,1
+18928,18413,Jonathan Schaffstein,Supporting character,Supporting,2
+18929,18413,William Amego,Minor character,Minor,3
+18933,18484,Jonnathan Mariani,Lead character,Lead,1
+18934,18484,Xiaofeng Ishikawa,Supporting character,Supporting,2
+18935,18484,Reporter,Minor character,Minor,3
+18936,18484,Nurse,Minor character,Minor,3
+18963,18174,Tibor Pickering,Lead character,Lead,1
+18964,18174,Dorah Hall,Supporting character,Supporting,2
+18965,18174,Adam Giraud,Background character,Background,5
+18966,18174,Clerk,Minor character,Minor,3
+19073,19913,Ülkü Wolfinsohn,Lead character,Lead,1
+19074,19913,Rosalie Nathan,Lead character,Lead,1
+19075,19913,David Luna,Lead character,Lead,1
+19076,19913,John Reijonen,Supporting character,Supporting,2
+19077,19913,Dawn Komine,Supporting character,Supporting,2
+19078,19913,Blair Piltzecker,Supporting character,Supporting,2
+19079,19913,Angelo Mazzella,Supporting character,Supporting,2
+19080,19913,Jack Santos,Supporting character,Supporting,2
+19081,19913,Zachary Giordano,Minor character,Minor,3
+19082,19913,Guard,Minor character,Minor,3
+19083,19913,Daniel Street,Cameo character,Cameo,4
+19084,19913,Bartender,Minor character,Minor,3
+19085,19913,Police Officer,Background character,Background,5
+19086,19913,Neighbour,Minor character,Minor,3
+19087,19913,Alex Benoit,Minor character,Minor,3
+19103,17561,Leonor Takewaka,Lead character,Lead,1
+19104,17561,Joseph Lim,Supporting character,Supporting,2
+19105,17561,Waiter,Minor character,Minor,3
+19106,17561,Receptionist,Background character,Background,5
+19128,16356,Marie Bertero,Lead character,Lead,1
+19129,16356,Lauren Hooper,Supporting character,Supporting,2
+19181,16239,José Rodgers,Lead character,Lead,1
+19182,16239,David Mudgal,Supporting character,Supporting,2
+19228,19956,Honza John,Lead character,Lead,1
+19229,19956,Joanne Corwin,Lead character,Lead,1
+19230,19956,Bryson Rystwej,Supporting character,Supporting,2
+19231,19956,Tom Toney,Supporting character,Supporting,2
+19232,19956,Amari Alpert,Supporting character,Supporting,2
+19233,19956,Keith Simpère,Supporting character,Supporting,2
+19234,19956,Clerk,Minor character,Minor,3
+19235,19956,David Bhatnagar,Minor character,Minor,3
+19236,19956,Mohammad Rifkiss,Minor character,Minor,3
+19237,19956,Martin Jamalated,Cameo character,Cameo,4
+19242,18639,Dean Haywood,Lead character,Lead,1
+19243,18639,Flavio Stine,Lead character,Lead,1
+19244,18639,Kun Kotrelev,Supporting character,Supporting,2
+19245,18639,Raguin Prior,Supporting character,Supporting,2
+19246,18639,Alexander Anne,Minor character,Minor,3
+19293,19207,Ilya Rykov,Lead character,Lead,1
+19294,19207,Verónica Salama,Lead character,Lead,1
+19295,19207,Nick Shipenkova,Lead character,Lead,1
+19296,19207,Jabbar Wolcott,Supporting character,Supporting,2
+19297,19207,Adam Trela,Supporting character,Supporting,2
+19298,19207,Daniel Hart,Supporting character,Supporting,2
+19299,19207,Wes Carroll,Supporting character,Supporting,2
+19300,19207,Eduardo McCissick,Supporting character,Supporting,2
+19301,19207,Mário Team,Cameo character,Cameo,4
+19302,19207,Taxi Driver,Minor character,Minor,3
+19303,19207,Passenger,Minor character,Minor,3
+19304,19207,Taxi Driver,Minor character,Minor,3
+19305,19207,Numa Sepúlveda,Cameo character,Cameo,4
+19306,19207,Passenger,Minor character,Minor,3
+19307,19207,Landlord,Minor character,Minor,3
+19345,19147,Michèle Nakamura,Lead character,Lead,1
+19346,19147,Sally Lamarre,Supporting character,Supporting,2
+19347,19147,Guard,Minor character,Minor,3
+19348,19147,Courier,Minor character,Minor,3
+19356,19124,Kayleigh Cyran,Lead character,Lead,1
+19357,19124,Kacey Dossey,Lead character,Lead,1
+19358,19124,Diego Parry,Supporting character,Supporting,2
+19359,19124,Randy Hipolito,Supporting character,Supporting,2
+19360,19124,Carlos Baker,Supporting character,Supporting,2
+19361,19124,Florence Jhunjhun,Supporting character,Supporting,2
+19362,19124,Nurse,Minor character,Minor,3
+19363,19124,Timmy Eye,Cameo character,Cameo,4
+19364,19124,Waiter,Minor character,Minor,3
+19365,19124,Kyôko Fielding,Minor character,Minor,3
+19503,17714,Erik Orphanides,Lead character,Lead,1
+19504,17714,Sheri Train,Supporting character,Supporting,2
+19505,17714,Nurse,Background character,Background,5
+19506,17714,Taxi Driver,Minor character,Minor,3
+19545,18727,Jamie Moyes,Lead character,Lead,1
+19546,18727,Jared Bailey,Supporting character,Supporting,2
+19547,18727,Doctor,Minor character,Minor,3
+19548,18727,Illya Jarman,Cameo character,Cameo,4
+19651,17868,Tessa Coogan,Lead character,Lead,1
+19652,17868,Will Waschak,Supporting character,Supporting,2
+19653,17868,Dorian Creed,Background character,Background,5
+19884,19628,Jamie Okada,Lead character,Lead,1
+19885,19628,Marc Tranquilino,Supporting character,Supporting,2
+19886,19628,Guard,Minor character,Minor,3
+20040,15218,Randy Guzzardi,Lead character,Lead,1
+20041,15218,Marisa Candra,Lead character,Lead,1
+20042,15218,Adrianne Codd,Supporting character,Supporting,2
+20043,15218,Camille Ambrose,Supporting character,Supporting,2
+20044,15218,Laura Fukuda,Supporting character,Supporting,2
+20045,15218,Jeffrey Hoffman,Supporting character,Supporting,2
+20046,15218,Jana Amarù,Cameo character,Cameo,4
+20047,15218,Yûsei Kendel,Minor character,Minor,3
+20048,15218,Mike Lopez,Cameo character,Cameo,4
+20049,15218,Sagar Hidalgo,Cameo character,Cameo,4
+20116,19154,Jamie Bieber,Lead character,Lead,1
+20117,19154,Claire Percio,Supporting character,Supporting,2
+20210,19406,Ollie Henderson,Lead character,Lead,1
+20211,19406,Novia Dave,Supporting character,Supporting,2
+20212,19406,Emma Tool,Minor character,Minor,3
+20216,19286,Barry Cordero,Lead character,Lead,1
+20217,19286,Tommy Grädler,Lead character,Lead,1
+20218,19286,Tyler Baptiste,Supporting character,Supporting,2
+20219,19286,Thomas Kantrowe,Supporting character,Supporting,2
+20220,19286,Carlos Audiger,Supporting character,Supporting,2
+20221,19286,Bartender,Minor character,Minor,3
+20222,19286,Neighbour,Minor character,Minor,3
+20223,19286,Mustafa Williams,Cameo character,Cameo,4
+20380,19375,Ashley Froliak,Lead character,Lead,1
+20381,19375,Phoebe Brien,Lead character,Lead,1
+20382,19375,Alberto Bakhsh,Supporting character,Supporting,2
+20383,19375,Benny Dervin,Supporting character,Supporting,2
+20384,19375,Sandi Aguilar,Supporting character,Supporting,2
+20385,19375,Waiter,Minor character,Minor,3
+20386,19375,Police Officer,Minor character,Minor,3
+20387,19375,James Catterall,Cameo character,Cameo,4
+20461,19436,Brian Jones,Lead character,Lead,1
+20462,19436,Lisa Kate,Supporting character,Supporting,2
+20463,19436,Aliyah Fallecen,Cameo character,Cameo,4
+20579,18999,Rajesh Yildirim,Lead character,Lead,1
+20580,18999,Ariel Tajdar,Supporting character,Supporting,2
+20628,19553,Chad Hall,Lead character,Lead,1
+20629,19553,Isak Abbasova,Lead character,Lead,1
+20630,19553,Sean Stein,Supporting character,Supporting,2
+20631,19553,Nick Dray,Supporting character,Supporting,2
+20632,19553,Effie Oden,Supporting character,Supporting,2
+20633,19553,Ebony Podewils,Supporting character,Supporting,2
+20634,19553,Taxi Driver,Minor character,Minor,3
+20635,19553,Guard,Minor character,Minor,3
+20636,19553,Guard,Minor character,Minor,3
+20637,19553,Guard,Minor character,Minor,3
+20756,19251,Alan Sakharov,Lead character,Lead,1
+20757,19251,Phil Possenti,Lead character,Lead,1
+20758,19251,Thomas Hellmann,Supporting character,Supporting,2
+20759,19251,Charles Iwata,Supporting character,Supporting,2
+20760,19251,Doctor,Minor character,Minor,3
+20761,19251,Neighbour,Minor character,Minor,3
+20762,19251,Shopkeeper,Minor character,Minor,3
+20942,16525,Candy Tool,Lead character,Lead,1
+20943,16525,Renu Clara,Supporting character,Supporting,2
+20963,18869,Javier Morrow,Lead character,Lead,1
+20964,18869,Mehmet Myers,Supporting character,Supporting,2
+20965,18869,Reporter,Minor character,Minor,3
+20966,18869,Yuri Stern,Minor character,Minor,3
+21186,19784,Matt Rasheed,Lead character,Lead,1
+21187,19784,Andrej Gallai,Lead character,Lead,1
+21188,19784,Deidre Lippmann,Supporting character,Supporting,2
+21189,19784,Evan Riley,Supporting character,Supporting,2
+21190,19784,Hitoshi Dabbour,Supporting character,Supporting,2
+21191,19784,Doctor,Minor character,Minor,3
+21192,19784,Shopkeeper,Minor character,Minor,3
+21193,19784,Guard,Minor character,Minor,3
+21271,18950,Cosmin Moldenhauer,Lead character,Lead,1
+21272,18950,Brad Williams,Lead character,Lead,1
+21273,18950,Julius Dignam,Supporting character,Supporting,2
+21274,18950,Gaiming Tsimouri,Supporting character,Supporting,2
+21275,18950,Karim Carney,Supporting character,Supporting,2
+21276,18950,Doctor,Minor character,Minor,3
+21277,18950,Police Officer,Minor character,Minor,3
+21278,18950,Priest,Minor character,Minor,3
+21360,19344,Toni Marrero,Lead character,Lead,1
+21361,19344,Jody Yahnian,Lead character,Lead,1
+21362,19344,Anand Delalande,Supporting character,Supporting,2
+21363,19344,Adam Wild,Supporting character,Supporting,2
+21364,19344,Bartender,Minor character,Minor,3
+21583,19261,Vidarshana Miranda,Lead character,Lead,1
+21584,19261,Magnus Saputra,Supporting character,Supporting,2
+21585,19261,Teacher,Minor character,Minor,3
+21590,19811,Clint Luengos,Lead character,Lead,1
+21591,19811,Chirag Aragozzini,Lead character,Lead,1
+21592,19811,Carla Shashiraj,Supporting character,Supporting,2
+21593,19811,Astrid Tomlin,Supporting character,Supporting,2
+21594,19811,Waiter,Minor character,Minor,3
+21595,19811,Bartender,Minor character,Minor,3
+21626,19906,Tucker Zomerplaag,Lead character,Lead,1
+21627,19906,Mara Kumar,Supporting character,Supporting,2
+21628,19906,Saravanan Saunders,Minor character,Minor,3
+21706,19606,Sabrina Rabon,Lead character,Lead,1
+21707,19606,Thea Urthaler,Supporting character,Supporting,2
+21708,19606,Reporter,Minor character,Minor,3
+21709,19606,Trevor Bernhardt,Background character,Background,5
+21792,17319,Nicholas Dickens,Lead character,Lead,1
+21793,17319,Juana Carola,Supporting character,Supporting,2
+21794,17319,Clerk,Minor character,Minor,3
+21906,18555,Gustav Kelley,Lead character,Lead,1
+21907,18555,Daniela Reese,Supporting character,Supporting,2
+21908,18555,Alex Jakab,Minor character,Minor,3
+21909,18555,Ben Karunaratne,Minor character,Minor,3
+22085,19463,Camille Solution,Lead character,Lead,1
+22086,19463,Dimitris Musingura,Supporting character,Supporting,2
+22087,19463,Teacher,Minor character,Minor,3
+22117,19269,Vivian Domingo,Lead character,Lead,1
+22118,19269,Maria Hill,Lead character,Lead,1
+22119,19269,Matt Gultiajeva,Supporting character,Supporting,2
+22120,19269,Tally Williams,Supporting character,Supporting,2
+22121,19269,Tyler Säfström,Minor character,Minor,3
+22157,19387,Carlos Moré,Lead character,Lead,1
+22158,19387,Sertan Durgarao,Lead character,Lead,1
+22159,19387,Kit Papadopoulos,Supporting character,Supporting,2
+22160,19387,Luca Pawlowski,Supporting character,Supporting,2
+22161,19387,Waiter,Minor character,Minor,3
+22175,18576,Glory Botelho,Lead character,Lead,1
+22176,18576,Matti Spagnolo,Lead character,Lead,1
+22177,18576,Michiel McCall,Supporting character,Supporting,2
+22178,18576,Vladimir Sepúlveda,Supporting character,Supporting,2
+22179,18576,Fiona Potter,Cameo character,Cameo,4
+22180,18576,Raja Lucarda,Cameo character,Cameo,4
+22181,18576,Pankaj Newman,Cameo character,Cameo,4
+22241,19381,Elena Davis,Lead character,Lead,1
+22242,19381,Philip Lyons,Lead character,Lead,1
+22243,19381,Ryan Lee,Supporting character,Supporting,2
+22244,19381,Vicky Nevarez,Supporting character,Supporting,2
+22245,19381,Landlord,Minor character,Minor,3
+22246,19381,Receptionist,Minor character,Minor,3
+22321,19951,Frank Semm,Lead character,Lead,1
+22322,19951,Reggie McCauley,Lead character,Lead,1
+22323,19951,Barry Nándor,Supporting character,Supporting,2
+22324,19951,Marcelo Thaarany,Supporting character,Supporting,2
+22325,19951,Cherry Hellmann,Minor character,Minor,3
+22326,19951,Teacher,Background character,Background,5
+22327,19989,Julian Alsayasneh,Lead character,Lead,1
+22328,19989,Roberto Staab,Lead character,Lead,1
+22329,19989,Leslie Bujnoch,Supporting character,Supporting,2
+22330,19989,Jonathan French,Supporting character,Supporting,2
+22331,19989,Courier,Minor character,Minor,3
+22332,19989,Police Officer,Minor character,Minor,3
+22353,19821,Jaroslav Kelly,Lead character,Lead,1
+22354,19821,Kirsten Granger,Lead character,Lead,1
+22355,19821,Keith Wang,Lead character,Lead,1
+22356,19821,Michael Cai,Supporting character,Supporting,2
+22357,19821,Xin Fisher,Supporting character,Supporting,2
+22358,19821,Delia Vegue,Supporting character,Supporting,2
+22359,19821,Mary Caffey,Supporting character,Supporting,2
+22360,19821,Taylor Pilskog,Supporting character,Supporting,2
+22361,19821,Marta Khaner,Cameo character,Cameo,4
+22362,19821,Piotr Gori,Cameo character,Cameo,4
+22363,19821,Aleksey Easterday,Cameo character,Cameo,4
+22364,19821,Corinne Ziegler,Cameo character,Cameo,4
+22365,19821,Brayan Ramanna,Background character,Background,5
+22366,19821,Teacher,Minor character,Minor,3
+22367,19821,Doctor,Minor character,Minor,3
+22385,18498,David Pinheiro,Lead character,Lead,1
+22386,18498,Flora Barnard,Lead character,Lead,1
+22387,18498,Budd Räsänen,Supporting character,Supporting,2
+22388,18498,Jabbar Mansker,Supporting character,Supporting,2
+22389,18498,Lina Matsuura,Minor character,Minor,3
+22390,18498,Bartender,Minor character,Minor,3
+22600,16946,Alicia Rellstab,Lead character,Lead,1
+22601,16946,Michael Khoddami,Supporting character,Supporting,2
+22602,16946,Sascha Werry,Background character,Background,5
+22623,17787,Winston Wardzinski,Lead character,Lead,1
+22624,17787,Scott Venturi,Lead character,Lead,1
+22625,17787,Annie Ramos,Supporting character,Supporting,2
+22626,17787,Matteo Zöll,Supporting character,Supporting,2
+22627,17787,Shopkeeper,Minor character,Minor,3
+22628,17787,Mechanic,Minor character,Minor,3
+22670,19409,Edward Slifka,Lead character,Lead,1
+22671,19409,Ole Kik,Supporting character,Supporting,2
+22716,17557,Paulina Doshi,Lead character,Lead,1
+22717,17557,Vincenzo Lin,Lead character,Lead,1
+22718,17557,Ozzie Tamarit,Supporting character,Supporting,2
+22719,17557,Miguel Chapman,Supporting character,Supporting,2
+22720,17557,Waiter,Minor character,Minor,3
+22721,17557,Guard,Minor character,Minor,3
+22738,19914,Malte Wayne,Lead character,Lead,1
+22739,19914,David Foxx,Lead character,Lead,1
+22740,19914,Hakim Ward,Supporting character,Supporting,2
+22741,19914,Nathan Souza,Supporting character,Supporting,2
+22742,19914,Nurse,Minor character,Minor,3
+22750,19841,Charley Creed,Lead character,Lead,1
+22751,19841,Sebastian Corbett,Supporting character,Supporting,2
+22752,19841,Shopkeeper,Minor character,Minor,3
+22796,19671,Zoé Cooley,Lead character,Lead,1
+22797,19671,Christine Geguchadze,Supporting character,Supporting,2
+22821,19123,Doc Blady,Lead character,Lead,1
+22822,19123,Gyula Madden,Lead character,Lead,1
+22823,19123,Garth Sattelmaier,Supporting character,Supporting,2
+22824,19123,Aurélia Bass,Supporting character,Supporting,2
+22825,19123,Yuri McGrath,Minor character,Minor,3
+22876,19593,Max Manning,Lead character,Lead,1
+22877,19593,Garland Muskala,Lead character,Lead,1
+22878,19593,Lillieanne Bailey,Supporting character,Supporting,2
+22879,19593,Nilgün Evans,Supporting character,Supporting,2
+22880,19593,David Yildirim,Background character,Background,5
+22881,19593,Louis Suthers,Minor character,Minor,3
+22887,18987,Alex Caffey,Lead character,Lead,1
+22888,18987,Chase Pannetier,Supporting character,Supporting,2
+22889,18987,Mechanic,Minor character,Minor,3
+22890,19079,Nathan Kapsidi,Lead character,Lead,1
+22891,19079,Andrew Rouse,Supporting character,Supporting,2
+22892,19079,Doctor,Minor character,Minor,3
+22893,19079,Neville Zonfrilli,Minor character,Minor,3
+22923,19923,Yoriko Maeda,Lead character,Lead,1
+22924,19923,Hans Rizvi,Lead character,Lead,1
+22925,19923,Marc Hsu,Supporting character,Supporting,2
+22926,19923,Mary Nikic,Supporting character,Supporting,2
+22927,19923,Clerk,Minor character,Minor,3
+22928,19923,Police Officer,Minor character,Minor,3
+22970,19862,Christa Kate,Lead character,Lead,1
+22971,19862,Sue Sharma,Supporting character,Supporting,2
+22972,19862,Jeremiah Mitra,Minor character,Minor,3
+22973,17030,Vera Deák,Lead character,Lead,1
+22974,17030,Tom Rud,Lead character,Lead,1
+22975,17030,Jeff Evans,Supporting character,Supporting,2
+22976,17030,Janelle Matos,Supporting character,Supporting,2
+22977,17030,Lucia Stern,Supporting character,Supporting,2
+22978,17030,Marley Kanade,Cameo character,Cameo,4
+22979,17030,Neighbour,Minor character,Minor,3
+22980,17030,Rob Mckinley,Cameo character,Cameo,4
+22981,17030,Aleksey Pawlak,Minor character,Minor,3
+22986,18617,David Nakamura,Lead character,Lead,1
+22987,18617,Margit Olsson,Supporting character,Supporting,2
+22988,18617,Sebastian Garlic,Minor character,Minor,3
+23075,19655,Heather Ghilotti,Lead character,Lead,1
+23076,19655,Dave Brown,Supporting character,Supporting,2
+23077,19655,Jeffrey Hodson,Cameo character,Cameo,4
+23124,19236,Clare Pope,Lead character,Lead,1
+23125,19236,Andreas Garlic,Supporting character,Supporting,2
+23126,19236,Nurse,Minor character,Minor,3
+23256,18397,Rick Bellroth,Lead character,Lead,1
+23257,18397,Kristian Alimi,Supporting character,Supporting,2
+23273,19947,Geno Navarrete,Lead character,Lead,1
+23274,19947,Baran Baldwin,Supporting character,Supporting,2
+23281,19442,Bradley Martin,Lead character,Lead,1
+23282,19442,Petros Toney,Supporting character,Supporting,2
+23283,19442,Neighbour,Minor character,Minor,3
+23284,19442,Lotta Jagadeesh,Cameo character,Cameo,4
+23340,19515,Mark Hays,Lead character,Lead,1
+23341,19515,Cord Brandicourt,Supporting character,Supporting,2
+23342,19515,Loïc Sanchez,Minor character,Minor,3
+23343,19515,Guard,Minor character,Minor,3
+23356,19325,Mattia Finocchi,Lead character,Lead,1
+23357,19325,Sava Lorente,Supporting character,Supporting,2
+23358,19325,Neighbour,Minor character,Minor,3
+23406,19135,Peter Krumov,Lead character,Lead,1
+23407,19135,Albert Rivera,Lead character,Lead,1
+23408,19135,Louca Flurry,Supporting character,Supporting,2
+23409,19135,László McMahon,Supporting character,Supporting,2
+23410,19135,Madeline Hill,Minor character,Minor,3
+23411,19135,Roman Hollinger,Minor character,Minor,3
+23412,19193,Adam Jacobson,Lead character,Lead,1
+23413,19193,Holger Moré,Supporting character,Supporting,2
+23414,19193,Nurse,Background character,Background,5
+23423,19650,Nada Williams,Lead character,Lead,1
+23424,19650,Chris Omarova,Supporting character,Supporting,2
+23425,19650,Police Officer,Minor character,Minor,3
+23426,19650,Guard,Minor character,Minor,3
+23446,17795,Gábor Lim,Lead character,Lead,1
+23447,17795,Peri Krisralam,Lead character,Lead,1
+23448,17795,Joshua Peters,Supporting character,Supporting,2
+23449,17795,Kristy Mysona,Supporting character,Supporting,2
+23450,17795,Isak Reyes,Minor character,Minor,3
+23451,17795,Daniel Rocaberte,Cameo character,Cameo,4
+23462,19454,Claude Jimenez,Lead character,Lead,1
+23463,19454,Joseph DeLoach,Supporting character,Supporting,2
+23464,19454,Jonathan Terayama,Minor character,Minor,3
+23465,19454,Rosie Blaum,Minor character,Minor,3
+23553,19395,Raina Castellano,Lead character,Lead,1
+23554,19395,Askaf Ojei,Supporting character,Supporting,2
+23555,19395,David Zarco,Cameo character,Cameo,4
+23556,19395,Nurse,Minor character,Minor,3
+23584,17915,Lia Macmillan,Lead character,Lead,1
+23585,17915,Quela Luna,Supporting character,Supporting,2
+23586,17915,Agustin Hall,Minor character,Minor,3
+23587,17915,Miriam Nemechek,Background character,Background,5
+23594,19121,Tricia Giger,Lead character,Lead,1
+23595,19121,Erfan Barbar,Supporting character,Supporting,2
+23749,18454,Carym Misha,Lead character,Lead,1
+23750,18454,Jin Dittman,Supporting character,Supporting,2
+23751,18454,Lorenzo Bonnenfant,Minor character,Minor,3
+23752,18454,Courier,Minor character,Minor,3
+23770,19653,Peyton Snyder,Lead character,Lead,1
+23771,19653,Pauline Train,Supporting character,Supporting,2
+23772,19653,Ivana Supreme,Cameo character,Cameo,4
+23773,19653,Peter Dingfield,Minor character,Minor,3
+23792,19113,Nikki Man,Lead character,Lead,1
+23793,19113,Minghua Lee,Supporting character,Supporting,2
+23794,19113,Doctor,Minor character,Minor,3
+23795,19113,Jarmila Takewaka,Cameo character,Cameo,4
+23796,19443,Makoto Harris,Lead character,Lead,1
+23797,19443,Chris Fitzsimmons,Supporting character,Supporting,2
+23804,19929,Camelia Buckenauer,Lead character,Lead,1
+23805,19929,Antony Espíndola,Supporting character,Supporting,2
+23806,19929,Brandon Knipp,Cameo character,Cameo,4
+23809,19136,Sasha Parra,Lead character,Lead,1
+23810,19136,Natalie Avina,Supporting character,Supporting,2
+23856,19475,David Reilly,Lead character,Lead,1
+23857,19475,Kieran Kankam,Lead character,Lead,1
+23858,19475,Ian Okada,Supporting character,Supporting,2
+23859,19475,Paul Loewensberg,Supporting character,Supporting,2
+23860,19475,Franek Binder,Minor character,Minor,3
+23861,19475,Luca Fugain,Cameo character,Cameo,4
+23938,7949,Suien Vyas,Lead character,Lead,1
+23939,7949,Waner Walley,Lead character,Lead,1
+23940,7949,John Parker,Supporting character,Supporting,2
+23941,7949,Sándorné Parkaev,Supporting character,Supporting,2
+23942,7949,Saravanan Tulio,Supporting character,Supporting,2
+23943,7949,José Kumar,Minor character,Minor,3
+23944,7949,Scott Chung,Minor character,Minor,3
+23945,7949,Mechanic,Minor character,Minor,3
+23948,19340,Akihiro Kent,Lead character,Lead,1
+23949,19340,Hansen Derflinger,Supporting character,Supporting,2
+23962,19577,Akim Pawar,Lead character,Lead,1
+23963,19577,Reginald Antonio,Supporting character,Supporting,2
+23997,4656,Lars Raischl,Lead character,Lead,1
+23998,4656,Sakurako Patterson,Lead character,Lead,1
+23999,4656,John Eaves,Lead character,Lead,1
+24000,4656,Robin Mehta,Supporting character,Supporting,2
+24001,4656,Wagner Mee,Supporting character,Supporting,2
+24002,4656,Gábor Decoteau,Supporting character,Supporting,2
+24003,4656,LaMont Mohamad,Supporting character,Supporting,2
+24004,4656,Zuxole Foster,Supporting character,Supporting,2
+24005,4656,Dakota Ledvinková,Supporting character,Supporting,2
+24006,4656,Talib Lévine,Supporting character,Supporting,2
+24007,4656,Javier Murphy,Supporting character,Supporting,2
+24008,4656,Romain Kilgore,Minor character,Minor,3
+24009,4656,Guard,Minor character,Minor,3
+24010,4656,Neighbour,Background character,Background,5
+24011,4656,Teacher,Background character,Background,5
+24012,4656,Saravanan Meditz,Minor character,Minor,3
+24013,4656,Waiter,Minor character,Minor,3
+24014,4656,Police Officer,Minor character,Minor,3
+24015,4656,Receptionist,Minor character,Minor,3
+24016,4656,Adele Dossey,Cameo character,Cameo,4
+24017,4656,Clerk,Minor character,Minor,3
+24018,4656,Milan Rodić,Cameo character,Cameo,4
+24019,4656,Taxi Driver,Minor character,Minor,3
+24020,13632,Curtis Lowenstein,Lead character,Lead,1
+24021,13632,Teisha Thorp,Supporting character,Supporting,2
+24022,17193,Sumi Volontir,Lead character,Lead,1
+24023,17193,Casey Mark,Supporting character,Supporting,2
+24028,19700,Dick Rodas,Lead character,Lead,1
+24029,19700,Synnøve Mezzina,Supporting character,Supporting,2
+24037,452,Warren Kakade,Lead character,Lead,1
+24038,452,James Jarosinski,Lead character,Lead,1
+24039,452,Wagner Matsuura,Lead character,Lead,1
+24040,452,Sara Eskendar,Supporting character,Supporting,2
+24041,452,Hannelore Arceo,Supporting character,Supporting,2
+24042,452,Lori McCrea,Supporting character,Supporting,2
+24043,452,David Bachate,Supporting character,Supporting,2
+24044,452,Kaiya Kate,Supporting character,Supporting,2
+24045,452,Jelonta Barbar,Supporting character,Supporting,2
+24046,452,Ryan Shareef,Supporting character,Supporting,2
+24047,452,Caroline Qiang,Supporting character,Supporting,2
+24048,452,Sean Smith,Supporting character,Supporting,2
+24049,452,Mitch Thompson,Supporting character,Supporting,2
+24050,452,Teacher,Minor character,Minor,3
+24051,452,Tibor Miranda,Cameo character,Cameo,4
+24052,452,Nurse,Minor character,Minor,3
+24053,452,Rob Taylor,Background character,Background,5
+24054,452,Nurse,Minor character,Minor,3
+24055,452,Tsubasa Lau,Minor character,Minor,3
+24056,452,Viola Shiva,Cameo character,Cameo,4
+24057,452,Livia Leonard,Background character,Background,5
+24058,452,Mechanic,Minor character,Minor,3
+24059,452,Jarmila Warren,Cameo character,Cameo,4
+24060,452,Lóránt Bradley,Minor character,Minor,3
+24061,452,Carl Ortiz,Background character,Background,5
+24062,452,Steve Cooze,Minor character,Minor,3
+24063,452,Budd Pavlinovich,Minor character,Minor,3
+24064,452,Taxi Driver,Background character,Background,5
+24083,19907,Faisal Verowa,Lead character,Lead,1
+24084,19907,Michel Amonoo,Supporting character,Supporting,2
+24085,19907,Police Officer,Minor character,Minor,3
+24086,19907,Domeng Brahos,Minor character,Minor,3
+24089,6460,Dani Allan,Lead character,Lead,1
+24090,6460,Danielle Kim,Lead character,Lead,1
+24091,6460,Askaf Roberts,Supporting character,Supporting,2
+24092,6460,Ollie Duchêne,Supporting character,Supporting,2
+24093,6460,Fernando Piferi,Minor character,Minor,3
+24094,6460,Priest,Minor character,Minor,3
+24121,6026,Simon Manganaro,Lead character,Lead,1
+24122,6026,Casey Decoteau,Lead character,Lead,1
+24123,6026,Felicity Matsumoto,Lead character,Lead,1
+24124,6026,Yuri Guo,Supporting character,Supporting,2
+24125,6026,Chany Crishlow,Supporting character,Supporting,2
+24126,6026,Bas Nankin,Supporting character,Supporting,2
+24127,6026,Laura Morales,Supporting character,Supporting,2
+24128,6026,Miguel Pinckney,Supporting character,Supporting,2
+24129,6026,Neighbour,Minor character,Minor,3
+24130,6026,Kacper Aneris,Background character,Background,5
+24131,6026,LaMont Renee,Minor character,Minor,3
+24132,6026,Taxi Driver,Minor character,Minor,3
+24133,6026,Rashida Apfelbaum,Cameo character,Cameo,4
+24134,6026,Alex Kijowski,Minor character,Minor,3
+24135,6026,Reporter,Minor character,Minor,3
+24147,343,Nate Dolan,Lead character,Lead,1
+24148,343,Andrey Lorrison,Supporting character,Supporting,2
+24149,343,Teacher,Minor character,Minor,3
+24150,343,Receptionist,Minor character,Minor,3
+24151,7351,Amanda Holt,Lead character,Lead,1
+24152,7351,Chinedu Vogel,Lead character,Lead,1
+24153,7351,Wataru Parker,Lead character,Lead,1
+24154,7351,Yan McAleer,Supporting character,Supporting,2
+24155,7351,Jack Níelsson,Supporting character,Supporting,2
+24156,7351,Joseph Pejakovic,Supporting character,Supporting,2
+24157,7351,Armand Snow,Supporting character,Supporting,2
+24158,7351,Joshua Pejakovic,Supporting character,Supporting,2
+24159,7351,Peggy Carvalho,Supporting character,Supporting,2
+24160,7351,Victor Motmaenzadeh,Supporting character,Supporting,2
+24161,7351,Janina Collier,Supporting character,Supporting,2
+24162,7351,Alwyn Jenz,Supporting character,Supporting,2
+24163,7351,Marcelo Parker,Minor character,Minor,3
+24164,7351,Scott Overdose,Background character,Background,5
+24165,7351,Mechanic,Minor character,Minor,3
+24166,7351,Clerk,Minor character,Minor,3
+24167,7351,Carrington Pawlowski,Background character,Background,5
+24168,7351,Taryn Stowers,Cameo character,Cameo,4
+24169,7351,Ganesh Aguiar,Minor character,Minor,3
+24170,7351,Taxi Driver,Minor character,Minor,3
+24171,7351,Candy Walhout,Cameo character,Cameo,4
+24172,7351,Reporter,Minor character,Minor,3
+24173,7351,Receptionist,Background character,Background,5
+24174,7351,Chris Wen,Cameo character,Cameo,4
+24175,7351,Vivian Lloyd,Minor character,Minor,3
+24195,19678,Olivier Escalante,Lead character,Lead,1
+24196,19678,Kevin Hualo,Supporting character,Supporting,2
+24197,19678,Doctor,Minor character,Minor,3
+24198,19678,Zinayda Marko,Minor character,Minor,3
+24201,16468,Aurélia Boye,Lead character,Lead,1
+24202,16468,Chris Usilton,Supporting character,Supporting,2
+24203,715,René Kraus,Lead character,Lead,1
+24204,715,Tom Hussain,Lead character,Lead,1
+24205,715,Lynn Peñate,Supporting character,Supporting,2
+24206,715,Katherine Kaniff,Supporting character,Supporting,2
+24207,715,Landlord,Minor character,Minor,3
+24241,2595,Caymen Crenshaw,Lead character,Lead,1
+24242,2595,Ehsan Nándor,Lead character,Lead,1
+24243,2595,Barbara Fawzi,Lead character,Lead,1
+24244,2595,Jenni Paso,Supporting character,Supporting,2
+24245,2595,Kat Jackson,Supporting character,Supporting,2
+24246,2595,Laura Albrecht,Supporting character,Supporting,2
+24247,2595,Gábor Lyberopoulou,Supporting character,Supporting,2
+24248,2595,Martín Flaherty,Supporting character,Supporting,2
+24249,2595,Rashid Kuhl,Supporting character,Supporting,2
+24250,2595,Guard,Minor character,Minor,3
+24251,2595,Teacher,Minor character,Minor,3
+24252,2595,Tommy André,Cameo character,Cameo,4
+24253,2595,Doctor,Minor character,Minor,3
+24254,2595,Passenger,Background character,Background,5
+24255,2595,Bartender,Minor character,Minor,3
+24256,2595,Doctor,Background character,Background,5
+24264,19287,Bastien Elliot,Lead character,Lead,1
+24265,19287,Donald Solano,Supporting character,Supporting,2
+24294,1771,Stephen Cheema,Lead character,Lead,1
+24295,1771,Edward Ferran,Lead character,Lead,1
+24296,1771,Aldylyzert Veitch,Lead character,Lead,1
+24297,1771,Eden Chen,Supporting character,Supporting,2
+24298,1771,Isabelle Matsiko,Supporting character,Supporting,2
+24299,1771,Miklós Myshali,Supporting character,Supporting,2
+24300,1771,Alexander James,Supporting character,Supporting,2
+24301,1771,Thomas Panditharathna,Supporting character,Supporting,2
+24302,1771,Cameron Gorosito,Supporting character,Supporting,2
+24303,1771,Passenger,Minor character,Minor,3
+24304,1771,Teacher,Minor character,Minor,3
+24305,1771,Makoto Santiago,Cameo character,Cameo,4
+24306,1771,Elaine Derose,Minor character,Minor,3
+24307,1771,Nada Dziadek,Minor character,Minor,3
+24308,1771,Justin Szczypta,Minor character,Minor,3
+24309,1771,Tita Robin,Cameo character,Cameo,4
+24333,19130,Jan Parker,Lead character,Lead,1
+24334,19130,Gary Marbach,Supporting character,Supporting,2
+24335,19130,Joscha Bremer,Cameo character,Cameo,4
+24336,19130,Taxi Driver,Minor character,Minor,3
+24372,3731,Rita Holosko,Lead character,Lead,1
+24373,3731,Ziv Schweiger,Lead character,Lead,1
+24374,3731,Nick Ménard,Supporting character,Supporting,2
+24375,3731,Gino Lopez,Supporting character,Supporting,2
+24376,3731,Hongtao Anderson,Minor character,Minor,3
+24377,3731,Ana Mazewski,Cameo character,Cameo,4
+24378,3731,Shyamal Gutiérrez,Cameo character,Cameo,4
+24424,19695,Callie Pieroni,Lead character,Lead,1
+24425,19695,Anita Boswell,Supporting character,Supporting,2
+24426,19964,Tadashi Carozza,Lead character,Lead,1
+24427,19964,Lola Rivera,Supporting character,Supporting,2
+24428,19964,Waiter,Minor character,Minor,3
+24429,19964,Daniel Levi,Minor character,Minor,3
+24452,19924,Ryan Sanchez,Lead character,Lead,1
+24453,19924,Yukio Lucia,Supporting character,Supporting,2
+24454,19924,Police Officer,Minor character,Minor,3
+24455,4243,Jonathan Lahbib,Lead character,Lead,1
+24456,4243,Martyne Mattig,Supporting character,Supporting,2
+24457,4243,Doctor,Background character,Background,5
+24487,7690,Jim Gomes,Lead character,Lead,1
+24488,7690,Serge Hewitt,Lead character,Lead,1
+24489,7690,Marialuce Laudani,Lead character,Lead,1
+24490,7690,Michael Youn,Supporting character,Supporting,2
+24491,7690,Matthew Leon,Supporting character,Supporting,2
+24492,7690,Dorah Guest,Supporting character,Supporting,2
+24493,7690,Jorge Bovell,Supporting character,Supporting,2
+24494,7690,Vicky Tostivint,Supporting character,Supporting,2
+24495,7690,Aiden Tensek,Minor character,Minor,3
+24496,7690,Landlord,Background character,Background,5
+24497,7690,Teacher,Minor character,Minor,3
+24498,7690,Teacher,Minor character,Minor,3
+24499,7690,Fabio Maggi,Cameo character,Cameo,4
+24500,8907,Pramod Hiessboeck,Lead character,Lead,1
+24501,8907,Jon Podhladnova,Supporting character,Supporting,2
+24502,8907,Guard,Minor character,Minor,3
+24503,8907,Colin Wessel,Cameo character,Cameo,4
+24504,19432,Ashely Ward,Lead character,Lead,1
+24505,19432,Mariana Tolbert,Supporting character,Supporting,2
+24522,7849,Peter Chambers,Lead character,Lead,1
+24523,7849,Sumanawathi Chen,Lead character,Lead,1
+24524,7849,Dawn DeVallance,Lead character,Lead,1
+24525,7849,Carla McCarthy,Supporting character,Supporting,2
+24526,7849,Brian Milko,Supporting character,Supporting,2
+24527,7849,Gavin Ungerer,Supporting character,Supporting,2
+24528,7849,Puja Ballmoos,Supporting character,Supporting,2
+24529,7849,Mary Cristallini,Supporting character,Supporting,2
+24530,7849,Jannette Anderson,Supporting character,Supporting,2
+24531,7849,Aaron Plesoianu,Cameo character,Cameo,4
+24532,7849,Onno Krulichová,Cameo character,Cameo,4
+24533,7849,Alberto Ntsimane,Minor character,Minor,3
+24534,7849,Doctor,Minor character,Minor,3
+24535,7849,Receptionist,Background character,Background,5
+24536,7849,Pau Quinn,Minor character,Minor,3
+24537,7849,Fernando Bean,Minor character,Minor,3
+24538,7849,Taxi Driver,Minor character,Minor,3
+24566,19547,Michele Scheinman,Lead character,Lead,1
+24567,19547,Ole Cisco,Lead character,Lead,1
+24568,19547,Nagisa Sellam,Supporting character,Supporting,2
+24569,19547,Roy Barnes,Supporting character,Supporting,2
+24570,19547,Celeste Shirai,Minor character,Minor,3
+24571,19547,Alexander Marbach,Minor character,Minor,3
+24572,19835,Tori Pellegrini,Lead character,Lead,1
+24573,19835,Kaz Kelemen,Supporting character,Supporting,2
+24574,19835,Passenger,Minor character,Minor,3
+24583,3911,Ron López,Lead character,Lead,1
+24584,3911,Mohammad Coliun,Supporting character,Supporting,2
+24585,3911,Pamela Lewis,Minor character,Minor,3
+24586,3911,Vivian Pérez,Minor character,Minor,3
+24605,18735,Patrick Jabat,Lead character,Lead,1
+24606,18735,Rosie Chatha,Supporting character,Supporting,2
+24607,18735,Receptionist,Minor character,Minor,3
+24616,5750,Alessandra Zorn,Lead character,Lead,1
+24617,5750,Ben Chaudhari,Lead character,Lead,1
+24618,5750,Chelsea Weber,Lead character,Lead,1
+24619,5750,Waheed Aiello,Supporting character,Supporting,2
+24620,5750,Jabbar Naumovski,Supporting character,Supporting,2
+24621,5750,Montse Dolan,Supporting character,Supporting,2
+24622,5750,Baburao Alvarez,Supporting character,Supporting,2
+24623,5750,Bee Seaton,Supporting character,Supporting,2
+24624,5750,Jay Milko,Supporting character,Supporting,2
+24625,5750,Passenger,Minor character,Minor,3
+24626,5750,Rohit Roy,Minor character,Minor,3
+24627,5750,Pia Fisher,Cameo character,Cameo,4
+24628,5750,Mei Santos,Minor character,Minor,3
+24629,5750,David Moss,Minor character,Minor,3
+24630,5750,Jean Rivera,Background character,Background,5
+24631,5750,Taxi Driver,Minor character,Minor,3
+24632,5750,Kendon Stähly,Minor character,Minor,3
+24633,5750,Patrick Tickhurst,Minor character,Minor,3
+24634,4287,Kathy Derflinger,Lead character,Lead,1
+24635,4287,Toby Bhattacharya,Lead character,Lead,1
+24636,4287,Arminda Matuszewska,Supporting character,Supporting,2
+24637,4287,Adarsh Pinckney,Supporting character,Supporting,2
+24638,4287,Danny Williams,Supporting character,Supporting,2
+24639,4287,Ronghua Rausch,Minor character,Minor,3
+24640,4287,Kim Markovic,Cameo character,Cameo,4
+24641,4287,Cristina Holton,Cameo character,Cameo,4
+24658,19414,Baby Laurel,Lead character,Lead,1
+24659,19414,Gyula Towns,Supporting character,Supporting,2
+24660,19414,Liz Lucini,Minor character,Minor,3
+24661,19414,Trevor Paras,Minor character,Minor,3
+24662,2872,Jana Brown,Lead character,Lead,1
+24663,2872,David Bonnitt,Lead character,Lead,1
+24664,2872,Lisa Snow,Lead character,Lead,1
+24665,2872,Gonzalo Kantrowe,Supporting character,Supporting,2
+24666,2872,Nicholas Tal,Supporting character,Supporting,2
+24667,2872,Mei Taplin,Supporting character,Supporting,2
+24668,2872,Jesse Channo,Supporting character,Supporting,2
+24669,2872,Daniele Yiko,Supporting character,Supporting,2
+24670,2872,Cycle Wolffersdorff,Supporting character,Supporting,2
+24671,2872,Yuno Marley,Supporting character,Supporting,2
+24672,2872,Anton Turner,Supporting character,Supporting,2
+24673,2872,Linda Maliszkiewicz,Cameo character,Cameo,4
+24674,2872,Waiter,Minor character,Minor,3
+24675,2872,Erin Nyiri,Cameo character,Cameo,4
+24676,2872,Neighbour,Minor character,Minor,3
+24677,2872,Richard Illsley,Cameo character,Cameo,4
+24678,2872,Mechanic,Minor character,Minor,3
+24679,2872,Carrington Kelly,Minor character,Minor,3
+24680,2872,Alphie Wilson,Minor character,Minor,3
+24681,2872,Clerk,Minor character,Minor,3
+24682,2872,Matt Kelly,Background character,Background,5
+24683,2872,Fern Mang,Cameo character,Cameo,4
+24684,3351,Annie Clement,Lead character,Lead,1
+24685,3351,Reuben Ennis,Lead character,Lead,1
+24686,3351,Sara Anas,Supporting character,Supporting,2
+24687,3351,Tim Christie,Supporting character,Supporting,2
+24688,3351,Taxi Driver,Background character,Background,5
+24689,19027,Gajendrakumar Ortega,Lead character,Lead,1
+24690,19027,Vivek Wangle,Supporting character,Supporting,2
+24691,19027,Police Officer,Minor character,Minor,3
+24720,1066,Will Wolfgram,Lead character,Lead,1
+24721,1066,Raja Fallah,Lead character,Lead,1
+24722,1066,Rogeiro Jardine,Supporting character,Supporting,2
+24723,1066,Abigail Jacob,Supporting character,Supporting,2
+24724,1066,Landlord,Background character,Background,5
+24725,7658,Euforia Wong,Lead character,Lead,1
+24726,7658,Pradeep Gallus,Lead character,Lead,1
+24727,7658,Ali Manarin,Lead character,Lead,1
+24728,7658,Cedric Fallah,Supporting character,Supporting,2
+24729,7658,Michael Borrallo,Supporting character,Supporting,2
+24730,7658,Hel Presnov,Supporting character,Supporting,2
+24731,7658,Kahina Bimeda,Supporting character,Supporting,2
+24732,7658,Guard,Minor character,Minor,3
+24733,7658,Ollie Wen,Minor character,Minor,3
+24734,7658,Dino Mihalka,Background character,Background,5
+24735,7658,Mike Werkzz,Cameo character,Cameo,4
+24736,7658,Taxi Driver,Background character,Background,5
+24752,19690,Ulysses Lindbom,Lead character,Lead,1
+24753,19690,Ethan Cabaça,Supporting character,Supporting,2
+24754,19690,Guard,Background character,Background,5
+24779,4991,Bonebridger Lyberopoulou,Lead character,Lead,1
+24780,4991,Brandon Hoogenboom,Lead character,Lead,1
+24781,4991,Shyamal Earner,Lead character,Lead,1
+24782,4991,Utku Gill,Supporting character,Supporting,2
+24783,4991,Mark Cointot,Supporting character,Supporting,2
+24784,4991,Silvia Connolly,Supporting character,Supporting,2
+24785,4991,Todd Tischler,Supporting character,Supporting,2
+24786,4991,Yuvraj Baker,Supporting character,Supporting,2
+24787,4991,Teacher,Background character,Background,5
+24788,4991,Rodrigues Tovar,Minor character,Minor,3
+24789,4991,Waiter,Minor character,Minor,3
+24790,4991,Jessica Manjón,Cameo character,Cameo,4
+24791,4991,Joy Lee,Background character,Background,5
+24792,4991,Landlord,Minor character,Minor,3
+24793,1003,Nicholas Magnoni,Lead character,Lead,1
+24794,1003,Justyna Abe,Lead character,Lead,1
+24795,1003,Claude Lundán,Supporting character,Supporting,2
+24796,1003,Gustáv Towns,Supporting character,Supporting,2
+24797,1003,Mark Nepali,Cameo character,Cameo,4
+24798,1003,Guard,Minor character,Minor,3
+24799,1003,Caleb Zarco,Cameo character,Cameo,4
+24823,4333,Elwood Ribeiro,Lead character,Lead,1
+24824,4333,Henriikka Connolly,Supporting character,Supporting,2
+24825,4333,Warren Walley,Minor character,Minor,3
+24826,4333,Priest,Minor character,Minor,3
+24847,1545,Carla Wirths,Lead character,Lead,1
+24848,1545,Caleigh Toney,Lead character,Lead,1
+24849,1545,Clifford Lee,Supporting character,Supporting,2
+24850,1545,Eric Lusty,Supporting character,Supporting,2
+24851,1545,Gulshan Connolly,Supporting character,Supporting,2
+24852,1545,Larry Tischler,Supporting character,Supporting,2
+24853,1545,Courier,Minor character,Minor,3
+24854,1545,Taxi Driver,Minor character,Minor,3
+24855,1545,Emma Hunt,Minor character,Minor,3
+24856,1545,Tomohito Motion,Minor character,Minor,3
+24860,6379,Kym Salvi,Lead character,Lead,1
+24861,6379,Ilya Haywood,Lead character,Lead,1
+24862,6379,Raguin Plumlee,Lead character,Lead,1
+24863,6379,Charlotte Kawasaki,Supporting character,Supporting,2
+24864,6379,Kameron Kryshtofovych,Supporting character,Supporting,2
+24865,6379,Simon Mahamo,Supporting character,Supporting,2
+24866,6379,Avani York,Supporting character,Supporting,2
+24867,6379,Carlos Punch,Supporting character,Supporting,2
+24868,6379,Mallikarjun Lundán,Supporting character,Supporting,2
+24869,6379,Mechanic,Minor character,Minor,3
+24870,6379,Clerk,Minor character,Minor,3
+24871,6379,Leonard Thompson,Minor character,Minor,3
+24872,6379,Guard,Minor character,Minor,3
+24873,6379,Sarang Goroziya,Cameo character,Cameo,4
+24874,6379,Tadashi Yang,Cameo character,Cameo,4
+24875,6379,Christopher Walker,Minor character,Minor,3
+24876,6379,Guard,Minor character,Minor,3
+24877,6379,Hélène Papp,Minor character,Minor,3
+24878,19232,Uchibayashi Gelpi,Lead character,Lead,1
+24879,19232,Derron Mary,Supporting character,Supporting,2
+24880,19232,Neighbour,Minor character,Minor,3
+24885,8367,Gyula Ashok,Lead character,Lead,1
+24886,8367,Jason Savage,Lead character,Lead,1
+24887,8367,Kelly Borgatin,Supporting character,Supporting,2
+24888,8367,Archnashree Abrantes,Supporting character,Supporting,2
+24889,8367,Waiter,Minor character,Minor,3
+24890,8367,Hans Goldstein,Cameo character,Cameo,4
+24891,8367,Frank Korim,Background character,Background,5
+24892,8641,Hudson Bahng,Lead character,Lead,1
+24893,8641,Oriol French,Lead character,Lead,1
+24894,8641,Andrii Gjerstad,Supporting character,Supporting,2
+24895,8641,Griffin Pyfferoen,Supporting character,Supporting,2
+24896,8641,Punit Nakamura,Supporting character,Supporting,2
+24897,8641,Anthony Murphy,Supporting character,Supporting,2
+24898,8641,Giovanni Serbias,Minor character,Minor,3
+24899,8641,Police Officer,Background character,Background,5
+24900,8641,Peter Ovídio,Cameo character,Cameo,4
+24901,8641,Jonathan Forcada,Cameo character,Cameo,4
+24904,5492,Ibrahim Lagasca,Lead character,Lead,1
+24905,5492,Kazuyuki Semanaz,Lead character,Lead,1
+24906,5492,Luis Torres,Lead character,Lead,1
+24907,5492,María Wen,Supporting character,Supporting,2
+24908,5492,Sky Jenz,Supporting character,Supporting,2
+24909,5492,Lore Lerke,Supporting character,Supporting,2
+24910,5492,Victor Turner,Supporting character,Supporting,2
+24911,5492,Paul Maturama,Supporting character,Supporting,2
+24912,5492,Brayan Wolff,Supporting character,Supporting,2
+24913,5492,Lauri Stephens,Supporting character,Supporting,2
+24914,5492,Krystal Marwari,Supporting character,Supporting,2
+24915,5492,Paulina Bloss,Background character,Background,5
+24916,5492,Nurse,Minor character,Minor,3
+24917,5492,Letícia Termini,Minor character,Minor,3
+24918,5492,Priest,Minor character,Minor,3
+24919,5492,Waiter,Minor character,Minor,3
+24920,5492,Shopkeeper,Background character,Background,5
+24921,5492,Clerk,Background character,Background,5
+24922,5492,Jaisky Butler,Cameo character,Cameo,4
+24923,5492,Guard,Minor character,Minor,3
+24924,5492,Anthony Porter,Cameo character,Cameo,4
+24925,5492,Landlord,Minor character,Minor,3
+24926,5492,Shopkeeper,Minor character,Minor,3
+24927,5492,Priest,Minor character,Minor,3
+24943,1535,Renate Johnson,Lead character,Lead,1
+24944,1535,Ilya Bikini,Lead character,Lead,1
+24945,1535,Samantha Pygram,Supporting character,Supporting,2
+24946,1535,Barbara Worley,Supporting character,Supporting,2
+24947,1535,Passenger,Minor character,Minor,3
+24950,5635,Katy Mahamo,Lead character,Lead,1
+24951,5635,Jaylen Williams,Lead character,Lead,1
+24952,5635,Justin Mehta,Lead character,Lead,1
+24953,5635,Randy Sivach,Supporting character,Supporting,2
+24954,5635,Chelo Smith,Supporting character,Supporting,2
+24955,5635,Helen Muhajil,Supporting character,Supporting,2
+24956,5635,Joanne Byrne,Supporting character,Supporting,2
+24957,5635,Greg Brown,Supporting character,Supporting,2
+24958,5635,Jhon Allen,Supporting character,Supporting,2
+24959,5635,Andrew Pulvermacher,Minor character,Minor,3
+24960,5635,Mechanic,Background character,Background,5
+24961,5635,Eduard Campobasso,Cameo character,Cameo,4
+24962,5635,Vladimir MacDonnell,Minor character,Minor,3
+24963,5635,Kevin Dennis,Minor character,Minor,3
+24964,5635,Priest,Minor character,Minor,3
+24965,5635,Teacher,Minor character,Minor,3
+24966,5635,Martin Salnave,Minor character,Minor,3
+24967,5635,Waiter,Minor character,Minor,3
+24978,3208,Vivi Steensen,Lead character,Lead,1
+24979,3208,Linn Francois,Lead character,Lead,1
+24980,3208,Hugh Alkis,Supporting character,Supporting,2
+24981,3208,Caye Berry,Supporting character,Supporting,2
+24982,3208,Signe Amonoo,Supporting character,Supporting,2
+24983,3208,Teacher,Minor character,Minor,3
+24984,3208,Anders Goshwami,Minor character,Minor,3
+24985,3208,Mechanic,Background character,Background,5
+24986,3208,Hin Riponiemi,Cameo character,Cameo,4
+24987,18270,Justin Coquilla,Lead character,Lead,1
+24988,18270,Jakub Jamroz,Lead character,Lead,1
+24989,18270,Mary Armando,Supporting character,Supporting,2
+24990,18270,Tom Lacroix,Supporting character,Supporting,2
+24991,18270,Uri García,Supporting character,Supporting,2
+24992,18270,Marcelo Parcel,Cameo character,Cameo,4
+24993,18270,Karla McKinzie,Minor character,Minor,3
+24994,18270,Neighbour,Background character,Background,5
+24995,18270,Nurse,Minor character,Minor,3
+25003,2793,Cristian Tensek,Lead character,Lead,1
+25004,2793,Joanna Maria,Lead character,Lead,1
+25005,2793,César Khorev,Supporting character,Supporting,2
+25006,2793,Steve Kerr,Supporting character,Supporting,2
+25007,2793,Christopher Dowideit,Supporting character,Supporting,2
+25008,2793,Natalie Martinez,Supporting character,Supporting,2
+25009,2793,Eden Oliver,Minor character,Minor,3
+25010,2793,Greg Cook,Minor character,Minor,3
+25011,2793,Sergio Claudio,Minor character,Minor,3
+25012,2793,William Smith,Minor character,Minor,3
+25013,3620,Naia Chichester,Lead character,Lead,1
+25014,3620,John Komolafe,Supporting character,Supporting,2
+25015,3620,Neighbour,Minor character,Minor,3
+25016,3620,Sandi Gennari,Cameo character,Cameo,4
+25017,3793,Melissa Launder,Lead character,Lead,1
+25018,3793,Turid Bacher,Lead character,Lead,1
+25019,3793,Jack Alvarez,Supporting character,Supporting,2
+25020,3793,Kiara Priyasad,Supporting character,Supporting,2
+25021,3793,Thomas Daniel,Supporting character,Supporting,2
+25022,3793,Kahina Aliyah,Cameo character,Cameo,4
+25023,3793,Oakley Gantert,Background character,Background,5
+25024,3793,Passenger,Minor character,Minor,3
+25025,3793,Teacher,Minor character,Minor,3
+25033,6173,Gwynn Kuroda,Lead character,Lead,1
+25034,6173,Cedric Namikimichi,Supporting character,Supporting,2
+25035,6173,Reporter,Minor character,Minor,3
+25039,3826,Gary Armstrong,Lead character,Lead,1
+25040,3826,Sean McPherson,Supporting character,Supporting,2
+25041,7040,Ella Trang,Lead character,Lead,1
+25042,7040,Jim Ferran,Lead character,Lead,1
+25043,7040,Ross Funkhouser,Supporting character,Supporting,2
+25044,7040,Oscar Scheinman,Supporting character,Supporting,2
+25045,7040,Molly Säfström,Supporting character,Supporting,2
+25046,7040,Sophia Bellroth,Minor character,Minor,3
+25047,7040,Toni Karunaratne,Cameo character,Cameo,4
+25048,7040,Clerk,Minor character,Minor,3
+25049,7040,Doctor,Minor character,Minor,3
+25050,1851,Cabdibari Gjerstad,Lead character,Lead,1
+25051,1851,Katannya Trang,Lead character,Lead,1
+25052,1851,Eduardo Williams,Supporting character,Supporting,2
+25053,1851,David Nesta,Supporting character,Supporting,2
+25054,1851,Alfonso iAmHaks,Supporting character,Supporting,2
+25055,1851,LaMont Flaherty,Minor character,Minor,3
+25056,1851,Shopkeeper,Minor character,Minor,3
+25057,1851,Passenger,Minor character,Minor,3
+25058,582,Shyamal Leino,Lead character,Lead,1
+25059,582,Abby Guzzetta,Lead character,Lead,1
+25060,582,Holger Cointot,Supporting character,Supporting,2
+25061,582,Serena Cook,Supporting character,Supporting,2
+25062,582,Guard,Minor character,Minor,3
+25063,582,Joseph Rémélique,Minor character,Minor,3
+25064,2014,Paul Tessler,Lead character,Lead,1
+25065,2014,Ron Høegh,Supporting character,Supporting,2
+25066,2014,Priest,Minor character,Minor,3
+25076,7421,Bui Monteiro,Lead character,Lead,1
+25077,7421,Roman Brantsch,Lead character,Lead,1
+25078,7421,Tristan Kokta,Supporting character,Supporting,2
+25079,7421,Amita Wojciechowska,Supporting character,Supporting,2
+25080,7421,Razel Salazar,Cameo character,Cameo,4
+25084,16466,Demi Blye,Lead character,Lead,1
+25085,16466,Cairo Botto,Supporting character,Supporting,2
+25086,2963,Heather Jordan,Lead character,Lead,1
+25087,2963,Ted Ntlane,Lead character,Lead,1
+25088,2963,Audrey Walker,Lead character,Lead,1
+25089,2963,Arthur Ward,Supporting character,Supporting,2
+25090,2963,Fabio Dupree,Supporting character,Supporting,2
+25091,2963,Emma Saputra,Supporting character,Supporting,2
+25092,2963,Jerker Cardoso,Supporting character,Supporting,2
+25093,2963,Sky Fierro,Supporting character,Supporting,2
+25094,2963,Namikimichi Aleef,Supporting character,Supporting,2
+25095,2963,Astrid Lila,Supporting character,Supporting,2
+25096,2963,Cindy Grodecki,Cameo character,Cameo,4
+25097,2963,Julie Gagliardi,Cameo character,Cameo,4
+25098,2963,Mechanic,Minor character,Minor,3
+25099,2963,Mechanic,Minor character,Minor,3
+25100,2963,Stefan Morales,Cameo character,Cameo,4
+25101,2963,Landlord,Minor character,Minor,3
+25102,2963,Daniel Prior,Cameo character,Cameo,4
+25103,2963,Waiter,Minor character,Minor,3
+25104,2963,Waiter,Minor character,Minor,3
+25105,2963,Andreas Neboschizkij,Minor character,Minor,3
+25106,2963,Juna Singh,Minor character,Minor,3
+25107,7964,Claire,Lead character,Lead,1
+25108,7964,Mergie Jabat,Lead character,Lead,1
+25109,7964,Justin Gutiérrez,Supporting character,Supporting,2
+25110,7964,Richard Gaurav,Supporting character,Supporting,2
+25111,7964,Ivana Níelsson,Supporting character,Supporting,2
+25112,7964,Snezana Pygram,Supporting character,Supporting,2
+25113,7964,Alphie DeLoach,Minor character,Minor,3
+25114,7964,Milana Santiago,Minor character,Minor,3
+25115,7964,Kathy Lehman,Minor character,Minor,3
+25116,7964,Jakub Ibáñez,Minor character,Minor,3
+25117,10032,Belle Hamilton,Lead character,Lead,1
+25118,10032,Nfor Magro,Supporting character,Supporting,2
+25119,10032,Bartender,Minor character,Minor,3
+25120,10032,Passenger,Background character,Background,5
+25121,1534,August Warshal,Lead character,Lead,1
+25122,1534,Zihou Butler,Lead character,Lead,1
+25123,1534,David Hoffmann,Supporting character,Supporting,2
+25124,1534,Kahina Piatt,Supporting character,Supporting,2
+25125,1534,Teacher,Minor character,Minor,3
+25126,1534,Anders Furlong,Minor character,Minor,3
+25127,7705,Kalyn Allen,Lead character,Lead,1
+25128,7705,Yana Benton,Supporting character,Supporting,2
+25129,7705,Reporter,Minor character,Minor,3
+25130,7705,Roman Ungerer,Minor character,Minor,3
+25131,17025,Rhydian Sukkarieh,Lead character,Lead,1
+25132,17025,Nick Dechavez,Lead character,Lead,1
+25133,17025,Blair Fielding,Supporting character,Supporting,2
+25134,17025,Kiyoshi Florentine,Supporting character,Supporting,2
+25135,17025,Waiter,Minor character,Minor,3
+25143,5716,Natalie Lord,Lead character,Lead,1
+25144,5716,Paulina Burdge,Supporting character,Supporting,2
+25145,5716,Taxi Driver,Minor character,Minor,3
+25146,5716,Clerk,Minor character,Minor,3
+25147,312,Danuzia Grassia,Lead character,Lead,1
+25148,312,Robert Lundström,Lead character,Lead,1
+25149,312,Stanislav Gheorghiu,Lead character,Lead,1
+25150,312,Ann Thies,Supporting character,Supporting,2
+25151,312,Euclides Hermosillo,Supporting character,Supporting,2
+25152,312,Michael Hawkins,Supporting character,Supporting,2
+25153,312,Alec Good,Supporting character,Supporting,2
+25154,312,Peter Zuhdi,Supporting character,Supporting,2
+25155,312,Mia Hunt,Supporting character,Supporting,2
+25156,312,Antonio Lohr,Minor character,Minor,3
+25157,312,Nurse,Minor character,Minor,3
+25158,312,Chris Montesinos,Minor character,Minor,3
+25159,312,Peyton Carlton,Minor character,Minor,3
+25160,312,Yushuke Wood,Cameo character,Cameo,4
+25161,312,Bartender,Minor character,Minor,3
+25162,312,Jim Schaffstein,Minor character,Minor,3
+25163,312,Priest,Minor character,Minor,3
+25164,5240,Zuxole Fitzhenry,Lead character,Lead,1
+25165,5240,Jori Shanoc,Supporting character,Supporting,2
+25166,5240,Amarildo Matsumoto,Cameo character,Cameo,4
+25167,16204,Shyamal Krunić,Lead character,Lead,1
+25168,16204,Bobby Lowenstein,Lead character,Lead,1
+25169,16204,Beauty Foltz,Supporting character,Supporting,2
+25170,16204,Fehmi Gupta,Supporting character,Supporting,2
+25171,16204,Enrico Candra,Supporting character,Supporting,2
+25172,16204,Steven Turack,Minor character,Minor,3
+25173,16204,Bartender,Background character,Background,5
+25174,16204,Reporter,Minor character,Minor,3
+25175,2253,David Polanco,Lead character,Lead,1
+25176,2253,Yazmin Williamson,Lead character,Lead,1
+25177,2253,Manny Manca,Lead character,Lead,1
+25178,2253,Archnashree Krumov,Supporting character,Supporting,2
+25179,2253,Pamela Mehta,Supporting character,Supporting,2
+25180,2253,James Vyas,Supporting character,Supporting,2
+25181,2253,Ousley Melish,Supporting character,Supporting,2
+25182,2253,Delta Chung,Supporting character,Supporting,2
+25183,2253,Patrick Sirguy,Supporting character,Supporting,2
+25184,2253,Olive Tran,Cameo character,Cameo,4
+25185,2253,Patrick Lénárd,Minor character,Minor,3
+25186,2253,Justin Papineau,Minor character,Minor,3
+25187,2253,Tiger Mathison,Minor character,Minor,3
+25188,2253,Bartender,Minor character,Minor,3
+25189,2253,Landlord,Minor character,Minor,3
+25190,2253,Police Officer,Minor character,Minor,3
+25197,7454,Camilla McDaniel,Lead character,Lead,1
+25198,7454,Steven Laux,Supporting character,Supporting,2
+25209,7284,Ole Balser,Lead character,Lead,1
+25210,7284,Dan Ventura,Lead character,Lead,1
+25211,7284,Michael Miranda,Supporting character,Supporting,2
+25212,7284,Rafet Patissier,Supporting character,Supporting,2
+25213,7284,Bartender,Minor character,Minor,3
+25214,7284,Priest,Minor character,Minor,3
+25215,18997,Lara Uneputty,Lead character,Lead,1
+25216,18997,Wendy Baxter,Supporting character,Supporting,2
+25217,18997,Terrisa McWade,Minor character,Minor,3
+25218,18997,Kurt Holst,Minor character,Minor,3
+25219,3393,Carmine Franke,Lead character,Lead,1
+25220,3393,Julie Holt,Lead character,Lead,1
+25221,3393,Yasser Lim,Supporting character,Supporting,2
+25222,3393,Emiko Shepherd,Supporting character,Supporting,2
+25223,3393,Miren Hussain,Supporting character,Supporting,2
+25224,3393,Deanna Kelly,Supporting character,Supporting,2
+25225,3393,Rosemarie Martocchio,Cameo character,Cameo,4
+25226,3393,Shopkeeper,Minor character,Minor,3
+25227,3393,Guard,Background character,Background,5
+25228,3393,Mariano Brown,Cameo character,Cameo,4
+25238,4657,Suman Lehman,Lead character,Lead,1
+25239,4657,Anita Duringues,Lead character,Lead,1
+25240,4657,Fabrice Koshko,Supporting character,Supporting,2
+25241,4657,Benjamin Loughlin,Supporting character,Supporting,2
+25242,4657,Maritta Dorman,Minor character,Minor,3
+25243,4657,Romain Proulx,Minor character,Minor,3
+25250,19820,Effie Carola,Lead character,Lead,1
+25251,19820,Jianguo Arsenev,Supporting character,Supporting,2
+25252,19820,Jonathan Sanchez,Cameo character,Cameo,4
+25253,19820,Priest,Minor character,Minor,3
+25254,3925,Rogeiro Volk,Lead character,Lead,1
+25255,3925,Catherine Anne,Supporting character,Supporting,2
+25256,3925,Bartender,Minor character,Minor,3
+25278,5947,Bapi Marinov,Lead character,Lead,1
+25279,5947,Bob Cox,Lead character,Lead,1
+25280,5947,Clint Salvi,Lead character,Lead,1
+25281,5947,François Rush,Supporting character,Supporting,2
+25282,5947,Mark Crishlow,Supporting character,Supporting,2
+25283,5947,Osian Harris,Supporting character,Supporting,2
+25284,5947,Saranya González,Supporting character,Supporting,2
+25285,5947,Nitzan Ishikawa,Supporting character,Supporting,2
+25286,5947,Astrid Garcia,Supporting character,Supporting,2
+25287,5947,René Johnson,Supporting character,Supporting,2
+25288,5947,Lysiane Wardle,Supporting character,Supporting,2
+25289,5947,Olivier Wheaton,Supporting character,Supporting,2
+25290,5947,Greg Tard,Cameo character,Cameo,4
+25291,5947,Teacher,Minor character,Minor,3
+25292,5947,Priest,Minor character,Minor,3
+25293,5947,Ricardo Keener,Cameo character,Cameo,4
+25294,5947,Nicole Chichester,Minor character,Minor,3
+25295,5947,Landlord,Minor character,Minor,3
+25296,5947,Taxi Driver,Background character,Background,5
+25297,5947,Felicity Palmer,Background character,Background,5
+25298,5947,Landlord,Background character,Background,5
+25299,5947,Reporter,Background character,Background,5
+25300,5947,Amanda Luna,Cameo character,Cameo,4
+25301,5947,Jakob Kelly,Cameo character,Cameo,4
+25302,5947,Receptionist,Minor character,Minor,3
+25312,4325,Nick Thompson,Lead character,Lead,1
+25313,4325,Minako Borrallo,Lead character,Lead,1
+25314,4325,JoJoe Tarling,Lead character,Lead,1
+25315,4325,Patrick Rifkiss,Supporting character,Supporting,2
+25316,4325,Daniel Baker,Supporting character,Supporting,2
+25317,4325,James Tomchak,Supporting character,Supporting,2
+25318,4325,Ratno Kim,Supporting character,Supporting,2
+25319,4325,Yukio Caffey,Supporting character,Supporting,2
+25320,4325,Amalaman Jany,Supporting character,Supporting,2
+25321,4325,Wade Labonte,Supporting character,Supporting,2
+25322,4325,Shopkeeper,Minor character,Minor,3
+25323,4325,Courier,Minor character,Minor,3
+25324,4325,Amol Cullen,Minor character,Minor,3
+25325,4325,Bartender,Minor character,Minor,3
+25326,4325,Doctor,Background character,Background,5
+25327,4325,Police Officer,Background character,Background,5
+25328,4325,Hayley Lin,Minor character,Minor,3
+25329,4325,Guard,Minor character,Minor,3
+25330,4325,Vishnu Coccia,Cameo character,Cameo,4
+25331,4325,Courier,Minor character,Minor,3
+25348,3499,Robert Fekre,Lead character,Lead,1
+25349,3499,Richard Kato,Supporting character,Supporting,2
+25350,3499,Kiera Pietchell,Minor character,Minor,3
+25405,1033,Marcelo Florentine,Lead character,Lead,1
+25406,1033,Ana Ong,Lead character,Lead,1
+25407,1033,Dolores Williams,Supporting character,Supporting,2
+25408,1033,Hana Nicolae,Supporting character,Supporting,2
+25409,1033,Andrew Nakajima,Cameo character,Cameo,4
+25462,6437,Ellie Wasser,Lead character,Lead,1
+25463,6437,Chester Mikenas,Lead character,Lead,1
+25464,6437,Tyshan Glogowski,Supporting character,Supporting,2
+25465,6437,Jeremiah Barzideh,Supporting character,Supporting,2
+25466,6437,Suzana Wallevee,Minor character,Minor,3
+25467,6437,Makenzie Girardet,Minor character,Minor,3
+25468,6488,Ken Reef,Lead character,Lead,1
+25469,6488,Mirza Cipollone,Lead character,Lead,1
+25470,6488,Daniel Martinez,Lead character,Lead,1
+25471,6488,Jim Monteiro,Supporting character,Supporting,2
+25472,6488,David Chaoul,Supporting character,Supporting,2
+25473,6488,Justin Road,Supporting character,Supporting,2
+25474,6488,Jenny Petch,Supporting character,Supporting,2
+25475,6488,Russell Walker,Supporting character,Supporting,2
+25476,6488,Thomas Igarza,Supporting character,Supporting,2
+25477,6488,Wolfgang Uchiyama,Supporting character,Supporting,2
+25478,6488,Clerk,Minor character,Minor,3
+25479,6488,Millie JonTonio,Minor character,Minor,3
+25480,6488,Bartender,Background character,Background,5
+25481,6488,Eliana Robles,Minor character,Minor,3
+25482,6488,Guard,Minor character,Minor,3
+25483,6488,Mike Lanflisi,Cameo character,Cameo,4
+25484,6488,Guard,Minor character,Minor,3
+25485,6488,Wonder Nakajima,Cameo character,Cameo,4
+25486,6488,Abdul Kryske,Minor character,Minor,3
+25487,6488,April Leigh,Minor character,Minor,3
+25505,1364,Thomas Lee,Lead character,Lead,1
+25506,1364,Greg McKee,Supporting character,Supporting,2
+25511,2618,Karla Warshal,Lead character,Lead,1
+25512,2618,Sascha Susskind,Lead character,Lead,1
+25513,2618,Uri Baird,Supporting character,Supporting,2
+25514,2618,Kendon Bruzdziak,Supporting character,Supporting,2
+25515,2618,Christine Orma,Cameo character,Cameo,4
+25516,2618,Kyeongsook Sharhy,Minor character,Minor,3
+25537,3631,Janina Harris,Lead character,Lead,1
+25538,3631,Artur Abbas,Lead character,Lead,1
+25539,3631,Will Atkins,Supporting character,Supporting,2
+25540,3631,Arstide Groeseneken,Supporting character,Supporting,2
+25541,3631,Ilya Welch,Supporting character,Supporting,2
+25542,3631,Clerk,Background character,Background,5
+25543,3631,Receptionist,Minor character,Minor,3
+25544,3631,Gregory Anderson,Minor character,Minor,3
+25545,3631,Elsa Henry,Cameo character,Cameo,4
+25546,19555,Diana Lowenstein,Lead character,Lead,1
+25547,19555,Yana Jannus,Lead character,Lead,1
+25548,19555,Gwynn Jaen,Supporting character,Supporting,2
+25549,19555,Daniel Chen,Supporting character,Supporting,2
+25550,19555,Landlord,Minor character,Minor,3
+25551,1108,Amaia Bora,Lead character,Lead,1
+25552,1108,Pierre Tobul,Lead character,Lead,1
+25553,1108,Steven Kato,Supporting character,Supporting,2
+25554,1108,Kevin Yiko,Supporting character,Supporting,2
+25555,1108,Bartender,Minor character,Minor,3
+25556,1108,Taxi Driver,Minor character,Minor,3
+25598,19303,Claudia Jarcevski,Lead character,Lead,1
+25599,19303,Jimmy Doshi,Supporting character,Supporting,2
+25600,19303,François Burnett,Minor character,Minor,3
+25601,3718,Alexeï Maillard,Lead character,Lead,1
+25602,3718,Trevor Cheema,Lead character,Lead,1
+25603,3718,Kjetil Thorsson,Supporting character,Supporting,2
+25604,3718,Giorgia Lochtenberg,Supporting character,Supporting,2
+25605,3718,Bartender,Minor character,Minor,3
+25617,1638,Yolanda Horváth,Lead character,Lead,1
+25618,1638,Ross Attitude,Lead character,Lead,1
+25619,1638,Paulina Parry,Supporting character,Supporting,2
+25620,1638,Richard Kaumabayev,Supporting character,Supporting,2
+25621,1638,Guard,Minor character,Minor,3
+25622,1638,DirtyPueppy Robinson,Cameo character,Cameo,4
+25623,1638,Danny Fitzhenry,Minor character,Minor,3
+25624,2146,Steven Pawar,Lead character,Lead,1
+25625,2146,Chad Salama,Lead character,Lead,1
+25626,2146,Sanaa Scuorzo,Supporting character,Supporting,2
+25627,2146,Zinayda Glass,Supporting character,Supporting,2
+25628,2146,Aleksey Hunn,Cameo character,Cameo,4
+25629,2146,Guard,Minor character,Minor,3
+25630,356,Nicholas Salam,Lead character,Lead,1
+25631,356,Kelsey Clay,Supporting character,Supporting,2
+25632,356,Bill Woodward,Cameo character,Cameo,4
+25633,2864,Marisa Kosisochukwu,Lead character,Lead,1
+25634,2864,John Schlumbom,Lead character,Lead,1
+25635,2864,Yujuan García,Supporting character,Supporting,2
+25636,2864,Dan André,Supporting character,Supporting,2
+25637,2864,Mike Rottenberg,Supporting character,Supporting,2
+25638,2864,Mohamed Cox,Supporting character,Supporting,2
+25639,2864,Courier,Minor character,Minor,3
+25640,2864,Alejandro Austin,Minor character,Minor,3
+25641,2864,Mechanic,Minor character,Minor,3
+25642,2864,Passenger,Minor character,Minor,3
+25686,1884,Michael Lai,Lead character,Lead,1
+25687,1884,Tomas Sweeting,Lead character,Lead,1
+25688,1884,Bahadar Urbán,Supporting character,Supporting,2
+25689,1884,Jamal Faust,Supporting character,Supporting,2
+25690,1884,Jacqueline Russo,Supporting character,Supporting,2
+25691,1884,Taxi Driver,Minor character,Minor,3
+25692,1884,Waiter,Background character,Background,5
+25693,1884,Charles Dunn,Minor character,Minor,3
+25694,1884,Winn Jones,Minor character,Minor,3
+25695,5323,Arstide Ramanna,Lead character,Lead,1
+25696,5323,Lisa Szeifert,Supporting character,Supporting,2
+25697,5323,Andrea Kimura,Minor character,Minor,3
+25698,2106,Chester Ehab,Lead character,Lead,1
+25699,2106,Alyce Bamford,Supporting character,Supporting,2
+25700,2106,Laura Okoro,Minor character,Minor,3
+25701,2808,Tsubasa Knopp,Lead character,Lead,1
+25702,2808,Warren Kelly,Lead character,Lead,1
+25703,2808,Anisa Lollo,Lead character,Lead,1
+25704,2808,Fanette Moss,Supporting character,Supporting,2
+25705,2808,Lei Boswell,Supporting character,Supporting,2
+25706,2808,Aidan Mundy,Supporting character,Supporting,2
+25707,2808,Jeff Gremlin,Supporting character,Supporting,2
+25708,2808,Adrian Ucar,Supporting character,Supporting,2
+25709,2808,Craig Skrzecz,Supporting character,Supporting,2
+25710,2808,Vivi Maggard,Background character,Background,5
+25711,2808,Receptionist,Minor character,Minor,3
+25712,2808,Germán Khalil,Minor character,Minor,3
+25713,2808,Jerry Bravo,Cameo character,Cameo,4
+25714,2808,Elio Ovídio,Cameo character,Cameo,4
+25715,2808,Bartender,Minor character,Minor,3
+25716,2808,Guard,Background character,Background,5
+25744,17498,Huguette White,Lead character,Lead,1
+25745,17498,Mike Browne,Lead character,Lead,1
+25746,17498,Blerina Armstrong,Supporting character,Supporting,2
+25747,17498,Emilio Coronati,Supporting character,Supporting,2
+25748,17498,Robert Dechant,Background character,Background,5
+25749,17498,Dritëro Sweet,Minor character,Minor,3
+25750,5712,Roy Clara,Lead character,Lead,1
+25751,5712,Saravanan Rizvi,Lead character,Lead,1
+25752,5712,Joe Dziadek,Supporting character,Supporting,2
+25753,5712,Masato Cleary,Supporting character,Supporting,2
+25754,5712,Enea Kym,Supporting character,Supporting,2
+25755,5712,Lauren Grzegorek,Supporting character,Supporting,2
+25756,5712,Clerk,Minor character,Minor,3
+25757,5712,Jack Carswell,Minor character,Minor,3
+25758,5712,Harmandeep Pomeroy,Minor character,Minor,3
+25759,5712,Anton Hunn,Minor character,Minor,3
+25760,976,Ann Damacena,Lead character,Lead,1
+25761,976,Chinedu Febbo,Supporting character,Supporting,2
+25762,976,Morten Lohr,Minor character,Minor,3
+25763,976,Priest,Minor character,Minor,3
+25764,7067,Olaniyan Gale,Lead character,Lead,1
+25765,7067,Meenakshi Chaoul,Lead character,Lead,1
+25766,7067,Martín Raines,Lead character,Lead,1
+25767,7067,Alex Pitet,Supporting character,Supporting,2
+25768,7067,Matteo Tyroll,Supporting character,Supporting,2
+25769,7067,Ibrahim Holst,Supporting character,Supporting,2
+25770,7067,Paul Pirman,Supporting character,Supporting,2
+25771,7067,Graziela JonTonio,Supporting character,Supporting,2
+25772,7067,Nfor Travis,Supporting character,Supporting,2
+25773,7067,Landlord,Minor character,Minor,3
+25774,7067,Mechanic,Minor character,Minor,3
+25775,7067,Mechanic,Minor character,Minor,3
+25776,7067,Doctor,Minor character,Minor,3
+25777,7067,Charles Deas,Minor character,Minor,3
+25778,7067,Taxi Driver,Minor character,Minor,3
+25779,7067,Emanuel Prado,Cameo character,Cameo,4
+25780,7067,Neighbour,Minor character,Minor,3
+25861,6900,Dago Green,Lead character,Lead,1
+25862,6900,Jack Michael,Lead character,Lead,1
+25863,6900,YaiMakMak Simpère,Supporting character,Supporting,2
+25864,6900,Laura Revelli,Supporting character,Supporting,2
+25865,6900,Thomas Ajsangaliyeva,Supporting character,Supporting,2
+25866,6900,David Carroll,Supporting character,Supporting,2
+25867,6900,Teacher,Minor character,Minor,3
+25868,6900,Gus Michelson,Background character,Background,5
+25869,6900,Anna Petch,Minor character,Minor,3
+25870,6900,Laura Quliyeva,Cameo character,Cameo,4
+25875,16692,Oriol Bae,Lead character,Lead,1
+25876,16692,Jim Nelson,Lead character,Lead,1
+25877,16692,Kevin Wang,Supporting character,Supporting,2
+25878,16692,Max Lau,Supporting character,Supporting,2
+25879,16692,Bernie Mayama,Supporting character,Supporting,2
+25880,16692,Reporter,Minor character,Minor,3
+25881,16692,Doctor,Minor character,Minor,3
+25882,16692,Vladimir Parker,Background character,Background,5
+25888,12478,Jose Lehr,Lead character,Lead,1
+25889,12478,Reb Gauthier,Supporting character,Supporting,2
+25890,12478,Priest,Minor character,Minor,3
+25891,12478,Andrii Erhardt,Minor character,Minor,3
+25908,19008,Ashley Nagamine,Lead character,Lead,1
+25909,19008,Tibor Miller,Supporting character,Supporting,2
+25910,19008,Bonebridger Ackerman,Minor character,Minor,3
+25911,3962,Dmitry Nakano,Lead character,Lead,1
+25912,3962,Luiz Scuorzo,Supporting character,Supporting,2
+25916,369,Hatari Carter,Lead character,Lead,1
+25917,369,Lara Córdoba,Supporting character,Supporting,2
+25918,9294,Fahriye Meddouri,Lead character,Lead,1
+25919,9294,Rachel Plooy,Supporting character,Supporting,2
+25955,19990,Nicolás Ulvatne,Lead character,Lead,1
+25956,19990,Avani Taylor,Supporting character,Supporting,2
+25957,19990,Bartender,Minor character,Minor,3
+25958,19990,Taxi Driver,Background character,Background,5
+25982,6090,James Stefanis,Lead character,Lead,1
+25983,6090,Nic Jacobs,Lead character,Lead,1
+25984,6090,Isabelle iAmHaks,Supporting character,Supporting,2
+25985,6090,Martina Fallah,Supporting character,Supporting,2
+25986,6090,Police Officer,Minor character,Minor,3
+26046,299,Alexandria Lopez,Lead character,Lead,1
+26047,299,Jan Carrasco,Lead character,Lead,1
+26048,299,Vladislav Wang,Supporting character,Supporting,2
+26049,299,Pierre Rud,Supporting character,Supporting,2
+26050,299,Mary Magro,Supporting character,Supporting,2
+26051,299,Lars Kincl,Background character,Background,5
+26052,299,Steve Higginson,Minor character,Minor,3
+26053,299,Taxi Driver,Minor character,Minor,3
+26054,299,Neighbour,Minor character,Minor,3
+26069,6860,Dan Stone,Lead character,Lead,1
+26070,6860,Dan Hart,Supporting character,Supporting,2
+26071,6860,Martín Pietchell,Minor character,Minor,3
+26114,4673,Nate Cordoba,Lead character,Lead,1
+26115,4673,Tatyana Shaw,Supporting character,Supporting,2
+26116,4673,Police Officer,Minor character,Minor,3
+26117,4673,Bartender,Minor character,Minor,3
+26159,1579,Eber Tornero,Lead character,Lead,1
+26160,1579,Narcisa Ydery,Supporting character,Supporting,2
+26161,1579,Ronald Maggard,Cameo character,Cameo,4
+26272,5410,Charlie Bachate,Lead character,Lead,1
+26273,5410,Timothy Moya,Lead character,Lead,1
+26274,5410,Veronika Suryadi,Lead character,Lead,1
+26275,5410,Anouk Tink,Supporting character,Supporting,2
+26276,5410,Morgan Possenti,Supporting character,Supporting,2
+26277,5410,Oakley Salgaonkar,Supporting character,Supporting,2
+26278,5410,Yana Kirkpatrick,Supporting character,Supporting,2
+26279,5410,William Olaiya,Supporting character,Supporting,2
+26280,5410,Mechanic,Minor character,Minor,3
+26281,5410,Nurse,Minor character,Minor,3
+26282,5410,Mechanic,Minor character,Minor,3
+26283,5410,Passenger,Minor character,Minor,3
+26284,5410,Tiffany Reilly,Minor character,Minor,3
+26285,5410,Makoto Capobianco,Cameo character,Cameo,4
+26286,5410,Waiter,Minor character,Minor,3
+26348,4033,Sándorné Welch,Lead character,Lead,1
+26349,4033,Muhammad Giger,Supporting character,Supporting,2
+26350,4033,Bartender,Minor character,Minor,3
+26404,76,Alexander Lyons,Lead character,Lead,1
+26405,76,Tom Evangelista,Lead character,Lead,1
+26406,76,Bert Communicate,Lead character,Lead,1
+26407,76,Holly Lehtonen,Supporting character,Supporting,2
+26408,76,Declan Rolle,Supporting character,Supporting,2
+26409,76,Tirelo Padilla,Supporting character,Supporting,2
+26410,76,Johannes Flaherty,Supporting character,Supporting,2
+26411,76,Daniel Osman,Supporting character,Supporting,2
+26412,76,Noah Ashok,Supporting character,Supporting,2
+26413,76,Anna Hinostroza,Minor character,Minor,3
+26414,76,Courier,Minor character,Minor,3
+26415,76,Livia Reid,Cameo character,Cameo,4
+26416,76,Teacher,Minor character,Minor,3
+26417,76,Kate Gois,Minor character,Minor,3
+26418,76,Passenger,Minor character,Minor,3
+26419,76,Courier,Minor character,Minor,3
+26442,3364,Maritta Pollock,Lead character,Lead,1
+26443,3364,Aleksey Zubrova,Lead character,Lead,1
+26444,3364,Anthony Lee,Supporting character,Supporting,2
+26445,3364,Adrian Fairhead,Supporting character,Supporting,2
+26446,3364,Temitope Barboza,Supporting character,Supporting,2
+26447,3364,Kiyoshi Watson,Cameo character,Cameo,4
+26448,3364,Elle Crowley,Minor character,Minor,3
+26449,3364,Bruce Agostini,Minor character,Minor,3
+26450,3364,Police Officer,Minor character,Minor,3
+26451,7541,Ronald Papania,Lead character,Lead,1
+26452,7541,Nate Khan,Supporting character,Supporting,2
+26453,7541,Doctor,Minor character,Minor,3
+26454,12943,Mateusz Scheunemann,Lead character,Lead,1
+26455,12943,Mohammad Hosono,Supporting character,Supporting,2
+26473,7460,Dave Castro,Lead character,Lead,1
+26474,7460,Jack Pemberton,Supporting character,Supporting,2
+26475,7460,Patrick Jardine,Cameo character,Cameo,4
+26548,886,Debashish Rystwej,Lead character,Lead,1
+26549,886,Armand Dayama,Supporting character,Supporting,2
+26550,251,Sandra Terayama,Lead character,Lead,1
+26551,251,David Micheli,Lead character,Lead,1
+26552,251,Guillermo Posey,Lead character,Lead,1
+26553,251,Jeff Simpson,Supporting character,Supporting,2
+26554,251,Yuan Nesta,Supporting character,Supporting,2
+26555,251,Ellie Booker,Supporting character,Supporting,2
+26556,251,Vladimir Gerada,Supporting character,Supporting,2
+26557,251,Paul Kochlöfl,Supporting character,Supporting,2
+26558,251,Kendon Durgarao,Supporting character,Supporting,2
+26559,251,Shi Tamarit,Supporting character,Supporting,2
+26560,251,Erik Forshtreter,Cameo character,Cameo,4
+26561,251,Passenger,Background character,Background,5
+26562,251,Landlord,Minor character,Minor,3
+26563,251,Teacher,Minor character,Minor,3
+26564,251,Alison Lisca,Minor character,Minor,3
+26565,251,Kyle Espanol,Background character,Background,5
+26566,251,Shopkeeper,Background character,Background,5
+26567,251,Guard,Minor character,Minor,3
+26568,251,Passenger,Minor character,Minor,3
+26569,251,Corentin Jagadeesh,Minor character,Minor,3
+26570,251,Receptionist,Minor character,Minor,3
+26642,1855,Rowan Nagasawa,Lead character,Lead,1
+26643,1855,Vinz Roth,Lead character,Lead,1
+26644,1855,Ismail Crace,Lead character,Lead,1
+26645,1855,Iskender Moss,Supporting character,Supporting,2
+26646,1855,Diego Granato,Supporting character,Supporting,2
+26647,1855,Alexander Lathan,Supporting character,Supporting,2
+26648,1855,Avari Crosse,Supporting character,Supporting,2
+26649,1855,Eva Youn,Supporting character,Supporting,2
+26650,1855,Valeria Barboza,Supporting character,Supporting,2
+26651,1855,Paula Ferguson,Cameo character,Cameo,4
+26652,1855,Neighbour,Background character,Background,5
+26653,1855,Gaiming Anand,Cameo character,Cameo,4
+26654,1855,Courier,Minor character,Minor,3
+26655,1855,Mechanic,Minor character,Minor,3
+26656,1855,Taxi Driver,Minor character,Minor,3
+26657,1855,David Papania,Minor character,Minor,3
+26765,4324,Sam DeCicco,Lead character,Lead,1
+26766,4324,Manu Braga,Lead character,Lead,1
+26767,4324,Jan Togneri,Lead character,Lead,1
+26768,4324,Kevin Goroziya,Supporting character,Supporting,2
+26769,4324,Wassim Jones,Supporting character,Supporting,2
+26770,4324,Marc Orser,Supporting character,Supporting,2
+26771,4324,Alonu Hristovsky,Supporting character,Supporting,2
+26772,4324,Roberto Wilde,Supporting character,Supporting,2
+26773,4324,Stephen Raj,Supporting character,Supporting,2
+26774,4324,Police Officer,Minor character,Minor,3
+26775,4324,Amir Lin,Cameo character,Cameo,4
+26776,4324,Taxi Driver,Minor character,Minor,3
+26777,4324,Brittany Mang,Minor character,Minor,3
+26778,4324,Landlord,Background character,Background,5
+26779,4324,Antony Jackson,Minor character,Minor,3
+26780,4324,Guard,Minor character,Minor,3
+26781,4324,Robert Dorman,Cameo character,Cameo,4
+26801,1993,Leonor Depauli,Lead character,Lead,1
+26802,1993,Allan Derose,Supporting character,Supporting,2
+26803,1993,Police Officer,Minor character,Minor,3
+26804,5875,Bram Lindsey,Lead character,Lead,1
+26805,5875,Dalila Bolin,Supporting character,Supporting,2
+26806,5875,Neighbour,Minor character,Minor,3
+26807,7511,Zachary Zahid,Lead character,Lead,1
+26808,7511,Holly Celebic,Supporting character,Supporting,2
+26809,7511,Sean Romero,Cameo character,Cameo,4
+26810,7511,Clerk,Minor character,Minor,3
+26839,7153,Husain Levinson,Lead character,Lead,1
+26840,7153,Connie Sanchez,Supporting character,Supporting,2
+26841,786,Milkah Khaefi,Lead character,Lead,1
+26842,786,Horrorshow Grzeszczak,Lead character,Lead,1
+26843,786,Froilan Montesinos,Supporting character,Supporting,2
+26844,786,Kelley Russell,Supporting character,Supporting,2
+26845,786,David Markov,Supporting character,Supporting,2
+26846,786,Sara Brooks,Supporting character,Supporting,2
+26847,786,Sakurako Sten,Background character,Background,5
+26848,786,Courier,Minor character,Minor,3
+26849,786,Arcady Aliyah,Minor character,Minor,3
+26850,786,Reporter,Minor character,Minor,3
+27006,1174,Julie Llabata,Lead character,Lead,1
+27007,1174,Kyrian Kipervaser,Lead character,Lead,1
+27008,1174,Susan Fabo,Supporting character,Supporting,2
+27009,1174,Kenyetta Ambroise,Supporting character,Supporting,2
+27010,1174,Deborah Doat,Supporting character,Supporting,2
+27011,1174,Geno Gallardo,Supporting character,Supporting,2
+27012,1174,Jordan McClure,Minor character,Minor,3
+27013,1174,Gino Tang,Minor character,Minor,3
+27014,1174,Barbara Sakharov,Minor character,Minor,3
+27015,1174,John Wolffersdorff,Minor character,Minor,3
+27016,1174,Clerk,Minor character,Minor,3
+27076,422,Charlotte Kumar,Lead character,Lead,1
+27077,422,Marc Leaves,Supporting character,Supporting,2
+27078,422,Reporter,Minor character,Minor,3
+27083,9055,JoJoe Irvine,Lead character,Lead,1
+27084,9055,Trish Eskow,Supporting character,Supporting,2
+27085,9055,Courier,Minor character,Minor,3
+27138,12133,Henriikka Nicolae,Lead character,Lead,1
+27139,12133,Edgardo Brady,Supporting character,Supporting,2
+27147,5898,Nageswar Gnann,Lead character,Lead,1
+27148,5898,Avani Dorman,Supporting character,Supporting,2
+27149,5898,Myrna Ankney,Cameo character,Cameo,4
+27150,5898,Alicia Papp,Minor character,Minor,3
+27157,1653,Anthony Pilon,Lead character,Lead,1
+27158,1653,Oriol Singh,Lead character,Lead,1
+27159,1653,Wei Kiadas,Lead character,Lead,1
+27160,1653,Matt Monahan,Supporting character,Supporting,2
+27161,1653,James Hughes,Supporting character,Supporting,2
+27162,1653,Raja Téllez,Supporting character,Supporting,2
+27163,1653,Arline Coleman,Supporting character,Supporting,2
+27164,1653,Park Brockston,Supporting character,Supporting,2
+27165,1653,Sergio Singh,Supporting character,Supporting,2
+27166,1653,Christina Níelsson,Supporting character,Supporting,2
+27167,1653,Paul Blandine,Supporting character,Supporting,2
+27168,1653,Guard,Minor character,Minor,3
+27169,1653,Amara Mejía,Minor character,Minor,3
+27170,1653,Courier,Minor character,Minor,3
+27171,1653,Michael Hays,Minor character,Minor,3
+27172,1653,María Acosta,Cameo character,Cameo,4
+27173,1653,Patrizia Lacroix,Minor character,Minor,3
+27174,1653,Teacher,Minor character,Minor,3
+27175,1653,Punit McInnis,Background character,Background,5
+27176,1653,Taxi Driver,Minor character,Minor,3
+27177,1653,Taxi Driver,Minor character,Minor,3
+27178,1653,Guard,Minor character,Minor,3
+27179,1653,Sandi Oliver,Minor character,Minor,3
+27180,1653,Teacher,Background character,Background,5
+27229,6721,Ken Veni,Lead character,Lead,1
+27230,6721,Rosalie Haddadou,Supporting character,Supporting,2
+27231,16361,Zoé Szczypta,Lead character,Lead,1
+27232,16361,Shady Hosoi,Supporting character,Supporting,2
+27233,16361,Jeanne Veitch,Cameo character,Cameo,4
+27271,18701,Belle Bonczyk,Lead character,Lead,1
+27272,18701,Mark Berger,Lead character,Lead,1
+27273,18701,Albert Matuszewska,Supporting character,Supporting,2
+27274,18701,Clifford Taylor,Supporting character,Supporting,2
+27275,18701,Peggy Heathzilla,Minor character,Minor,3
+27276,18701,Karel Vakhevich,Minor character,Minor,3

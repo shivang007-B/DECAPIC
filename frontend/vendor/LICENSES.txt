@@ -1,0 +1,4 @@
+Third-party files bundled so that DecaPic works offline:
+- Chart.js (MIT)            https://www.chartjs.org
+- Outfit font (SIL OFL 1.1) https://fonts.google.com/specimen/Outfit   (via @fontsource/outfit)
+- Lucide icons (ISC)        https://lucide.dev                          (js/icons.js)

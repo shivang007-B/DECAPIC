@@ -1,0 +1,8 @@
+model_id,model_name,source_view,target_column,task_type,algorithm,n_train,n_test,metric_1_name,metric_1_value,metric_2_name,metric_2_value,trained_at
+1,scene_duration,v_ml_schedule_training,actual_duration_hours,regression,HistGradientBoosting,8596,2339,MAE,0.8496508009818162,R2,0.6104687297061158,2026-10-07 08:41:20
+2,crew_required,v_ml_resource_demand,crew_required_count,regression,HistGradientBoosting,8596,2339,MAE,4.543131601371613,R2,0.5419710273977231,2026-10-07 08:41:20
+3,equipment_required,v_ml_resource_demand,equipment_required_count,regression,HistGradientBoosting,8596,2339,MAE,4.819865476659632,R2,0.5462058267927863,2026-10-07 08:41:21
+4,equipment_units,v_ml_equipment_demand,equipment_quantity,regression,HistGradientBoosting,34384,9356,MAE,1.3302660218130877,R2,0.7013660283246566,2026-10-07 08:41:21
+5,production_risk_delay,v_ml_risk_training,delay_occurred,classification,HistGradientBoosting,1380,315,ROC_AUC,0.8939148073022312,Accuracy,0.8063492063492064,2026-10-07 08:41:22
+6,budget_overrun,v_ml_budget_training,budget_overrun_pct,regression,HistGradientBoosting,1225,265,MAE,0.10665309745311538,R2,0.20322002323537192,2026-10-07 08:41:22
+7,crew_match,v_ml_crew_training,label,classification,HistGradientBoosting,7858,2350,ROC_AUC,0.8207963784517881,Accuracy,0.7523404255319149,2026-10-07 08:41:22

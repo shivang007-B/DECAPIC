@@ -1,0 +1,1494 @@
+distribution_id,project_id,distributor_id,platform,territory,release_type,release_date,language_id,certificate,deal_value,status
+90,31,824,TV,US,TV Broadcast,2017-05-10,1,NR,907982.7,Released
+91,31,433,Cinema,BR,Limited Theatrical,2017-08-28,1,NR,1084356.3,Released
+92,31,\N,Festival,US,Festival Premiere,2017-02-23,1,NR,\N,Released
+127,43,931,Cinema,CA,Limited Theatrical,2017-01-05,4,R,588026.04,Released
+128,43,719,Cinema,AU,Limited Theatrical,2017-04-15,4,R,603415.18,Released
+129,43,626,TV,BR,TV Broadcast,2017-02-17,4,R,401970.0,Released
+130,43,\N,Festival,CA,Festival Premiere,2016-10-24,4,R,\N,Released
+251,83,324,Cinema,US,Limited Theatrical,2017-06-08,1,PG-13,12129617.48,Released
+252,83,26,Cinema,ES,Wide Theatrical,2017-09-23,1,PG-13,4494277.57,Released
+253,83,391,TV,FR,TV Broadcast,2017-07-16,1,PG-13,693075.3,Released
+254,83,\N,Festival,US,Festival Premiere,2017-03-21,1,PG-13,\N,Released
+287,94,283,Streaming,IT,Streaming Premiere,2018-07-06,6,16+,60622031.83,Released
+288,94,\N,Festival,IT,Festival Premiere,2018-04-14,6,16+,\N,Released
+289,95,166,Home Video / VOD,GB,Digital Release,2017-02-19,1,15,45777.86,Released
+290,95,172,Home Video / VOD,GB,Digital Release,2017-04-15,1,15,15169.87,Released
+291,95,543,Streaming,AU,Streaming Premiere,2017-05-01,1,15,81437.17,Released
+292,95,\N,Festival,GB,Festival Premiere,2017-01-25,1,15,\N,Released
+298,98,962,Cinema,US,Limited Theatrical,2017-06-22,18,12+,1917584.22,Released
+299,98,311,International Sales,KR,Festival / Sales,2017-10-05,18,12+,1008845.38,Released
+300,98,\N,Festival,US,Festival Premiere,2017-04-16,18,12+,\N,Released
+388,128,665,Streaming,US,Streaming Premiere,2018-06-24,1,PG-13,76736356.4,Released
+389,128,421,TV,KR,TV Broadcast,2018-10-18,1,PG-13,8764760.9,Released
+390,128,\N,Festival,US,Festival Premiere,2018-05-29,1,PG-13,\N,Released
+439,145,214,Home Video / VOD,DK,Digital Release,2017-08-04,20,18+,512756.54,Released
+440,145,9,TV,GB,TV Broadcast,2017-09-13,20,18+,121825.73,Released
+441,145,513,Streaming,BR,Streaming Premiere,2017-09-20,20,18+,1129090.99,Released
+442,145,\N,Festival,DK,Festival Premiere,2017-06-24,20,18+,\N,Released
+466,154,854,Cinema,US,Limited Theatrical,2017-05-11,1,R,43842.19,Released
+467,154,578,Cinema,IN,Wide Theatrical,2017-06-22,1,R,134777.43,Released
+468,154,\N,Festival,US,Festival Premiere,2017-03-03,1,R,\N,Released
+494,163,399,Home Video / VOD,BR,Digital Release,2017-12-17,8,12+,1501452.07,Released
+495,163,\N,Festival,BR,Festival Premiere,2017-11-10,8,12+,\N,Released
+540,178,359,Cinema,NL,Wide Theatrical,2017-06-17,18,12+,54419.83,Released
+541,178,81,TV,ES,TV Broadcast,2017-07-03,18,12+,31798.28,Released
+542,178,532,TV,CA,TV Broadcast,2017-07-29,18,12+,33342.92,Released
+543,178,\N,Festival,NL,Festival Premiere,2017-05-19,18,12+,\N,Released
+740,243,466,Cinema,IN,Limited Theatrical,2017-08-12,2,U,28677.03,Released
+741,243,\N,Festival,IN,Festival Premiere,2017-06-12,2,U,\N,Released
+784,258,606,Streaming,US,Streaming Premiere,2017-10-05,1,R,1941752.42,Released
+785,258,657,Cinema,DE,Limited Theatrical,2017-11-06,1,R,85777.82,Released
+786,258,596,Cinema,JP,Wide Theatrical,2017-11-18,1,R,361386.7,Released
+787,258,\N,Festival,US,Festival Premiere,2017-09-01,1,R,\N,Released
+843,276,645,Cinema,GB,Wide Theatrical,2018-08-19,1,PG,71233287.72,Released
+844,276,418,Cinema,CA,Wide Theatrical,2018-11-06,1,PG,12803194.32,Released
+845,276,174,Cinema,CA,Wide Theatrical,2018-10-09,1,PG,3485950.85,Released
+846,276,\N,Festival,GB,Festival Premiere,2018-07-29,1,PG,\N,Released
+852,279,598,Cinema,DK,Limited Theatrical,2017-12-16,20,18+,1225865.06,Released
+853,279,355,Home Video / VOD,KR,Digital Release,2018-03-05,20,18+,99331.2,Released
+854,279,781,International Sales,KR,Festival / Sales,2018-01-24,20,18+,137204.63,Released
+855,279,\N,Festival,DK,Festival Premiere,2017-11-07,20,18+,\N,Released
+951,312,768,Cinema,TR,Wide Theatrical,2018-06-16,13,16+,5634798.47,Released
+952,312,865,TV,IN,TV Broadcast,2018-07-22,13,16+,687035.62,Released
+953,312,\N,Festival,TR,Festival Premiere,2018-04-28,13,16+,\N,Released
+1002,328,485,TV,ES,TV Broadcast,2018-01-08,22,All,61752.4,Released
+1003,328,771,Cinema,IN,Limited Theatrical,2018-02-02,22,All,148352.2,Released
+1004,328,\N,Festival,ES,Festival Premiere,2017-12-07,22,All,\N,Released
+1022,335,885,Streaming,US,Streaming Premiere,2017-12-03,1,PG-13,85511.38,Released
+1023,335,983,Home Video / VOD,JP,Digital Release,2018-01-24,1,PG-13,3151.71,Released
+1024,335,\N,Festival,US,Festival Premiere,2017-10-12,1,PG-13,\N,Released
+1054,345,944,Home Video / VOD,US,Digital Release,2017-11-10,1,NR,89776.91,Released
+1055,345,884,Cinema,DE,Limited Theatrical,2018-01-26,1,NR,121099.22,Released
+1056,345,\N,Festival,US,Festival Premiere,2017-09-24,1,NR,\N,Released
+1082,355,678,Cinema,GB,Wide Theatrical,2018-06-19,1,15,4908186.5,Released
+1083,355,\N,Festival,GB,Festival Premiere,2018-04-03,1,15,\N,Released
+1089,358,915,Cinema,IN,Wide Theatrical,2018-08-11,27,U,5775977.46,Released
+1090,358,754,Cinema,KR,Wide Theatrical,2018-10-12,27,U,2036184.7,Released
+1091,358,\N,Festival,IN,Festival Premiere,2018-06-02,27,U,\N,Released
+1096,360,853,Cinema,PL,Limited Theatrical,2018-06-10,17,12+,6949646.58,Released
+1097,360,852,TV,BR,TV Broadcast,2018-08-13,17,12+,1452001.85,Released
+1098,360,\N,Festival,PL,Festival Premiere,2018-04-17,17,12+,\N,Released
+1123,369,533,Streaming,AU,Streaming Premiere,2017-12-19,1,R,110761.57,Released
+1124,369,\N,Festival,AU,Festival Premiere,2017-09-28,1,R,\N,Released
+1134,373,805,TV,CA,TV Broadcast,2018-01-11,4,R,88074.6,Released
+1135,373,742,TV,IN,TV Broadcast,2018-02-14,4,R,26567.91,Released
+1136,373,\N,Festival,CA,Festival Premiere,2017-12-09,4,R,\N,Released
+1139,375,587,Cinema,ES,Wide Theatrical,2018-05-25,5,12+,2708154.89,Released
+1140,375,\N,Festival,ES,Festival Premiere,2018-04-13,5,12+,\N,Released
+1143,377,861,Cinema,IT,Limited Theatrical,2018-03-15,6,12+,675134.57,Released
+1144,377,631,Cinema,FR,Limited Theatrical,2018-05-07,6,12+,302100.6,Released
+1145,377,\N,Festival,IT,Festival Premiere,2017-12-16,6,12+,\N,Released
+1149,379,52,Cinema,ES,Limited Theatrical,2018-04-20,5,16+,1427229.48,Released
+1150,379,\N,Festival,ES,Festival Premiere,2018-03-21,5,16+,\N,Released
+1207,398,707,Cinema,KR,Limited Theatrical,2018-08-05,10,16+,719167.62,Released
+1208,398,\N,Festival,KR,Festival Premiere,2018-05-30,10,16+,\N,Released
+1220,403,516,International Sales,US,Festival / Sales,2017-12-09,1,R,127324.23,Released
+1221,403,339,Cinema,FR,Wide Theatrical,2018-01-27,1,R,73420.43,Released
+1222,403,\N,Festival,US,Festival Premiere,2017-11-15,1,R,\N,Released
+1236,408,393,Cinema,US,Limited Theatrical,2018-02-05,1,PG,208151.44,Released
+1237,408,\N,Festival,US,Festival Premiere,2017-11-26,1,PG,\N,Released
+1335,441,583,Cinema,ZA,Limited Theatrical,2018-02-23,35,16+,295261.43,Released
+1336,441,\N,Festival,ZA,Festival Premiere,2018-01-10,35,16+,\N,Released
+1344,444,287,Cinema,GB,Limited Theatrical,2018-03-19,1,12A,55479.16,Released
+1345,444,716,Home Video / VOD,IT,Digital Release,2018-06-19,1,12A,9742.05,Released
+1346,444,\N,Festival,GB,Festival Premiere,2018-01-20,1,12A,\N,Released
+1414,467,730,Home Video / VOD,FR,Digital Release,2018-06-10,4,16+,794812.84,Released
+1415,467,\N,Festival,FR,Festival Premiere,2018-03-31,4,16+,\N,Released
+1419,469,743,Cinema,NG,Wide Theatrical,2018-04-26,1,16+,99962.22,Released
+1420,469,98,TV,JP,TV Broadcast,2018-05-24,1,16+,11684.21,Released
+1421,469,458,Home Video / VOD,CA,Digital Release,2018-05-18,1,16+,13848.44,Released
+1422,469,\N,Festival,NG,Festival Premiere,2018-02-22,1,16+,\N,Released
+1430,473,760,TV,JP,TV Broadcast,2018-06-04,3,12+,33412.37,Released
+1431,473,267,Cinema,KR,Wide Theatrical,2018-06-19,3,12+,37198.13,Released
+1432,473,\N,Festival,JP,Festival Premiere,2018-04-03,3,12+,\N,Released
+1502,497,432,International Sales,SE,Festival / Sales,2018-07-02,19,16+,586335.26,Released
+1503,497,617,Cinema,IN,Limited Theatrical,2018-10-10,19,16+,1028771.81,Released
+1504,497,\N,Festival,SE,Festival Premiere,2018-05-11,19,16+,\N,Released
+1554,514,431,TV,US,TV Broadcast,2018-04-01,1,PG-13,4824.03,Released
+1555,514,455,TV,US,TV Broadcast,2018-04-18,1,PG-13,5114.81,Released
+1556,514,\N,Festival,US,Festival Premiere,2018-01-22,1,PG-13,\N,Released
+1561,516,684,Cinema,US,Limited Theatrical,2018-07-14,7,12+,350813.48,Released
+1562,516,66,International Sales,IN,Festival / Sales,2018-09-28,7,12+,43283.63,Released
+1563,516,\N,Festival,US,Festival Premiere,2018-05-22,7,12+,\N,Released
+1588,526,866,TV,US,TV Broadcast,2018-10-21,1,PG,1066505.34,Released
+1589,526,\N,Festival,US,Festival Premiere,2018-08-07,1,PG,\N,Released
+1604,531,447,Cinema,GB,Limited Theatrical,2019-09-05,1,15,2926226.49,Released
+1605,531,\N,Festival,GB,Festival Premiere,2019-06-26,1,15,\N,Released
+1631,540,519,TV,ID,TV Broadcast,2019-09-23,15,12+,12457739.89,Released
+1632,540,668,Cinema,IN,Wide Theatrical,2019-10-31,15,12+,7327191.85,Released
+1633,540,\N,Festival,ID,Festival Premiere,2019-07-15,15,12+,\N,Released
+1738,574,714,Cinema,US,Wide Theatrical,2018-06-14,1,R,979180.42,Released
+1739,574,\N,Festival,US,Festival Premiere,2018-04-12,1,R,\N,Released
+1745,577,346,Home Video / VOD,NG,Digital Release,2018-12-19,1,12+,45845.96,Released
+1746,577,570,Cinema,IT,Limited Theatrical,2018-12-20,1,12+,35595.39,Released
+1747,577,41,TV,GB,TV Broadcast,2019-03-30,1,12+,51567.09,Released
+1748,577,\N,Festival,NG,Festival Premiere,2018-11-21,1,12+,\N,Released
+1802,596,384,Streaming,MX,Streaming Premiere,2018-09-06,5,12+,46411.55,Released
+1803,596,942,Home Video / VOD,BR,Digital Release,2018-09-12,5,12+,3986.15,Released
+1804,596,\N,Festival,MX,Festival Premiere,2018-08-10,5,12+,\N,Released
+1830,605,584,Streaming,PL,Streaming Premiere,2018-08-22,17,16+,49944.32,Released
+1831,605,333,Cinema,FR,Limited Theatrical,2018-09-07,17,16+,16862.86,Released
+1832,605,753,Cinema,AU,Wide Theatrical,2018-11-24,17,16+,8517.81,Released
+1833,605,\N,Festival,PL,Festival Premiere,2018-07-04,17,16+,\N,Released
+1854,613,183,Cinema,IN,Limited Theatrical,2019-07-13,29,UA,1915415.26,Released
+1855,613,516,International Sales,US,Festival / Sales,2019-08-29,29,UA,2675686.43,Released
+1856,613,119,Cinema,KR,Wide Theatrical,2019-10-15,29,UA,3047844.27,Released
+1857,613,\N,Festival,IN,Festival Premiere,2019-06-04,29,UA,\N,Released
+1863,616,670,Streaming,US,Streaming Premiere,2018-10-11,1,R,133596.8,Released
+1864,616,\N,Festival,US,Festival Premiere,2018-07-23,1,R,\N,Released
+1895,628,176,Cinema,IN,Limited Theatrical,2018-09-24,2,UA,102125.02,Released
+1896,628,\N,Festival,IN,Festival Premiere,2018-08-23,2,UA,\N,Released
+1923,638,360,Streaming,IN,Streaming Premiere,2019-05-16,5,18+,3431968.53,Released
+1924,638,709,Cinema,US,Limited Theatrical,2019-08-29,5,18+,1492519.16,Released
+1925,638,270,Streaming,FR,Streaming Premiere,2019-05-25,5,18+,612752.66,Released
+1926,638,\N,Festival,IN,Festival Premiere,2019-03-20,5,18+,\N,Released
+1954,649,389,Streaming,US,Streaming Premiere,2018-10-07,1,PG-13,248766.22,Released
+1955,649,619,Home Video / VOD,US,Digital Release,2018-12-24,1,PG-13,29597.72,Released
+1956,649,\N,Festival,US,Festival Premiere,2018-08-23,1,PG-13,\N,Released
+1978,658,815,Cinema,FR,Wide Theatrical,2018-11-18,4,16+,114103.29,Released
+1979,658,959,TV,FR,TV Broadcast,2019-02-14,4,16+,13547.97,Released
+1980,658,817,Cinema,CA,Wide Theatrical,2019-01-28,4,16+,14465.68,Released
+1981,658,\N,Festival,FR,Festival Premiere,2018-08-26,4,16+,\N,Released
+2010,669,138,Cinema,BR,Wide Theatrical,2018-10-16,8,All,71008.15,Released
+2011,669,\N,Festival,BR,Festival Premiere,2018-08-28,8,All,\N,Released
+2026,675,394,Cinema,IN,Wide Theatrical,2018-12-17,2,U,86899.16,Released
+2027,675,806,International Sales,KR,Festival / Sales,2019-02-24,2,U,22121.89,Released
+2028,675,\N,Festival,IN,Festival Premiere,2018-10-28,2,U,\N,Released
+2078,692,60,Cinema,BR,Wide Theatrical,2019-03-10,8,12+,1232834.58,Released
+2079,692,925,International Sales,KR,Festival / Sales,2019-06-11,8,12+,261256.75,Released
+2080,692,436,TV,IT,TV Broadcast,2019-06-20,8,12+,211846.44,Released
+2081,692,\N,Festival,BR,Festival Premiere,2019-02-18,8,12+,\N,Released
+2096,697,994,International Sales,ES,Festival / Sales,2019-03-14,5,12+,1668862.42,Released
+2097,697,910,TV,BR,TV Broadcast,2019-06-03,5,12+,80085.41,Released
+2098,697,\N,Festival,ES,Festival Premiere,2019-01-07,5,12+,\N,Released
+2194,729,7,Cinema,ZA,Limited Theatrical,2019-10-03,1,12+,2971656.0,Released
+2195,729,\N,Festival,ZA,Festival Premiere,2019-07-18,1,12+,\N,Released
+2211,736,522,Streaming,CA,Streaming Premiere,2019-06-12,1,PG,8061814.42,Released
+2212,736,760,TV,JP,TV Broadcast,2019-08-15,1,PG,917365.25,Released
+2213,736,923,International Sales,ES,Festival / Sales,2019-06-13,1,PG,845768.83,Released
+2214,736,\N,Festival,CA,Festival Premiere,2019-04-08,1,PG,\N,Released
+2248,748,47,International Sales,NO,Festival / Sales,2019-02-03,21,16+,22991.21,Released
+2249,748,737,International Sales,FR,Festival / Sales,2019-05-31,21,16+,11770.99,Released
+2250,748,\N,Festival,NO,Festival Premiere,2018-11-24,21,16+,\N,Released
+2251,749,531,TV,GB,TV Broadcast,2019-05-13,1,PG,84547.59,Released
+2252,749,151,Cinema,IN,Limited Theatrical,2019-08-22,1,PG,274139.96,Released
+2253,749,\N,Festival,GB,Festival Premiere,2019-02-20,1,PG,\N,Released
+2294,764,312,Cinema,DE,Limited Theatrical,2019-07-19,7,All,483907.15,Released
+2295,764,365,Cinema,DE,Limited Theatrical,2019-08-30,7,All,541394.08,Released
+2296,764,\N,Festival,DE,Festival Premiere,2019-05-02,7,All,\N,Released
+2320,773,755,Home Video / VOD,FR,Digital Release,2019-10-20,4,16+,4371747.08,Released
+2321,773,294,International Sales,IT,Festival / Sales,2019-11-03,4,16+,3629720.25,Released
+2322,773,\N,Festival,FR,Festival Premiere,2019-08-04,4,16+,\N,Released
+2367,790,436,TV,IT,TV Broadcast,2019-11-05,6,12+,3650341.77,Released
+2368,790,\N,Festival,IT,Festival Premiere,2019-08-08,6,12+,\N,Released
+2398,802,526,Streaming,IN,Streaming Premiere,2019-03-12,8,12+,24666.41,Released
+2399,802,830,Cinema,IT,Wide Theatrical,2019-05-16,8,12+,2122.73,Released
+2400,802,536,International Sales,US,Festival / Sales,2019-07-05,8,12+,4157.37,Released
+2401,802,\N,Festival,IN,Festival Premiere,2019-01-09,8,12+,\N,Released
+2423,809,672,International Sales,US,Festival / Sales,2020-05-05,1,R,3739276.22,Released
+2424,809,641,Cinema,AU,Limited Theatrical,2020-06-10,1,R,5022874.1,Released
+2425,809,\N,Festival,US,Festival Premiere,2020-03-22,1,R,\N,Released
+2458,822,269,Home Video / VOD,US,Digital Release,2019-05-17,35,All,14363.53,Released
+2459,822,557,Cinema,FR,Limited Theatrical,2019-07-16,35,All,33214.6,Released
+2460,822,829,Cinema,FR,Limited Theatrical,2019-07-10,35,All,32623.95,Released
+2461,822,\N,Festival,US,Festival Premiere,2019-03-06,35,All,\N,Released
+2571,856,397,Cinema,US,Wide Theatrical,2019-07-15,1,PG-13,10057.51,Released
+2572,856,337,Cinema,CA,Limited Theatrical,2019-08-06,1,PG-13,6236.45,Released
+2573,856,\N,Festival,US,Festival Premiere,2019-06-10,1,PG-13,\N,Released
+2653,881,121,Home Video / VOD,KR,Digital Release,2019-07-26,10,All,337575.64,Released
+2654,881,631,Cinema,FR,Limited Theatrical,2019-07-30,10,All,364907.28,Released
+2655,881,652,Cinema,KR,Limited Theatrical,2019-10-05,10,All,281430.3,Released
+2656,881,\N,Festival,KR,Festival Premiere,2019-05-03,10,All,\N,Released
+2688,891,418,Cinema,CA,Wide Theatrical,2019-11-17,1,PG-13,893741.8,Released
+2689,891,\N,Festival,CA,Festival Premiere,2019-09-23,1,PG-13,\N,Released
+2769,918,30,Home Video / VOD,FR,Digital Release,2019-08-11,4,12+,57224.8,Released
+2770,918,25,Cinema,IN,Limited Theatrical,2019-09-09,4,12+,68486.37,Released
+2771,918,\N,Festival,FR,Festival Premiere,2019-07-01,4,12+,\N,Released
+2793,927,926,Cinema,IN,Limited Theatrical,2019-11-20,1,UA,489619.29,Released
+2794,927,353,TV,BR,TV Broadcast,2019-12-16,1,UA,77928.03,Released
+2795,927,755,Home Video / VOD,FR,Digital Release,2020-03-06,1,UA,64357.84,Released
+2796,927,\N,Festival,IN,Festival Premiere,2019-10-09,1,UA,\N,Released
+2931,972,638,International Sales,US,Festival / Sales,2020-06-03,18,12+,1429577.71,Released
+2932,972,88,International Sales,BR,Festival / Sales,2020-07-14,18,12+,232664.56,Released
+2933,972,859,Cinema,KR,Wide Theatrical,2020-07-05,18,12+,240956.6,Released
+2934,972,\N,Festival,US,Festival Premiere,2020-03-20,18,12+,\N,Released
+2966,983,932,Streaming,IN,Streaming Premiere,2020-04-15,1,U,3694513.53,Released
+2967,983,\N,Festival,IN,Festival Premiere,2020-02-02,1,U,\N,Released
+3004,998,478,Cinema,US,Wide Theatrical,2019-11-11,1,R,179545.82,Released
+3005,998,\N,Festival,US,Festival Premiere,2019-10-12,1,R,\N,Released
+3017,1002,788,Cinema,SE,Wide Theatrical,2020-03-02,19,All,738588.44,Released
+3018,1002,273,Cinema,IN,Wide Theatrical,2020-04-16,19,All,497650.11,Released
+3019,1002,\N,Festival,SE,Festival Premiere,2020-01-19,19,All,\N,Released
+3048,1013,694,Home Video / VOD,GB,Digital Release,2019-12-11,1,12A,3586.23,Released
+3049,1013,\N,Festival,GB,Festival Premiere,2019-10-15,1,12A,\N,Released
+3083,1025,429,Cinema,ES,Wide Theatrical,2019-12-07,5,12+,81246.34,Released
+3084,1025,54,Cinema,IT,Limited Theatrical,2020-02-26,5,12+,56488.67,Released
+3085,1025,\N,Festival,ES,Festival Premiere,2019-10-22,5,12+,\N,Released
+3171,1054,122,Cinema,US,Wide Theatrical,2021-09-16,5,16+,29103567.91,Released
+3172,1054,838,TV,KR,TV Broadcast,2022-01-06,5,16+,11360842.38,Released
+3173,1054,\N,Festival,US,Festival Premiere,2021-08-10,5,16+,\N,Released
+3317,1102,246,TV,DK,TV Broadcast,2021-06-05,20,12+,3198675.0,Released
+3318,1102,\N,Festival,DK,Festival Premiere,2021-03-12,20,12+,\N,Released
+3347,1111,987,Home Video / VOD,JP,Digital Release,2020-04-15,3,12+,2992.31,Released
+3348,1111,\N,Festival,JP,Festival Premiere,2020-03-02,3,12+,\N,Released
+3378,1120,812,Home Video / VOD,FR,Digital Release,2020-05-13,4,12+,8235.6,Released
+3379,1120,355,Home Video / VOD,KR,Digital Release,2020-09-08,4,12+,17303.09,Released
+3380,1120,\N,Festival,FR,Festival Premiere,2020-03-26,4,12+,\N,Released
+3445,1141,5,Cinema,GB,Limited Theatrical,2020-07-19,5,16+,512553.71,Released
+3446,1141,15,International Sales,ES,Festival / Sales,2020-07-20,5,16+,114750.96,Released
+3447,1141,\N,Festival,GB,Festival Premiere,2020-04-28,5,16+,\N,Released
+3463,1148,699,Home Video / VOD,NL,Digital Release,2020-09-07,18,12+,166036.31,Released
+3464,1148,879,TV,DE,TV Broadcast,2020-09-28,18,12+,96296.58,Released
+3465,1148,587,Cinema,ES,Wide Theatrical,2020-10-16,18,12+,591958.75,Released
+3466,1148,\N,Festival,NL,Festival Premiere,2020-06-11,18,12+,\N,Released
+3470,1150,261,TV,ID,TV Broadcast,2020-06-23,15,All,5414.9,Released
+3471,1150,943,Home Video / VOD,FR,Digital Release,2020-09-07,15,All,3397.89,Released
+3472,1150,487,Home Video / VOD,IT,Digital Release,2020-08-24,15,All,5390.19,Released
+3473,1150,\N,Festival,ID,Festival Premiere,2020-04-26,15,All,\N,Released
+3532,1170,640,Cinema,US,Limited Theatrical,2020-12-15,8,16+,3668388.02,Released
+3533,1170,208,Cinema,IN,Wide Theatrical,2020-12-24,8,16+,943205.89,Released
+3534,1170,\N,Festival,US,Festival Premiere,2020-11-07,8,16+,\N,Released
+3574,1183,277,International Sales,BR,Festival / Sales,2020-11-11,8,18+,440114.64,Released
+3575,1183,972,TV,ES,TV Broadcast,2021-02-10,8,18+,121758.04,Released
+3576,1183,793,Home Video / VOD,JP,Digital Release,2020-11-24,8,18+,78654.5,Released
+3577,1183,\N,Festival,BR,Festival Premiere,2020-09-23,8,18+,\N,Released
+3669,1215,517,International Sales,PL,Festival / Sales,2020-11-15,17,12+,478023.6,Released
+3670,1215,\N,Festival,PL,Festival Premiere,2020-09-04,17,12+,\N,Released
+3689,1222,46,Home Video / VOD,US,Digital Release,2020-09-21,1,R,748219.56,Released
+3690,1222,\N,Festival,US,Festival Premiere,2020-07-21,1,R,\N,Released
+3699,1226,359,Cinema,NL,Wide Theatrical,2020-11-11,18,All,2520267.67,Released
+3700,1226,750,Cinema,JP,Wide Theatrical,2021-02-21,18,All,735963.67,Released
+3701,1226,486,International Sales,IN,Festival / Sales,2021-03-05,18,All,474276.17,Released
+3702,1226,\N,Festival,NL,Festival Premiere,2020-10-16,18,All,\N,Released
+3798,1259,235,Cinema,IN,Limited Theatrical,2021-01-25,2,UA,835087.87,Released
+3799,1259,138,Cinema,BR,Wide Theatrical,2021-02-25,2,UA,770935.55,Released
+3800,1259,399,Home Video / VOD,BR,Digital Release,2021-03-20,2,UA,240899.97,Released
+3801,1259,\N,Festival,IN,Festival Premiere,2020-12-20,2,UA,\N,Released
+3805,1261,703,Cinema,IN,Limited Theatrical,2020-11-07,2,UA,91841.67,Released
+3806,1261,730,Home Video / VOD,FR,Digital Release,2020-12-07,2,UA,2619.44,Released
+3807,1261,505,Cinema,ES,Limited Theatrical,2020-11-17,2,UA,48283.87,Released
+3808,1261,\N,Festival,IN,Festival Premiere,2020-08-11,2,UA,\N,Released
+3823,1266,371,Cinema,IN,Wide Theatrical,2020-11-06,7,16+,791100.89,Released
+3824,1266,\N,Festival,IN,Festival Premiere,2020-08-30,7,16+,\N,Released
+3867,1279,856,TV,US,TV Broadcast,2020-10-05,1,R,89731.71,Released
+3868,1279,\N,Festival,US,Festival Premiere,2020-08-14,1,R,\N,Released
+3873,1281,432,International Sales,SE,Festival / Sales,2020-12-18,19,18+,39516.3,Released
+3874,1281,500,TV,US,TV Broadcast,2021-03-10,19,18+,5173.07,Released
+3875,1281,\N,Festival,SE,Festival Premiere,2020-11-14,19,18+,\N,Released
+3914,1295,923,International Sales,ES,Festival / Sales,2021-06-12,18,12+,3874458.37,Released
+3915,1295,825,Cinema,US,Limited Theatrical,2021-08-12,18,12+,2065539.88,Released
+3916,1295,\N,Festival,ES,Festival Premiere,2021-05-11,18,12+,\N,Released
+3942,1304,301,Cinema,US,Wide Theatrical,2020-12-08,1,PG,36489.97,Released
+3943,1304,\N,Festival,US,Festival Premiere,2020-11-17,1,PG,\N,Released
+3962,1311,642,Cinema,BR,Limited Theatrical,2021-01-03,8,All,79302.52,Released
+3963,1311,88,International Sales,BR,Festival / Sales,2021-02-16,8,All,17572.55,Released
+3964,1311,\N,Festival,BR,Festival Premiere,2020-10-10,8,All,\N,Released
+4012,1327,171,Cinema,TR,Wide Theatrical,2021-01-22,13,16+,25735.3,Released
+4013,1327,954,Home Video / VOD,IT,Digital Release,2021-05-06,13,16+,3524.85,Released
+4014,1327,804,Cinema,CA,Wide Theatrical,2021-03-08,13,16+,5592.95,Released
+4015,1327,\N,Festival,TR,Festival Premiere,2020-11-23,13,16+,\N,Released
+4060,1341,194,Cinema,DE,Limited Theatrical,2021-08-09,7,16+,736793.74,Released
+4061,1341,520,Cinema,IN,Limited Theatrical,2021-11-17,7,16+,834895.55,Released
+4062,1341,654,TV,US,TV Broadcast,2021-11-19,7,16+,379551.77,Released
+4063,1341,\N,Festival,DE,Festival Premiere,2021-07-09,7,16+,\N,Released
+4071,1345,773,Home Video / VOD,TR,Digital Release,2021-10-14,13,18+,3765566.43,Released
+4072,1345,335,Streaming,US,Streaming Premiere,2021-10-24,13,18+,5177785.35,Released
+4073,1345,\N,Festival,TR,Festival Premiere,2021-07-31,13,18+,\N,Released
+4085,1349,241,Cinema,IE,Wide Theatrical,2021-02-06,1,12+,57619.44,Released
+4086,1349,245,Cinema,AU,Wide Theatrical,2021-04-30,1,12+,37186.43,Released
+4087,1349,\N,Festival,IE,Festival Premiere,2021-01-10,1,12+,\N,Released
+4129,1363,300,Cinema,US,Limited Theatrical,2021-04-08,1,PG-13,188603.31,Released
+4130,1363,105,Home Video / VOD,FR,Digital Release,2021-05-15,1,PG-13,20349.18,Released
+4131,1363,\N,Festival,US,Festival Premiere,2021-02-10,1,PG-13,\N,Released
+4175,1378,316,Cinema,PL,Wide Theatrical,2021-04-05,17,12+,41327.6,Released
+4176,1378,32,Cinema,AU,Wide Theatrical,2021-04-21,17,12+,22929.94,Released
+4177,1378,539,TV,CA,TV Broadcast,2021-04-23,17,12+,8337.67,Released
+4178,1378,\N,Festival,PL,Festival Premiere,2021-01-07,17,12+,\N,Released
+4207,1388,686,International Sales,SE,Festival / Sales,2021-04-19,19,12+,26017.04,Released
+4208,1388,272,Cinema,IT,Wide Theatrical,2021-07-27,19,12+,40460.02,Released
+4209,1388,194,Cinema,DE,Limited Theatrical,2021-07-12,19,12+,32153.92,Released
+4210,1388,\N,Festival,SE,Festival Premiere,2021-03-18,19,12+,\N,Released
+4235,1396,997,Home Video / VOD,IN,Digital Release,2022-01-05,1,A,53754.23,Released
+4236,1396,\N,Festival,IN,Festival Premiere,2021-11-20,1,A,\N,Released
+4265,1406,686,International Sales,SE,Festival / Sales,2021-06-10,19,12+,34665.73,Released
+4266,1406,\N,Festival,SE,Festival Premiere,2021-04-21,19,12+,\N,Released
+4325,1426,467,Cinema,GB,Wide Theatrical,2021-05-10,1,15,6879076.16,Released
+4326,1426,898,Cinema,JP,Wide Theatrical,2021-06-16,1,15,2134104.48,Released
+4327,1426,\N,Festival,GB,Festival Premiere,2021-03-18,1,15,\N,Released
+4354,1436,815,Cinema,FR,Wide Theatrical,2021-10-17,4,16+,2709834.81,Released
+4355,1436,227,TV,BR,TV Broadcast,2021-11-13,4,16+,385795.23,Released
+4356,1436,\N,Festival,FR,Festival Premiere,2021-09-18,4,16+,\N,Released
+4367,1440,464,Cinema,IT,Limited Theatrical,2022-03-26,6,12+,35255088.84,Released
+4368,1440,75,Cinema,BR,Limited Theatrical,2022-07-14,6,12+,1969254.08,Released
+4369,1440,737,International Sales,FR,Festival / Sales,2022-06-18,6,12+,3686781.47,Released
+4370,1440,\N,Festival,IT,Festival Premiere,2022-02-02,6,12+,\N,Released
+4371,1441,64,Cinema,TR,Limited Theatrical,2021-07-22,13,All,85246.7,Released
+4372,1441,968,Home Video / VOD,BR,Digital Release,2021-11-07,13,All,13475.26,Released
+4373,1441,\N,Festival,TR,Festival Premiere,2021-06-06,13,All,\N,Released
+4479,1478,310,International Sales,US,Festival / Sales,2022-01-14,1,R,485102.0,Released
+4480,1478,972,TV,ES,TV Broadcast,2022-04-05,1,R,1008836.79,Released
+4481,1478,299,TV,DE,TV Broadcast,2022-02-08,1,R,868511.65,Released
+4482,1478,\N,Festival,US,Festival Premiere,2021-10-18,1,R,\N,Released
+4495,1483,219,Cinema,TR,Limited Theatrical,2021-07-14,13,16+,21747.33,Released
+4496,1483,231,Cinema,US,Limited Theatrical,2021-08-03,13,16+,12490.72,Released
+4497,1483,798,Home Video / VOD,ES,Digital Release,2021-07-29,13,16+,3452.52,Released
+4498,1483,\N,Festival,TR,Festival Premiere,2021-05-13,13,16+,\N,Released
+4525,1492,164,Cinema,US,Limited Theatrical,2021-06-17,1,PG-13,148457.73,Released
+4526,1492,\N,Festival,US,Festival Premiere,2021-04-04,1,PG-13,\N,Released
+4531,1494,940,International Sales,GB,Festival / Sales,2022-01-11,35,All,4907789.51,Released
+4532,1494,\N,Festival,GB,Festival Premiere,2021-11-25,35,All,\N,Released
+4583,1510,359,Cinema,NL,Wide Theatrical,2021-07-25,18,16+,647070.49,Released
+4584,1510,501,Cinema,AU,Limited Theatrical,2021-11-21,18,16+,284497.74,Released
+4585,1510,\N,Festival,NL,Festival Premiere,2021-06-25,18,16+,\N,Released
+4610,1520,709,Cinema,US,Limited Theatrical,2021-07-15,8,All,28737.35,Released
+4611,1520,342,Home Video / VOD,IT,Digital Release,2021-09-29,8,All,5284.22,Released
+4612,1520,365,Cinema,DE,Limited Theatrical,2021-09-21,8,All,23237.82,Released
+4613,1520,\N,Festival,US,Festival Premiere,2021-05-26,8,All,\N,Released
+4672,1541,865,TV,IN,TV Broadcast,2022-02-26,34,12+,1243497.57,Released
+4673,1541,834,Cinema,DE,Wide Theatrical,2022-02-27,34,12+,266587.3,Released
+4674,1541,\N,Festival,IN,Festival Premiere,2022-01-08,34,12+,\N,Released
+4759,1567,542,International Sales,IN,Festival / Sales,2021-11-21,27,UA,915315.5,Released
+4760,1567,\N,Festival,IN,Festival Premiere,2021-10-10,27,UA,\N,Released
+4818,1589,521,Cinema,US,Wide Theatrical,2021-11-24,1,R,30136.76,Released
+4819,1589,342,Home Video / VOD,IT,Digital Release,2022-01-02,1,R,3508.1,Released
+4820,1589,\N,Festival,US,Festival Premiere,2021-09-21,1,R,\N,Released
+4848,1599,873,Cinema,US,Limited Theatrical,2022-03-24,1,R,9597698.45,Released
+4849,1599,444,Cinema,DE,Wide Theatrical,2022-04-21,1,R,2166712.27,Released
+4850,1599,339,Cinema,FR,Wide Theatrical,2022-03-30,1,R,2613513.8,Released
+4851,1599,\N,Festival,US,Festival Premiere,2021-12-25,1,R,\N,Released
+4879,1610,570,Cinema,IT,Limited Theatrical,2022-04-01,6,16+,32212272.84,Released
+4880,1610,596,Cinema,JP,Wide Theatrical,2022-05-08,6,16+,7118188.52,Released
+4881,1610,\N,Festival,IT,Festival Premiere,2022-02-27,6,16+,\N,Released
+4920,1623,359,Cinema,NL,Wide Theatrical,2022-04-18,18,16+,1160288.94,Released
+4921,1623,\N,Festival,NL,Festival Premiere,2022-03-13,18,16+,\N,Released
+5065,1673,119,Cinema,KR,Wide Theatrical,2022-04-02,1,12+,1079445.09,Released
+5066,1673,433,Cinema,BR,Limited Theatrical,2022-05-17,1,12+,146595.95,Released
+5067,1673,943,Home Video / VOD,FR,Digital Release,2022-04-09,1,12+,107596.9,Released
+5068,1673,\N,Festival,KR,Festival Premiere,2022-01-03,1,12+,\N,Released
+5134,1695,174,Cinema,CA,Wide Theatrical,2022-04-16,4,PG-13,196517.45,Released
+5135,1695,\N,Festival,CA,Festival Premiere,2022-02-02,4,PG-13,\N,Released
+5136,1696,651,Home Video / VOD,US,Digital Release,2022-05-06,1,PG,127155.63,Released
+5137,1696,798,Home Video / VOD,ES,Digital Release,2022-06-16,1,PG,90649.71,Released
+5138,1696,\N,Festival,US,Festival Premiere,2022-02-23,1,PG,\N,Released
+5166,1706,142,Cinema,AE,Limited Theatrical,2022-05-25,8,All,58460.8,Released
+5167,1706,32,Cinema,AU,Wide Theatrical,2022-08-08,8,All,48078.13,Released
+5168,1706,\N,Festival,AE,Festival Premiere,2022-03-21,8,All,\N,Released
+5254,1737,616,International Sales,ES,Festival / Sales,2022-05-04,5,12+,84173.09,Released
+5255,1737,189,Cinema,AU,Limited Theatrical,2022-06-03,5,12+,37988.07,Released
+5256,1737,294,International Sales,IT,Festival / Sales,2022-07-18,5,12+,31118.4,Released
+5257,1737,\N,Festival,ES,Festival Premiere,2022-04-08,5,12+,\N,Released
+5277,1744,693,Cinema,IN,Wide Theatrical,2022-06-20,2,A,61432.39,Released
+5278,1744,\N,Festival,IN,Festival Premiere,2022-04-23,2,A,\N,Released
+5325,1760,698,International Sales,US,Festival / Sales,2022-07-05,1,PG-13,973262.17,Released
+5326,1760,\N,Festival,US,Festival Premiere,2022-05-13,1,PG-13,\N,Released
+5352,1769,989,Cinema,GB,Wide Theatrical,2022-06-17,1,12A,277898.47,Released
+5353,1769,155,International Sales,ES,Festival / Sales,2022-07-25,1,12A,20219.04,Released
+5354,1769,847,Cinema,GB,Wide Theatrical,2022-08-14,1,12A,18352.25,Released
+5355,1769,\N,Festival,GB,Festival Premiere,2022-04-19,1,12A,\N,Released
+5396,1784,678,Cinema,GB,Wide Theatrical,2022-08-11,1,12A,87594.73,Released
+5397,1784,\N,Festival,GB,Festival Premiere,2022-05-23,1,12A,\N,Released
+5408,1788,277,International Sales,BR,Festival / Sales,2022-11-11,8,16+,554516.35,Released
+5409,1788,556,International Sales,IN,Festival / Sales,2022-12-23,8,16+,69883.08,Released
+5410,1788,\N,Festival,BR,Festival Premiere,2022-10-20,8,16+,\N,Released
+5415,1790,658,Cinema,GB,Wide Theatrical,2023-07-17,1,15,14225825.87,Released
+5416,1790,\N,Festival,GB,Festival Premiere,2023-06-23,1,15,\N,Released
+5417,1791,567,Cinema,US,Limited Theatrical,2022-08-11,1,R,526162.52,Released
+5418,1791,570,Cinema,IT,Limited Theatrical,2022-10-04,1,R,84898.99,Released
+5419,1791,\N,Festival,US,Festival Premiere,2022-06-28,1,R,\N,Released
+5465,1807,302,TV,ES,TV Broadcast,2022-08-05,5,18+,33785.79,Released
+5466,1807,\N,Festival,ES,Festival Premiere,2022-05-15,5,18+,\N,Released
+5467,1808,348,Cinema,US,Wide Theatrical,2022-08-05,1,R,249228.73,Released
+5468,1808,307,Cinema,ES,Wide Theatrical,2022-11-04,1,R,60134.73,Released
+5469,1808,\N,Festival,US,Festival Premiere,2022-06-10,1,R,\N,Released
+5477,1811,853,Cinema,PL,Limited Theatrical,2022-08-01,17,12+,19248.53,Released
+5478,1811,\N,Festival,PL,Festival Premiere,2022-06-17,17,12+,\N,Released
+5487,1814,274,Streaming,US,Streaming Premiere,2022-06-14,1,PG,73816.2,Released
+5488,1814,30,Home Video / VOD,FR,Digital Release,2022-08-12,1,PG,5772.65,Released
+5489,1814,286,Home Video / VOD,GB,Digital Release,2022-09-21,1,PG,3096.24,Released
+5490,1814,\N,Festival,US,Festival Premiere,2022-04-23,1,PG,\N,Released
+5491,1815,648,TV,AU,TV Broadcast,2022-10-16,1,PG-13,716451.95,Released
+5492,1815,805,TV,CA,TV Broadcast,2022-12-08,1,PG-13,178427.36,Released
+5493,1815,497,Cinema,CA,Limited Theatrical,2022-11-15,1,PG-13,207395.25,Released
+5494,1815,\N,Festival,AU,Festival Premiere,2022-09-20,1,PG-13,\N,Released
+5505,1819,138,Cinema,BR,Wide Theatrical,2022-11-05,8,16+,813252.54,Released
+5506,1819,674,Cinema,BR,Wide Theatrical,2023-01-01,8,16+,101654.85,Released
+5507,1819,268,Cinema,KR,Wide Theatrical,2022-12-21,8,16+,461447.13,Released
+5508,1819,\N,Festival,BR,Festival Premiere,2022-10-03,8,16+,\N,Released
+5553,1834,160,Streaming,US,Streaming Premiere,2022-08-09,1,PG-13,211348.59,Released
+5554,1834,32,Cinema,AU,Wide Theatrical,2022-09-21,1,PG-13,45898.8,Released
+5555,1834,\N,Festival,US,Festival Premiere,2022-05-21,1,PG-13,\N,Released
+5660,1871,68,Streaming,AR,Streaming Premiere,2023-07-21,5,12+,66483960.16,Released
+5661,1871,\N,Festival,AR,Festival Premiere,2023-05-05,5,12+,\N,Released
+5714,1889,458,Home Video / VOD,CA,Digital Release,2023-01-23,4,PG-13,120941.4,Released
+5715,1889,232,TV,FR,TV Broadcast,2023-04-21,4,PG-13,132525.93,Released
+5716,1889,\N,Festival,CA,Festival Premiere,2022-10-26,4,PG-13,\N,Released
+5717,1890,247,TV,FR,TV Broadcast,2022-12-17,4,16+,834613.08,Released
+5718,1890,356,International Sales,IN,Festival / Sales,2023-02-06,4,16+,293256.29,Released
+5719,1890,\N,Festival,FR,Festival Premiere,2022-11-07,4,16+,\N,Released
+5720,1891,67,Streaming,FR,Streaming Premiere,2022-09-24,4,All,73126.5,Released
+5721,1891,121,Home Video / VOD,KR,Digital Release,2022-12-17,4,All,4794.22,Released
+5722,1891,\N,Festival,FR,Festival Premiere,2022-08-01,4,All,\N,Released
+5730,1894,594,Cinema,FR,Limited Theatrical,2022-10-24,4,16+,279795.43,Released
+5731,1894,652,Cinema,KR,Limited Theatrical,2022-12-21,4,16+,153472.93,Released
+5732,1894,631,Cinema,FR,Limited Theatrical,2023-01-15,4,16+,145385.64,Released
+5733,1894,\N,Festival,FR,Festival Premiere,2022-08-23,4,16+,\N,Released
+5734,1895,227,TV,BR,TV Broadcast,2023-03-11,8,12+,727914.86,Released
+5735,1895,889,Cinema,IN,Limited Theatrical,2023-05-20,8,12+,613977.44,Released
+5736,1895,\N,Festival,BR,Festival Premiere,2023-01-14,8,12+,\N,Released
+5741,1897,305,Home Video / VOD,IN,Digital Release,2022-09-27,28,U,15094.16,Released
+5742,1897,\N,Festival,IN,Festival Premiere,2022-08-13,28,U,\N,Released
+5782,1911,656,Cinema,MX,Limited Theatrical,2022-12-11,5,12+,589809.31,Released
+5783,1911,\N,Festival,MX,Festival Premiere,2022-10-31,5,12+,\N,Released
+5788,1914,766,Home Video / VOD,US,Digital Release,2022-11-13,1,R,22378.27,Released
+5789,1914,\N,Festival,US,Festival Premiere,2022-09-03,1,R,\N,Released
+5828,1927,472,Cinema,RU,Limited Theatrical,2023-01-20,11,16+,1026176.13,Released
+5829,1927,66,International Sales,IN,Festival / Sales,2023-02-14,11,16+,217122.4,Released
+5830,1927,\N,Festival,RU,Festival Premiere,2022-12-07,11,16+,\N,Released
+5831,1928,239,Home Video / VOD,ES,Digital Release,2022-11-19,5,16+,5814.78,Released
+5832,1928,601,Cinema,IT,Wide Theatrical,2023-02-17,5,16+,14325.31,Released
+5833,1928,\N,Festival,ES,Festival Premiere,2022-09-07,5,16+,\N,Released
+5841,1932,698,International Sales,US,Festival / Sales,2022-12-26,1,PG,19469.88,Released
+5842,1932,\N,Festival,US,Festival Premiere,2022-11-12,1,PG,\N,Released
+5863,1941,572,Cinema,IN,Wide Theatrical,2024-04-07,1,U,12565077.41,Released
+5864,1941,884,Cinema,DE,Limited Theatrical,2024-04-14,1,U,3841319.61,Released
+5865,1941,\N,Festival,IN,Festival Premiere,2024-01-19,1,U,\N,Released
+5866,1942,2,Cinema,IT,Wide Theatrical,2022-12-11,6,All,42550.76,Released
+5867,1942,947,Cinema,KR,Limited Theatrical,2023-01-03,6,All,14932.58,Released
+5868,1942,\N,Festival,IT,Festival Premiere,2022-11-14,6,All,\N,Released
+5878,1946,904,Cinema,AR,Limited Theatrical,2023-08-02,5,All,885578.88,Released
+5879,1946,\N,Festival,AR,Festival Premiere,2023-06-14,5,All,\N,Released
+5922,1963,524,Streaming,US,Streaming Premiere,2022-12-23,1,PG-13,235569.74,Released
+5923,1963,\N,Festival,US,Festival Premiere,2022-10-11,1,PG-13,\N,Released
+6028,1998,289,Cinema,IN,Limited Theatrical,2023-03-13,28,U,283636.87,Released
+6029,1998,\N,Festival,IN,Festival Premiere,2023-01-28,28,U,\N,Released
+6036,2001,411,Streaming,IN,Streaming Premiere,2023-03-09,27,A,195409.17,Released
+6037,2001,448,Cinema,ES,Wide Theatrical,2023-05-27,27,A,68833.14,Released
+6038,2001,\N,Festival,IN,Festival Premiere,2023-01-30,27,A,\N,Released
+6073,2015,359,Cinema,NL,Wide Theatrical,2023-05-20,18,All,1378218.31,Released
+6074,2015,27,Cinema,AU,Wide Theatrical,2023-07-10,18,All,220401.79,Released
+6075,2015,\N,Festival,NL,Festival Premiere,2023-03-04,18,All,\N,Released
+6091,2022,438,Home Video / VOD,FR,Digital Release,2023-02-25,5,16+,40382.31,Released
+6092,2022,\N,Festival,FR,Festival Premiere,2022-12-21,5,16+,\N,Released
+6132,2035,796,Cinema,GB,Limited Theatrical,2023-05-15,1,15,2755768.13,Released
+6133,2035,\N,Festival,GB,Festival Premiere,2023-03-22,1,15,\N,Released
+6220,2065,511,Cinema,US,Limited Theatrical,2023-09-04,1,R,3220445.77,Released
+6221,2065,\N,Festival,US,Festival Premiere,2023-07-28,1,R,\N,Released
+6222,2066,735,TV,GB,TV Broadcast,2023-07-15,1,U,928327.52,Released
+6223,2066,70,TV,IT,TV Broadcast,2023-11-09,1,U,264456.67,Released
+6224,2066,660,Cinema,JP,Limited Theatrical,2023-08-09,1,U,128870.08,Released
+6225,2066,\N,Festival,GB,Festival Premiere,2023-05-09,1,U,\N,Released
+6257,2078,224,Cinema,NO,Limited Theatrical,2023-10-09,21,All,1572342.03,Released
+6258,2078,\N,Festival,NO,Festival Premiere,2023-08-22,21,All,\N,Released
+6274,2084,391,TV,FR,TV Broadcast,2023-05-13,4,16+,19061.18,Released
+6275,2084,\N,Festival,FR,Festival Premiere,2023-04-07,4,16+,\N,Released
+6283,2087,640,Cinema,US,Limited Theatrical,2024-01-18,1,All,5449816.01,Released
+6284,2087,\N,Festival,US,Festival Premiere,2023-11-24,1,All,\N,Released
+6289,2090,195,Cinema,US,Wide Theatrical,2023-06-11,1,PG-13,136751.87,Released
+6290,2090,\N,Festival,US,Festival Premiere,2023-03-26,1,PG-13,\N,Released
+6313,2098,1000,Cinema,GB,Wide Theatrical,2023-05-18,1,15,68997.11,Released
+6314,2098,990,Streaming,DE,Streaming Premiere,2023-07-25,1,15,11876.85,Released
+6315,2098,\N,Festival,GB,Festival Premiere,2023-02-23,1,15,\N,Released
+6329,2104,532,TV,CA,TV Broadcast,2023-11-19,1,R,917263.8,Released
+6330,2104,\N,Festival,CA,Festival Premiere,2023-09-18,1,R,\N,Released
+6333,2106,89,Cinema,NG,Wide Theatrical,2023-08-06,1,All,102582.14,Released
+6334,2106,\N,Festival,NG,Festival Premiere,2023-05-28,1,All,\N,Released
+6355,2115,568,TV,IN,TV Broadcast,2023-10-04,1,UA,35051.74,Released
+6356,2115,218,Home Video / VOD,FR,Digital Release,2024-01-29,1,UA,5736.09,Released
+6357,2115,992,International Sales,DE,Festival / Sales,2023-11-25,1,UA,8839.0,Released
+6358,2115,\N,Festival,IN,Festival Premiere,2023-07-11,1,UA,\N,Released
+6614,2201,925,International Sales,KR,Festival / Sales,2024-02-08,10,12+,712392.96,Released
+6615,2201,452,Cinema,US,Limited Theatrical,2024-03-02,10,12+,128233.37,Released
+6616,2201,\N,Festival,KR,Festival Premiere,2023-12-02,10,12+,\N,Released
+6676,2221,561,Streaming,DE,Streaming Premiere,2023-11-11,7,16+,6150055.63,Released
+6677,2221,218,Home Video / VOD,FR,Digital Release,2024-01-16,7,16+,378701.43,Released
+6678,2221,\N,Festival,DE,Festival Premiere,2023-08-20,7,16+,\N,Released
+6736,2240,379,Streaming,GB,Streaming Premiere,2023-09-24,1,12A,189733.01,Released
+6737,2240,75,Cinema,BR,Limited Theatrical,2023-10-15,1,12A,45704.85,Released
+6738,2240,60,Cinema,BR,Wide Theatrical,2023-12-02,1,12A,65035.84,Released
+6739,2240,\N,Festival,GB,Festival Premiere,2023-08-02,1,12A,\N,Released
+6740,2241,504,Cinema,ES,Limited Theatrical,2023-10-27,5,12+,105486.46,Released
+6741,2241,537,TV,US,TV Broadcast,2023-12-17,5,12+,18098.39,Released
+6742,2241,\N,Festival,ES,Festival Premiere,2023-08-03,5,12+,\N,Released
+6891,2289,384,Streaming,MX,Streaming Premiere,2023-12-23,5,12+,24406.31,Released
+6892,2289,487,Home Video / VOD,IT,Digital Release,2024-02-24,5,12+,2153.57,Released
+6893,2289,\N,Festival,MX,Festival Premiere,2023-11-21,5,12+,\N,Released
+6897,2291,195,Cinema,US,Wide Theatrical,2023-12-25,1,PG,216879.91,Released
+6898,2291,533,Streaming,AU,Streaming Premiere,2024-02-15,1,PG,34787.76,Released
+6899,2291,\N,Festival,US,Festival Premiere,2023-10-28,1,PG,\N,Released
+6944,2306,851,Cinema,JP,Limited Theatrical,2024-04-11,3,18+,857554.32,Released
+6945,2306,107,Home Video / VOD,JP,Digital Release,2024-04-28,3,18+,120440.61,Released
+6946,2306,\N,Festival,JP,Festival Premiere,2024-03-02,3,18+,\N,Released
+6974,2316,975,TV,FR,TV Broadcast,2024-03-09,4,18+,1586733.63,Released
+6975,2316,709,Cinema,US,Limited Theatrical,2024-04-16,4,18+,744179.53,Released
+6976,2316,\N,Festival,FR,Festival Premiere,2024-02-18,4,18+,\N,Released
+6977,2317,960,Streaming,US,Streaming Premiere,2024-05-11,1,PG-13,2941509.48,Released
+6978,2317,805,TV,CA,TV Broadcast,2024-09-01,1,PG-13,507059.94,Released
+6979,2317,\N,Festival,US,Festival Premiere,2024-04-11,1,PG-13,\N,Released
+6985,2320,521,Cinema,US,Wide Theatrical,2025-04-13,1,R,30333001.15,Released
+6986,2320,\N,Festival,US,Festival Premiere,2025-02-14,1,R,\N,Released
+7010,2329,272,Cinema,IT,Wide Theatrical,2024-11-05,6,12+,3840913.71,Released
+7011,2329,474,Streaming,US,Streaming Premiere,2025-02-01,6,12+,3746476.72,Released
+7012,2329,884,Cinema,DE,Limited Theatrical,2025-01-18,6,12+,4029718.66,Released
+7013,2329,\N,Festival,IT,Festival Premiere,2024-09-01,6,12+,\N,Released
+7033,2336,720,Cinema,US,Limited Theatrical,2025-02-24,1,PG,38005855.1,Released
+7034,2336,410,Cinema,US,Limited Theatrical,2025-03-13,1,PG,13247705.61,Released
+7035,2336,\N,Festival,US,Festival Premiere,2025-01-16,1,PG,\N,Released
+7041,2339,928,Streaming,US,Streaming Premiere,2024-04-07,1,PG-13,1214813.18,Released
+7042,2339,239,Home Video / VOD,ES,Digital Release,2024-04-19,1,PG-13,17503.39,Released
+7043,2339,865,TV,IN,TV Broadcast,2024-08-04,1,PG-13,58651.84,Released
+7044,2339,\N,Festival,US,Festival Premiere,2024-02-01,1,PG-13,\N,Released
+7047,2341,345,Cinema,JP,Wide Theatrical,2024-03-16,4,12+,41764.75,Released
+7048,2341,57,Cinema,FR,Wide Theatrical,2024-06-27,4,12+,34453.87,Released
+7049,2341,861,Cinema,IT,Limited Theatrical,2024-05-10,4,12+,32010.26,Released
+7050,2341,\N,Festival,JP,Festival Premiere,2024-02-01,4,12+,\N,Released
+7058,2345,141,Home Video / VOD,TR,Digital Release,2024-09-19,13,12+,1199520.47,Released
+7059,2345,54,Cinema,IT,Limited Theatrical,2024-12-17,13,12+,1912559.0,Released
+7060,2345,\N,Festival,TR,Festival Premiere,2024-08-09,13,12+,\N,Released
+7140,2372,477,Streaming,CA,Streaming Premiere,2024-07-12,4,R,22276138.6,Released
+7141,2372,\N,Festival,CA,Festival Premiere,2024-04-21,4,R,\N,Released
+7151,2376,675,TV,IN,TV Broadcast,2024-09-18,34,12+,4644528.51,Released
+7152,2376,60,Cinema,BR,Wide Theatrical,2024-10-07,34,12+,2191827.94,Released
+7153,2376,\N,Festival,IN,Festival Premiere,2024-07-07,34,12+,\N,Released
+7195,2391,325,Streaming,DK,Streaming Premiere,2024-04-21,20,18+,150665.19,Released
+7196,2391,513,Streaming,BR,Streaming Premiere,2024-05-14,20,18+,59702.17,Released
+7197,2391,\N,Festival,DK,Festival Premiere,2024-02-10,20,18+,\N,Released
+7241,2406,919,Cinema,US,Limited Theatrical,2024-04-02,1,NR,71502.41,Released
+7242,2406,277,International Sales,BR,Festival / Sales,2024-06-24,1,NR,25484.72,Released
+7243,2406,\N,Festival,US,Festival Premiere,2024-02-21,1,NR,\N,Released
+7381,2453,241,Cinema,IE,Wide Theatrical,2024-07-14,1,12+,1965542.29,Released
+7382,2453,\N,Festival,IE,Festival Premiere,2024-04-19,1,12+,\N,Released
+7389,2456,573,Cinema,JP,Wide Theatrical,2024-10-26,3,16+,3048282.18,Released
+7390,2456,197,Cinema,CA,Wide Theatrical,2024-11-12,3,16+,440878.1,Released
+7391,2456,245,Cinema,AU,Wide Theatrical,2024-11-11,3,16+,1022703.99,Released
+7392,2456,\N,Festival,JP,Festival Premiere,2024-08-03,3,16+,\N,Released
+7465,2482,283,Streaming,IT,Streaming Premiere,2025-05-12,6,16+,67342441.81,Released
+7466,2482,\N,Festival,IT,Festival Premiere,2025-04-07,6,16+,\N,Released
+7467,2483,316,Cinema,PL,Wide Theatrical,2024-09-17,17,All,887995.13,Released
+7468,2483,641,Cinema,AU,Limited Theatrical,2024-10-14,17,All,654643.95,Released
+7469,2483,\N,Festival,PL,Festival Premiere,2024-07-20,17,All,\N,Released
+7511,2498,306,Cinema,BR,Limited Theatrical,2024-12-08,8,All,1190377.08,Released
+7512,2498,209,Cinema,KR,Wide Theatrical,2025-03-01,8,All,151598.54,Released
+7513,2498,\N,Festival,BR,Festival Premiere,2024-09-27,8,All,\N,Released
+7537,2507,763,TV,US,TV Broadcast,2024-07-01,1,PG,92449.84,Released
+7538,2507,487,Home Video / VOD,IT,Digital Release,2024-09-04,1,PG,10066.31,Released
+7539,2507,\N,Festival,US,Festival Premiere,2024-05-24,1,PG,\N,Released
+7594,2527,33,Cinema,ID,Wide Theatrical,2025-05-23,15,All,9862284.76,Released
+7595,2527,501,Cinema,AU,Limited Theatrical,2025-06-22,15,All,6102926.14,Released
+7596,2527,551,International Sales,US,Festival / Sales,2025-07-13,15,All,4288738.97,Released
+7597,2527,\N,Festival,ID,Festival Premiere,2025-03-10,15,All,\N,Released
+7660,2550,31,Home Video / VOD,GB,Digital Release,2024-09-24,1,PG,33163.85,Released
+7661,2550,\N,Festival,GB,Festival Premiere,2024-07-07,1,PG,\N,Released
+7676,2556,874,Cinema,US,Limited Theatrical,2025-01-05,1,G,868895.39,Released
+7677,2556,\N,Festival,US,Festival Premiere,2024-10-11,1,G,\N,Released
+7742,2577,160,Streaming,US,Streaming Premiere,2024-10-23,7,16+,315989.31,Released
+7743,2577,858,TV,BR,TV Broadcast,2025-02-10,7,16+,40097.71,Released
+7744,2577,\N,Festival,US,Festival Premiere,2024-09-09,7,16+,\N,Released
+7802,2597,261,TV,ID,TV Broadcast,2025-11-01,15,16+,11638528.0,Released
+7803,2597,683,Cinema,IN,Wide Theatrical,2026-02-08,15,16+,2286214.18,Released
+7804,2597,383,International Sales,GB,Festival / Sales,2026-01-08,15,16+,4181068.48,Released
+7805,2597,\N,Festival,ID,Festival Premiere,2025-10-03,15,16+,\N,Released
+7857,2614,241,Cinema,IE,Wide Theatrical,2025-01-21,1,12+,2783920.94,Released
+7858,2614,321,Cinema,IN,Limited Theatrical,2025-05-01,1,12+,708337.31,Released
+7859,2614,\N,Festival,IE,Festival Premiere,2024-12-07,1,12+,\N,Released
+7873,2619,462,Cinema,IN,Wide Theatrical,2025-02-16,2,U,140776.34,Released
+7874,2619,\N,Festival,IN,Festival Premiere,2024-12-04,2,U,\N,Released
+7890,2625,499,Cinema,US,Limited Theatrical,2024-09-23,1,PG,160799.38,Released
+7891,2625,197,Cinema,CA,Wide Theatrical,2025-01-07,1,PG,92104.02,Released
+7892,2625,806,International Sales,KR,Festival / Sales,2024-11-11,1,PG,12732.38,Released
+7893,2625,\N,Festival,US,Festival Premiere,2024-07-25,1,PG,\N,Released
+7894,2626,117,TV,SE,TV Broadcast,2024-12-02,19,16+,93410.79,Released
+7895,2626,650,Cinema,KR,Limited Theatrical,2025-03-20,19,16+,155210.3,Released
+7896,2626,852,TV,BR,TV Broadcast,2025-01-08,19,16+,25901.44,Released
+7897,2626,\N,Festival,SE,Festival Premiere,2024-10-05,19,16+,\N,Released
+7950,2646,876,Cinema,NO,Limited Theatrical,2025-06-27,21,16+,6812849.91,Released
+7951,2646,194,Cinema,DE,Limited Theatrical,2025-09-30,21,16+,3591198.37,Released
+7952,2646,\N,Festival,NO,Festival Premiere,2025-05-16,21,16+,\N,Released
+7998,2661,261,TV,ID,TV Broadcast,2025-06-26,15,12+,796915.31,Released
+7999,2661,652,Cinema,KR,Limited Theatrical,2025-09-19,15,12+,367609.02,Released
+8000,2661,\N,Festival,ID,Festival Premiere,2025-06-01,15,12+,\N,Released
+8006,2664,164,Cinema,US,Limited Theatrical,2024-12-20,1,R,23146.55,Released
+8007,2664,\N,Festival,US,Festival Premiere,2024-11-03,1,R,\N,Released
+8033,2673,780,International Sales,MX,Festival / Sales,2024-11-05,5,12+,86978.23,Released
+8034,2673,954,Home Video / VOD,IT,Digital Release,2024-12-06,5,12+,30898.27,Released
+8035,2673,\N,Festival,MX,Festival Premiere,2024-09-28,5,12+,\N,Released
+8121,2703,954,Home Video / VOD,IT,Digital Release,2025-01-05,6,18+,56806.12,Released
+8122,2703,714,Cinema,US,Wide Theatrical,2025-02-08,6,18+,314919.12,Released
+8123,2703,\N,Festival,IT,Festival Premiere,2024-10-20,6,18+,\N,Released
+8222,2736,374,Home Video / VOD,CN,Digital Release,2025-02-04,7,16+,143122.64,Released
+8223,2736,220,Cinema,BR,Wide Theatrical,2025-04-11,7,16+,90747.64,Released
+8224,2736,753,Cinema,AU,Wide Theatrical,2025-05-29,7,16+,149882.28,Released
+8225,2736,\N,Festival,CN,Festival Premiere,2024-11-14,7,16+,\N,Released
+8226,2737,910,TV,BR,TV Broadcast,2025-03-24,8,12+,117777.62,Released
+8227,2737,907,TV,KR,TV Broadcast,2025-03-30,8,12+,56052.25,Released
+8228,2737,494,International Sales,IN,Festival / Sales,2025-05-13,8,12+,11210.4,Released
+8229,2737,\N,Festival,BR,Festival Premiere,2025-01-19,8,12+,\N,Released
+8262,2749,100,Home Video / VOD,US,Digital Release,2025-12-16,1,R,4197912.04,Released
+8263,2749,\N,Festival,US,Festival Premiere,2025-10-17,1,R,\N,Released
+8280,2755,283,Streaming,IT,Streaming Premiere,2026-08-26,6,16+,224238519.37,Released
+8281,2755,749,Cinema,FR,Limited Theatrical,2026-09-30,6,16+,52474550.93,Released
+8282,2755,\N,Festival,IT,Festival Premiere,2026-07-19,6,16+,\N,Released
+8294,2760,664,Streaming,IN,Streaming Premiere,2025-03-07,2,UA,625674.39,Released
+8295,2760,982,International Sales,JP,Festival / Sales,2025-04-01,2,UA,192691.41,Released
+8296,2760,955,Streaming,KR,Streaming Premiere,2025-06-21,2,UA,139073.39,Released
+8297,2760,\N,Festival,IN,Festival Premiere,2024-12-29,2,UA,\N,Released
+8300,2762,716,Home Video / VOD,IT,Digital Release,2025-03-09,6,All,17464.18,Released
+8301,2762,\N,Festival,IT,Festival Premiere,2024-12-31,6,All,\N,Released
+8321,2769,534,Cinema,MX,Wide Theatrical,2025-03-13,5,All,71298.05,Released
+8322,2769,\N,Festival,MX,Festival Premiere,2025-01-01,5,All,\N,Released
+8347,2778,852,TV,BR,TV Broadcast,2025-07-26,8,18+,9285093.04,Released
+8348,2778,172,Home Video / VOD,GB,Digital Release,2025-08-09,8,18+,730626.65,Released
+8349,2778,914,Cinema,GB,Wide Theatrical,2025-08-16,8,18+,1156412.57,Released
+8350,2778,\N,Festival,BR,Festival Premiere,2025-05-26,8,18+,\N,Released
+8410,2800,645,Cinema,GB,Wide Theatrical,2025-02-24,1,PG,41934.51,Released
+8411,2800,\N,Festival,GB,Festival Premiere,2025-01-08,1,PG,\N,Released
+8412,2801,51,Cinema,TR,Wide Theatrical,2025-06-02,13,16+,883990.48,Released
+8413,2801,830,Cinema,IT,Wide Theatrical,2025-08-04,13,16+,170238.01,Released
+8414,2801,641,Cinema,AU,Limited Theatrical,2025-08-12,13,16+,299684.33,Released
+8415,2801,\N,Festival,TR,Festival Premiere,2025-03-28,13,16+,\N,Released
+8416,2802,798,Home Video / VOD,ES,Digital Release,2025-02-08,5,16+,17677.06,Released
+8417,2802,987,Home Video / VOD,JP,Digital Release,2025-02-13,5,16+,18559.34,Released
+8418,2802,27,Cinema,AU,Wide Theatrical,2025-04-03,5,16+,53632.41,Released
+8419,2802,\N,Festival,ES,Festival Premiere,2025-01-12,5,16+,\N,Released
+8461,2816,325,Streaming,DK,Streaming Premiere,2025-03-06,20,All,492201.0,Released
+8462,2816,897,Cinema,US,Wide Theatrical,2025-05-09,20,All,101524.24,Released
+8463,2816,279,Cinema,GB,Limited Theatrical,2025-04-19,20,All,175727.01,Released
+8464,2816,\N,Festival,DK,Festival Premiere,2025-01-06,20,All,\N,Released
+8530,2838,8,Home Video / VOD,IT,Digital Release,2025-05-14,6,16+,42513.08,Released
+8531,2838,756,Streaming,CA,Streaming Premiere,2025-08-25,6,16+,56495.94,Released
+8532,2838,197,Cinema,CA,Wide Theatrical,2025-08-08,6,16+,253267.82,Released
+8533,2838,\N,Festival,IT,Festival Premiere,2025-03-03,6,16+,\N,Released
+8575,2852,2,Cinema,IT,Wide Theatrical,2025-07-01,6,16+,5685066.46,Released
+8576,2852,532,TV,CA,TV Broadcast,2025-07-07,6,16+,359588.86,Released
+8577,2852,\N,Festival,IT,Festival Premiere,2025-04-22,6,16+,\N,Released
+8623,2867,721,International Sales,US,Festival / Sales,2025-08-03,1,PG-13,872653.53,Released
+8624,2867,504,Cinema,ES,Limited Theatrical,2025-10-26,1,PG-13,706105.65,Released
+8625,2867,\N,Festival,US,Festival Premiere,2025-05-12,1,PG-13,\N,Released
+8636,2871,533,Streaming,AU,Streaming Premiere,2025-11-27,1,PG-13,5030456.52,Released
+8637,2871,745,TV,IT,TV Broadcast,2026-02-07,1,PG-13,715063.33,Released
+8638,2871,\N,Festival,AU,Festival Premiere,2025-09-21,1,PG-13,\N,Released
+8651,2877,839,Cinema,US,Wide Theatrical,2025-06-21,1,PG-13,1417870.12,Released
+8652,2877,\N,Festival,US,Festival Premiere,2025-04-19,1,PG-13,\N,Released
+8657,2880,356,International Sales,IN,Festival / Sales,2025-05-17,2,A,55647.39,Released
+8658,2880,515,Cinema,DE,Wide Theatrical,2025-08-26,2,A,25360.36,Released
+8659,2880,861,Cinema,IT,Limited Theatrical,2025-05-18,2,A,29081.89,Released
+8660,2880,\N,Festival,IN,Festival Premiere,2025-03-12,2,A,\N,Released
+8677,2886,660,Cinema,JP,Limited Theatrical,2025-08-15,3,12+,281040.6,Released
+8678,2886,896,Cinema,KR,Wide Theatrical,2025-09-08,3,12+,245068.63,Released
+8679,2886,\N,Festival,JP,Festival Premiere,2025-07-13,3,12+,\N,Released
+8691,2891,137,International Sales,DK,Festival / Sales,2025-07-12,20,12+,1044576.03,Released
+8692,2891,347,Cinema,DE,Limited Theatrical,2025-08-24,20,12+,565388.66,Released
+8693,2891,\N,Festival,DK,Festival Premiere,2025-04-18,20,12+,\N,Released
+8730,2904,41,TV,GB,TV Broadcast,2025-05-06,7,18+,272085.04,Released
+8731,2904,\N,Festival,GB,Festival Premiere,2025-04-15,7,18+,\N,Released
+8760,2915,481,International Sales,AR,Festival / Sales,2026-06-18,5,16+,6972636.74,Released
+8761,2915,259,Home Video / VOD,JP,Digital Release,2026-09-13,5,16+,1793456.49,Released
+8762,2915,\N,Festival,AR,Festival Premiere,2026-03-22,5,16+,\N,Released
+8773,2919,516,International Sales,US,Festival / Sales,2025-07-07,5,12+,185321.54,Released
+8774,2919,769,Home Video / VOD,GB,Digital Release,2025-07-12,5,12+,40203.38,Released
+8775,2919,\N,Festival,US,Festival Premiere,2025-04-30,5,12+,\N,Released
+8853,2947,519,TV,ID,TV Broadcast,2025-05-27,15,16+,61596.16,Released
+8854,2947,990,Streaming,DE,Streaming Premiere,2025-07-30,15,16+,27483.77,Released
+8855,2947,\N,Festival,ID,Festival Premiere,2025-05-01,15,16+,\N,Released
+8889,2958,645,Cinema,GB,Wide Theatrical,2025-06-21,1,12A,2764915.89,Released
+8890,2958,982,International Sales,JP,Festival / Sales,2025-07-15,1,12A,805800.94,Released
+8891,2958,\N,Festival,GB,Festival Premiere,2025-05-13,1,12A,\N,Released
+8955,2979,699,Home Video / VOD,NL,Digital Release,2025-05-26,18,All,2810.37,Released
+8956,2979,206,Cinema,FR,Wide Theatrical,2025-07-27,18,All,7278.38,Released
+8957,2979,\N,Festival,NL,Festival Premiere,2025-03-15,18,All,\N,Released
+9027,3001,306,Cinema,BR,Limited Theatrical,2025-12-01,8,16+,1402232.25,Released
+9028,3001,994,International Sales,ES,Festival / Sales,2026-03-16,8,16+,813513.69,Released
+9029,3001,\N,Festival,BR,Festival Premiere,2025-10-24,8,16+,\N,Released
+9091,3021,762,Cinema,IN,Limited Theatrical,2025-06-19,2,UA,641947.03,Released
+9092,3021,\N,Festival,IN,Festival Premiere,2025-05-26,2,UA,\N,Released
+9096,3023,554,Cinema,IN,Wide Theatrical,2025-07-05,2,A,29039.74,Released
+9097,3023,216,Cinema,GB,Limited Theatrical,2025-08-04,2,A,34153.73,Released
+9098,3023,\N,Festival,IN,Festival Premiere,2025-05-21,2,A,\N,Released
+9103,3025,908,Cinema,ES,Limited Theatrical,2025-09-01,5,12+,1084698.88,Released
+9104,3025,125,Streaming,US,Streaming Premiere,2025-10-18,5,12+,271039.57,Released
+9105,3025,138,Cinema,BR,Wide Theatrical,2025-12-19,5,12+,346244.98,Released
+9106,3025,\N,Festival,ES,Festival Premiere,2025-06-09,5,12+,\N,Released
+9121,3031,432,International Sales,SE,Festival / Sales,2025-08-03,19,16+,70121.77,Released
+9122,3031,306,Cinema,BR,Limited Theatrical,2025-09-30,19,16+,35114.88,Released
+9123,3031,446,Home Video / VOD,AU,Digital Release,2025-08-17,19,16+,3162.69,Released
+9124,3031,\N,Festival,SE,Festival Premiere,2025-06-20,19,16+,\N,Released
+9190,3053,334,International Sales,AR,Festival / Sales,2025-06-11,5,12+,2642.97,Released
+9191,3053,\N,Festival,AR,Festival Premiere,2025-04-27,5,12+,\N,Released
+9194,3055,261,TV,ID,TV Broadcast,2025-10-09,15,12+,350115.54,Released
+9195,3055,229,Cinema,JP,Limited Theatrical,2025-12-16,15,12+,623928.84,Released
+9196,3055,621,Cinema,IT,Limited Theatrical,2026-01-22,15,12+,526633.76,Released
+9197,3055,\N,Festival,ID,Festival Premiere,2025-08-15,15,12+,\N,Released
+9215,3061,936,Cinema,CA,Wide Theatrical,2025-10-19,1,PG,1093375.88,Released
+9216,3061,302,TV,ES,TV Broadcast,2025-10-19,1,PG,179041.01,Released
+9217,3061,923,International Sales,ES,Festival / Sales,2026-01-07,1,PG,282069.77,Released
+9218,3061,\N,Festival,CA,Festival Premiere,2025-09-28,1,PG,\N,Released
+9245,3070,937,Cinema,IT,Limited Theatrical,2025-12-12,6,12+,8396806.75,Released
+9246,3070,476,Cinema,BR,Wide Theatrical,2025-12-23,6,12+,412664.29,Released
+9247,3070,\N,Festival,IT,Festival Premiere,2025-09-19,6,12+,\N,Released
+9286,3084,582,Cinema,JP,Limited Theatrical,2026-08-25,3,All,23830813.49,Released
+9287,3084,2,Cinema,IT,Wide Theatrical,2026-10-28,3,All,20812124.04,Signed
+9288,3084,\N,Festival,JP,Festival Premiere,2026-05-30,3,All,\N,Released
+9349,3104,446,Home Video / VOD,AU,Digital Release,2026-09-08,1,PG-13,23235715.01,Released
+9350,3104,\N,Festival,AU,Festival Premiere,2026-07-02,1,PG-13,\N,Released
+9371,3112,349,Cinema,US,Limited Theatrical,2025-06-04,1,PG-13,110209.53,Released
+9372,3112,506,TV,GB,TV Broadcast,2025-09-02,1,PG-13,14384.07,Released
+9373,3112,71,Cinema,CA,Wide Theatrical,2025-09-24,1,PG-13,6176.02,Released
+9374,3112,\N,Festival,US,Festival Premiere,2025-03-20,1,PG-13,\N,Released
+9472,3145,143,Home Video / VOD,US,Digital Release,2025-07-12,8,16+,35694.33,Released
+9473,3145,227,TV,BR,TV Broadcast,2025-07-26,8,16+,12965.32,Released
+9474,3145,\N,Festival,US,Festival Premiere,2025-06-13,8,16+,\N,Released
+9475,3146,286,Home Video / VOD,GB,Digital Release,2025-10-26,7,12+,375085.92,Released
+9476,3146,\N,Festival,GB,Festival Premiere,2025-08-06,7,12+,\N,Released
+9490,3152,359,Cinema,NL,Wide Theatrical,2025-09-23,18,16+,41565.52,Released
+9491,3152,119,Cinema,KR,Wide Theatrical,2025-09-30,18,16+,36923.09,Released
+9492,3152,\N,Festival,NL,Festival Premiere,2025-07-15,18,16+,\N,Released
+9512,3159,388,Cinema,US,Wide Theatrical,2026-08-23,5,All,31150641.21,Released
+9513,3159,\N,Festival,US,Festival Premiere,2026-06-14,5,All,\N,Released
+9522,3163,327,Cinema,US,Limited Theatrical,2025-11-06,1,PG-13,618007.82,Released
+9523,3163,302,TV,ES,TV Broadcast,2025-12-14,1,PG-13,67296.43,Released
+9524,3163,\N,Festival,US,Festival Premiere,2025-08-23,1,PG-13,\N,Released
+9525,3164,668,Cinema,IN,Wide Theatrical,2025-09-05,28,UA,22184.41,Released
+9526,3164,983,Home Video / VOD,JP,Digital Release,2025-09-30,28,UA,1338.07,Released
+9527,3164,\N,Festival,IN,Festival Premiere,2025-07-18,28,UA,\N,Released
+9661,3211,117,TV,SE,TV Broadcast,2025-10-04,19,12+,60127.18,Released
+9662,3211,\N,Festival,SE,Festival Premiere,2025-08-22,19,12+,\N,Released
+9675,3217,135,Cinema,GB,Wide Theatrical,2025-11-04,1,18,1706544.14,Released
+9676,3217,504,Cinema,ES,Limited Theatrical,2025-12-23,1,18,1391791.41,Released
+9677,3217,539,TV,CA,TV Broadcast,2025-11-25,1,18,696286.38,Released
+9678,3217,\N,Festival,GB,Festival Premiere,2025-09-14,1,18,\N,Released
+9679,3218,372,Cinema,US,Wide Theatrical,2025-09-21,1,PG-13,144321.07,Released
+9680,3218,\N,Festival,US,Festival Premiere,2025-08-03,1,PG-13,\N,Released
+9687,3221,488,Cinema,US,Limited Theatrical,2025-08-08,1,PG-13,108792.71,Released
+9688,3221,637,Cinema,JP,Limited Theatrical,2025-08-29,1,PG-13,24614.91,Released
+9689,3221,\N,Festival,US,Festival Premiere,2025-06-01,1,PG-13,\N,Released
+9692,3223,358,International Sales,US,Festival / Sales,2025-09-16,1,R,102656.28,Released
+9693,3223,\N,Festival,US,Festival Premiere,2025-06-22,1,R,\N,Released
+9700,3226,598,Cinema,DK,Limited Theatrical,2025-10-02,20,12+,223208.73,Released
+9701,3226,\N,Festival,DK,Festival Premiere,2025-08-16,20,12+,\N,Released
+9731,3237,967,TV,DE,TV Broadcast,2025-11-07,7,All,2767384.41,Released
+9732,3237,240,International Sales,BR,Festival / Sales,2025-12-17,7,All,845570.33,Released
+9733,3237,54,Cinema,IT,Limited Theatrical,2026-01-23,7,All,834057.13,Released
+9734,3237,\N,Festival,DE,Festival Premiere,2025-09-20,7,All,\N,Released
+9758,3245,716,Home Video / VOD,IT,Digital Release,2025-08-11,6,12+,5074.24,Released
+9759,3245,34,Cinema,GB,Limited Theatrical,2025-10-09,6,12+,23187.19,Released
+9760,3245,\N,Festival,IT,Festival Premiere,2025-06-19,6,12+,\N,Released
+9830,3267,481,International Sales,AR,Festival / Sales,2025-10-13,5,12+,15370.01,Released
+9831,3267,\N,Festival,AR,Festival Premiere,2025-09-17,5,12+,\N,Released
+9860,3277,240,International Sales,BR,Festival / Sales,2025-10-02,8,18+,22677.13,Released
+9861,3277,438,Home Video / VOD,FR,Digital Release,2026-01-26,8,18+,6884.71,Released
+9862,3277,247,TV,FR,TV Broadcast,2025-12-06,8,18+,9139.93,Released
+9863,3277,\N,Festival,BR,Festival Premiere,2025-09-03,8,18+,\N,Released
+9884,3285,614,Cinema,MX,Wide Theatrical,2025-11-26,5,18+,419456.34,Released
+9885,3285,541,Streaming,US,Streaming Premiere,2025-12-15,5,18+,209232.75,Released
+9886,3285,774,TV,AU,TV Broadcast,2025-12-29,5,18+,26549.61,Released
+9887,3285,\N,Festival,MX,Festival Premiere,2025-10-12,5,18+,\N,Released
+9905,3293,900,Streaming,CN,Streaming Premiere,2025-12-08,5,18+,735571.88,Released
+9906,3293,289,Cinema,IN,Limited Theatrical,2026-01-16,5,18+,124911.84,Released
+9907,3293,\N,Festival,CN,Festival Premiere,2025-11-02,5,18+,\N,Released
+9922,3299,275,Home Video / VOD,GB,Digital Release,2026-10-02,1,18,2586167.3,Released
+9923,3299,754,Cinema,KR,Wide Theatrical,2027-01-24,1,18,8526559.95,Signed
+9924,3299,753,Cinema,AU,Wide Theatrical,2026-10-09,1,18,6970276.56,Signed
+9925,3299,\N,Festival,GB,Festival Premiere,2026-08-02,1,18,\N,Released
+9956,3309,924,International Sales,AU,Festival / Sales,2025-12-03,1,PG-13,18733.49,Released
+9957,3309,197,Cinema,CA,Wide Theatrical,2025-12-25,1,PG-13,17602.37,Released
+9958,3309,\N,Festival,AU,Festival Premiere,2025-10-09,1,PG-13,\N,Released
+9992,3321,270,Streaming,FR,Streaming Premiere,2025-11-14,4,All,73194.35,Released
+9993,3321,\N,Festival,FR,Festival Premiere,2025-09-08,4,All,\N,Released
+10010,3327,794,TV,FR,TV Broadcast,2025-11-09,4,12+,1227595.13,Released
+10011,3327,502,Cinema,JP,Wide Theatrical,2025-12-14,4,12+,438429.03,Released
+10012,3327,785,International Sales,GB,Festival / Sales,2026-02-22,4,12+,320295.48,Released
+10013,3327,\N,Festival,FR,Festival Premiere,2025-08-26,4,12+,\N,Released
+10020,3330,699,Home Video / VOD,NL,Digital Release,2025-11-19,18,16+,7589.04,Released
+10021,3330,85,Cinema,IN,Limited Theatrical,2025-12-09,18,16+,8913.85,Released
+10022,3330,\N,Festival,NL,Festival Premiere,2025-08-27,18,16+,\N,Released
+10077,3348,899,Cinema,FR,Wide Theatrical,2025-09-23,4,12+,88221.3,Released
+10078,3348,\N,Festival,FR,Festival Premiere,2025-07-27,4,12+,\N,Released
+10082,3350,260,Cinema,DE,Limited Theatrical,2025-09-12,7,All,120739.95,Released
+10083,3350,470,Cinema,GB,Wide Theatrical,2025-10-04,7,All,177756.53,Released
+10084,3350,\N,Festival,DE,Festival Premiere,2025-07-20,7,All,\N,Released
+10097,3355,333,Cinema,FR,Limited Theatrical,2025-10-24,4,All,84363.3,Released
+10098,3355,\N,Festival,FR,Festival Premiere,2025-10-03,4,All,\N,Released
+10170,3379,743,Cinema,NG,Wide Theatrical,2026-12-18,1,12+,7970256.66,Signed
+10171,3379,616,International Sales,ES,Festival / Sales,2027-01-09,1,12+,825126.65,Signed
+10172,3379,\N,Festival,NG,Festival Premiere,2026-10-18,1,12+,\N,Scheduled
+10181,3382,888,Streaming,RU,Streaming Premiere,2025-12-04,11,All,118743.54,Released
+10182,3382,910,TV,BR,TV Broadcast,2026-03-13,11,All,5624.32,Released
+10183,3382,753,Cinema,AU,Wide Theatrical,2026-01-24,11,All,27854.37,Released
+10184,3382,\N,Festival,RU,Festival Premiere,2025-11-09,11,All,\N,Released
+10200,3388,360,Streaming,IN,Streaming Premiere,2025-12-20,1,UA,146040.33,Released
+10201,3388,\N,Festival,IN,Festival Premiere,2025-11-14,1,UA,\N,Released
+10232,3399,829,Cinema,FR,Limited Theatrical,2025-12-17,4,16+,162947.58,Released
+10233,3399,979,Home Video / VOD,KR,Digital Release,2026-01-03,4,16+,6601.36,Released
+10234,3399,949,TV,GB,TV Broadcast,2026-03-13,4,16+,25095.94,Released
+10235,3399,\N,Festival,FR,Festival Premiere,2025-09-19,4,16+,\N,Released
+10265,3408,542,International Sales,IN,Festival / Sales,2026-11-03,2,A,7786578.91,Signed
+10266,3408,395,Cinema,CA,Wide Theatrical,2026-11-21,2,A,2092855.84,Signed
+10267,3408,804,Cinema,CA,Wide Theatrical,2026-12-04,2,A,3577735.41,Signed
+10268,3408,\N,Festival,IN,Festival Premiere,2026-08-10,2,A,\N,Released
+10277,3411,861,Cinema,IT,Limited Theatrical,2025-12-20,6,16+,235776.68,Released
+10278,3411,2,Cinema,IT,Wide Theatrical,2026-02-15,6,16+,94896.42,Released
+10279,3411,802,Cinema,DE,Wide Theatrical,2026-02-12,6,16+,544327.54,Released
+10280,3411,\N,Festival,IT,Festival Premiere,2025-09-26,6,16+,\N,Released
+10297,3417,649,Cinema,GB,Wide Theatrical,2026-11-16,1,PG,35999151.22,Signed
+10298,3417,2,Cinema,IT,Wide Theatrical,2026-12-19,1,PG,11177012.58,Signed
+10299,3417,\N,Festival,GB,Festival Premiere,2026-10-08,1,PG,\N,Scheduled
+10318,3423,501,Cinema,AU,Limited Theatrical,2025-12-12,1,R,445912.33,Released
+10319,3423,783,International Sales,CA,Festival / Sales,2026-03-20,1,R,113321.35,Released
+10320,3423,\N,Festival,AU,Festival Premiere,2025-11-08,1,R,\N,Released
+10326,3426,966,Home Video / VOD,AR,Digital Release,2026-11-03,5,All,878300.9,Signed
+10327,3426,\N,Festival,AR,Festival Premiere,2026-09-16,5,All,\N,Released
+10385,3447,743,Cinema,NG,Wide Theatrical,2025-11-26,7,12+,59815.06,Released
+10386,3447,804,Cinema,CA,Wide Theatrical,2026-02-22,7,12+,59957.31,Released
+10387,3447,\N,Festival,NG,Festival Premiere,2025-10-02,7,12+,\N,Released
+10400,3453,907,TV,KR,TV Broadcast,2025-12-19,10,12+,13228.3,Released
+10401,3453,\N,Festival,KR,Festival Premiere,2025-10-10,10,12+,\N,Released
+10457,3473,734,Cinema,US,Wide Theatrical,2025-12-10,1,PG-13,160633.81,Released
+10458,3473,209,Cinema,KR,Wide Theatrical,2026-04-03,1,PG-13,39568.54,Released
+10459,3473,\N,Festival,US,Festival Premiere,2025-11-11,1,PG-13,\N,Released
+10573,3512,585,Cinema,GB,Limited Theatrical,2026-03-11,1,18,198417.6,Released
+10574,3512,\N,Festival,GB,Festival Premiere,2026-01-28,1,18,\N,Released
+10647,3536,918,Cinema,ID,Limited Theatrical,2026-09-06,15,All,13197555.51,Released
+10648,3536,547,Cinema,KR,Limited Theatrical,2026-11-13,15,All,5083466.09,Signed
+10649,3536,784,Cinema,BR,Wide Theatrical,2026-12-03,15,All,3294537.15,Signed
+10650,3536,\N,Festival,ID,Festival Premiere,2026-07-29,15,All,\N,Released
+10679,3547,259,Home Video / VOD,JP,Digital Release,2026-04-16,3,All,10148.67,Released
+10680,3547,\N,Festival,JP,Festival Premiere,2026-02-28,3,All,\N,Released
+10717,3562,16,Cinema,US,Wide Theatrical,2026-07-01,1,PG-13,2539115.74,Released
+10718,3562,\N,Festival,US,Festival Premiere,2026-04-09,1,PG-13,\N,Released
+10722,3564,869,Streaming,AU,Streaming Premiere,2026-09-26,1,PG,4740003.7,Released
+10723,3564,347,Cinema,DE,Limited Theatrical,2026-11-05,1,PG,1697957.4,Signed
+10724,3564,980,Cinema,GB,Limited Theatrical,2026-10-22,1,PG,481695.99,Signed
+10725,3564,\N,Festival,AU,Festival Premiere,2026-07-16,1,PG,\N,Released
+10807,3592,745,TV,IT,TV Broadcast,2026-08-30,6,12+,1162987.55,Released
+10808,3592,45,Home Video / VOD,DE,Digital Release,2026-10-05,6,12+,114731.62,Signed
+10809,3592,924,International Sales,AU,Festival / Sales,2026-12-10,6,12+,1275211.31,Signed
+10810,3592,\N,Festival,IT,Festival Premiere,2026-07-06,6,12+,\N,Released
+10844,3606,522,Streaming,CA,Streaming Premiere,2026-03-16,1,R,20980.6,Released
+10845,3606,194,Cinema,DE,Limited Theatrical,2026-07-13,1,R,15941.54,Released
+10846,3606,\N,Festival,CA,Festival Premiere,2026-02-05,1,R,\N,Released
+10903,3626,357,Streaming,BR,Streaming Premiere,2026-03-26,8,16+,22809.22,Released
+10904,3626,\N,Festival,BR,Festival Premiere,2026-01-31,8,16+,\N,Released
+10930,3636,717,Home Video / VOD,MX,Digital Release,2026-09-06,5,16+,440477.08,Released
+10931,3636,793,Home Video / VOD,JP,Digital Release,2027-01-01,5,16+,419628.39,Signed
+10932,3636,\N,Festival,MX,Festival Premiere,2026-08-04,5,16+,\N,Released
+11009,3662,153,Cinema,GB,Limited Theatrical,2026-10-18,8,16+,2554928.69,Signed
+11010,3662,2,Cinema,IT,Wide Theatrical,2027-01-06,8,16+,863029.43,Signed
+11011,3662,855,Home Video / VOD,US,Digital Release,2026-10-27,8,16+,73071.12,Signed
+11012,3662,\N,Festival,GB,Festival Premiere,2026-08-13,8,16+,\N,Released
+11090,3691,719,Cinema,AU,Limited Theatrical,2026-04-23,1,PG-13,272184.29,Released
+11091,3691,609,Cinema,US,Limited Theatrical,2026-05-02,1,PG-13,16456.7,Released
+11092,3691,\N,Festival,AU,Festival Premiere,2026-03-14,1,PG-13,\N,Released
+11107,3696,71,Cinema,CA,Wide Theatrical,2026-06-17,1,PG,217002.74,Released
+11108,3696,138,Cinema,BR,Wide Theatrical,2026-08-24,1,PG,59209.14,Released
+11109,3696,811,Cinema,IN,Limited Theatrical,2026-08-05,1,PG,90804.77,Released
+11110,3696,\N,Festival,CA,Festival Premiere,2026-03-30,1,PG,\N,Released
+11245,3743,46,Home Video / VOD,US,Digital Release,2026-11-04,1,R,800413.58,Signed
+11246,3743,968,Home Video / VOD,BR,Digital Release,2026-12-23,1,R,650274.09,Signed
+11247,3743,196,Cinema,JP,Wide Theatrical,2027-02-08,1,R,1659526.34,Signed
+11248,3743,\N,Festival,US,Festival Premiere,2026-09-18,1,R,\N,Released
+11296,3760,359,Cinema,NL,Wide Theatrical,2026-09-01,18,18+,9315247.63,Released
+11297,3760,320,Cinema,DE,Wide Theatrical,2026-11-26,18,18+,2008640.82,Signed
+11298,3760,357,Streaming,BR,Streaming Premiere,2026-11-24,18,18+,2598401.64,Signed
+11299,3760,\N,Festival,NL,Festival Premiere,2026-07-15,18,18+,\N,Released
+11350,3778,943,Home Video / VOD,FR,Digital Release,2026-07-25,4,12+,2115457.45,Released
+11351,3778,419,Home Video / VOD,JP,Digital Release,2026-10-26,4,12+,547370.43,Signed
+11352,3778,232,TV,FR,TV Broadcast,2026-09-03,4,12+,161829.38,Released
+11353,3778,\N,Festival,FR,Festival Premiere,2026-06-26,4,12+,\N,Released
+11490,3825,499,Cinema,US,Limited Theatrical,2026-06-24,5,All,5600.73,Released
+11491,3825,\N,Festival,US,Festival Premiere,2026-05-31,5,All,\N,Released
+11495,3827,52,Cinema,ES,Limited Theatrical,2026-11-03,5,16+,289051.18,Signed
+11496,3827,827,Cinema,IN,Limited Theatrical,2027-02-14,5,16+,257942.92,Signed
+11497,3827,\N,Festival,ES,Festival Premiere,2026-09-17,5,16+,\N,Released
+11517,3834,872,TV,NG,TV Broadcast,2026-06-07,36,12+,64079.55,Released
+11518,3834,702,Cinema,US,Wide Theatrical,2026-06-28,36,12+,50956.19,Released
+11519,3834,239,Home Video / VOD,ES,Digital Release,2026-08-18,36,12+,12505.62,Released
+11520,3834,\N,Festival,NG,Festival Premiere,2026-05-09,36,12+,\N,Released
+11577,3854,837,Cinema,DE,Limited Theatrical,2026-08-28,7,All,53864.52,Released
+11578,3854,632,TV,IN,TV Broadcast,2026-12-13,7,All,4826.11,Signed
+11579,3854,\N,Festival,DE,Festival Premiere,2026-07-30,7,All,\N,Released
+11638,3874,37,Home Video / VOD,NG,Digital Release,2026-09-04,1,18+,5007.42,Released
+11639,3874,\N,Festival,NG,Festival Premiere,2026-06-24,1,18+,\N,Released
+11704,3897,788,Cinema,SE,Wide Theatrical,2026-11-16,19,12+,1301635.19,Signed
+11705,3897,596,Cinema,JP,Wide Theatrical,2026-11-20,19,12+,149655.84,Signed
+11706,3897,\N,Festival,SE,Festival Premiere,2026-09-07,19,12+,\N,Released
+11814,3937,813,Cinema,US,Wide Theatrical,2026-09-25,1,PG-13,2722438.46,Released
+11815,3937,942,Home Video / VOD,BR,Digital Release,2026-10-06,1,PG-13,194745.69,Signed
+11816,3937,829,Cinema,FR,Limited Theatrical,2026-10-21,1,PG-13,1491427.02,Signed
+11817,3937,\N,Festival,US,Festival Premiere,2026-08-29,1,PG-13,\N,Released
+11838,3944,354,Cinema,GB,Wide Theatrical,2026-09-06,1,PG,107457.68,Released
+11839,3944,146,International Sales,IT,Festival / Sales,2026-12-07,1,PG,24782.11,Signed
+11840,3944,\N,Festival,GB,Festival Premiere,2026-07-31,1,PG,\N,Released
+11861,3951,610,TV,US,TV Broadcast,2026-08-29,1,PG-13,199897.73,Released
+11862,3951,\N,Festival,US,Festival Premiere,2026-07-27,1,PG-13,\N,Released
+11874,3955,440,Cinema,ID,Wide Theatrical,2026-10-25,15,16+,3247833.07,Signed
+11875,3955,371,Cinema,IN,Wide Theatrical,2027-01-07,15,16+,1035103.89,Signed
+11876,3955,\N,Festival,ID,Festival Premiere,2026-10-02,15,16+,\N,Released
+11909,3969,784,Cinema,BR,Wide Theatrical,2026-09-08,8,All,745705.54,Released
+11910,3969,\N,Festival,BR,Festival Premiere,2026-07-02,8,All,\N,Released
+11964,3988,209,Cinema,KR,Wide Theatrical,2026-11-15,10,All,604042.95,Signed
+11965,3988,533,Streaming,AU,Streaming Premiere,2026-12-18,10,All,147938.61,Signed
+11966,3988,\N,Festival,KR,Festival Premiere,2026-10-03,10,All,\N,Scheduled
+11967,3989,513,Streaming,BR,Streaming Premiere,2026-11-06,8,16+,892627.26,Signed
+11968,3989,736,Home Video / VOD,JP,Digital Release,2027-02-11,8,16+,81182.57,Signed
+11969,3989,390,Cinema,FR,Wide Theatrical,2027-01-19,8,16+,318780.75,Signed
+11970,3989,\N,Festival,BR,Festival Premiere,2026-08-28,8,16+,\N,Released
+11987,3996,88,International Sales,BR,Festival / Sales,2027-09-01,8,12+,2106343.01,Signed
+11988,3996,30,Home Video / VOD,FR,Digital Release,2027-10-17,8,12+,1926578.61,Signed
+11989,3996,\N,Festival,BR,Festival Premiere,2027-08-12,8,12+,\N,Scheduled
+12007,4002,334,International Sales,AR,Festival / Sales,2026-12-13,5,12+,3017355.4,Signed
+12008,4002,862,Cinema,DE,Wide Theatrical,2027-03-15,5,12+,2348562.68,Signed
+12009,4002,159,Cinema,IN,Wide Theatrical,2027-04-06,5,12+,2109775.65,Signed
+12010,4002,\N,Festival,AR,Festival Premiere,2026-11-15,5,12+,\N,Scheduled
+12169,4056,107,Home Video / VOD,JP,Digital Release,2026-09-11,3,12+,39479.72,Released
+12170,4056,631,Cinema,FR,Limited Theatrical,2026-11-21,3,12+,113816.75,Signed
+12171,4056,\N,Festival,JP,Festival Premiere,2026-06-19,3,12+,\N,Released
+12189,4062,658,Cinema,GB,Wide Theatrical,2026-10-05,1,15,3185421.48,Signed
+12190,4062,\N,Festival,GB,Festival Premiere,2026-08-29,1,15,\N,Released
+12235,4076,651,Home Video / VOD,US,Digital Release,2026-11-03,1,R,34075.08,Signed
+12236,4076,\N,Festival,US,Festival Premiere,2026-08-22,1,R,\N,Released
+12276,4091,40,Home Video / VOD,US,Digital Release,2026-09-26,1,PG,136351.47,Released
+12277,4091,817,Cinema,CA,Wide Theatrical,2026-12-03,1,PG,182103.12,Signed
+12278,4091,\N,Festival,US,Festival Premiere,2026-08-14,1,PG,\N,Released
+12295,4096,752,International Sales,RU,Festival / Sales,2026-11-27,11,12+,50346.97,Signed
+12296,4096,713,Cinema,JP,Limited Theatrical,2027-03-13,11,12+,17001.95,Signed
+12297,4096,355,Home Video / VOD,KR,Digital Release,2027-02-12,11,12+,8904.67,Signed
+12298,4096,\N,Festival,RU,Festival Premiere,2026-09-06,11,12+,\N,Released
+12305,4099,138,Cinema,BR,Wide Theatrical,2026-12-17,8,16+,1193057.65,Signed
+12306,4099,\N,Festival,BR,Festival Premiere,2026-11-12,8,16+,\N,Scheduled
+12344,4111,124,Home Video / VOD,US,Digital Release,2026-10-04,1,PG-13,29819.88,Signed
+12345,4111,990,Streaming,DE,Streaming Premiere,2026-12-27,1,PG-13,38206.21,Signed
+12346,4111,\N,Festival,US,Festival Premiere,2026-07-10,1,PG-13,\N,Released
+12364,4120,672,International Sales,US,Festival / Sales,2026-11-16,1,16+,503077.67,Signed
+12365,4120,723,Cinema,FR,Wide Theatrical,2027-02-23,1,16+,268893.75,Signed
+12366,4120,859,Cinema,KR,Wide Theatrical,2027-02-10,1,16+,151520.63,Signed
+12367,4120,\N,Festival,US,Festival Premiere,2026-09-29,1,16+,\N,Released
+12416,4137,777,International Sales,FR,Festival / Sales,2026-11-08,4,12+,139958.36,Signed
+12417,4137,\N,Festival,FR,Festival Premiere,2026-10-02,4,12+,\N,Released
+12422,4139,261,TV,ID,TV Broadcast,2026-11-09,15,12+,96256.53,Signed
+12423,4139,\N,Festival,ID,Festival Premiere,2026-10-03,15,12+,\N,Scheduled
+12424,4140,666,TV,IE,TV Broadcast,2026-10-10,1,12+,11139.95,Signed
+12425,4140,971,Cinema,JP,Wide Theatrical,2026-11-06,1,12+,4812.23,Signed
+12426,4140,\N,Festival,IE,Festival Premiere,2026-08-13,1,12+,\N,Released
+12448,4149,598,Cinema,DK,Limited Theatrical,2026-11-29,20,12+,1518065.12,Signed
+12449,4149,52,Cinema,ES,Limited Theatrical,2026-12-20,20,12+,116939.46,Signed
+12450,4149,851,Cinema,JP,Limited Theatrical,2027-02-23,20,12+,302119.99,Signed
+12451,4149,\N,Festival,DK,Festival Premiere,2026-10-11,20,12+,\N,Scheduled
+12486,4161,277,International Sales,BR,Festival / Sales,2026-11-06,8,16+,21377.96,Signed
+12487,4161,436,TV,IT,TV Broadcast,2026-11-23,8,16+,8468.96,Signed
+12488,4161,756,Streaming,CA,Streaming Premiere,2027-01-15,8,16+,21458.36,Signed
+12489,4161,\N,Festival,BR,Festival Premiere,2026-10-15,8,16+,\N,Scheduled
+12490,4162,310,International Sales,US,Festival / Sales,2027-03-02,1,PG,6146156.36,Signed
+12491,4162,\N,Festival,US,Festival Premiere,2027-01-02,1,PG,\N,Scheduled
+12496,4164,571,Home Video / VOD,JP,Digital Release,2026-11-29,3,All,310065.48,Signed
+12497,4164,\N,Festival,JP,Festival Premiere,2026-10-07,3,All,\N,Scheduled
+12566,4189,40,Home Video / VOD,US,Digital Release,2026-09-02,7,All,4912.28,Released
+12567,4189,153,Cinema,GB,Limited Theatrical,2026-10-20,7,All,7285.55,Signed
+12568,4189,353,TV,BR,TV Broadcast,2026-11-11,7,All,9701.98,Signed
+12569,4189,\N,Festival,US,Festival Premiere,2026-07-15,7,All,\N,Released
+12601,4200,854,Cinema,US,Limited Theatrical,2026-10-21,1,R,131200.11,Signed
+12602,4200,954,Home Video / VOD,IT,Digital Release,2027-01-11,1,R,22247.28,Signed
+12603,4200,\N,Festival,US,Festival Premiere,2026-09-17,1,R,\N,Released
+12713,4238,555,Cinema,US,Limited Theatrical,2026-09-27,36,All,83675.49,Released
+12714,4238,\N,Festival,US,Festival Premiere,2026-08-15,36,All,\N,Released
+12728,4243,336,Home Video / VOD,US,Digital Release,2026-10-03,1,PG,12688.86,Signed
+12729,4243,\N,Festival,US,Festival Premiere,2026-07-22,1,PG,\N,Released
+12739,4247,258,TV,IN,TV Broadcast,2026-10-04,2,U,18921.3,Signed
+12740,4247,774,TV,AU,TV Broadcast,2026-10-29,2,U,2719.49,Signed
+12741,4247,\N,Festival,IN,Festival Premiere,2026-07-20,2,U,\N,Released
+12786,4264,678,Cinema,GB,Wide Theatrical,2026-10-11,1,PG,13244.83,Signed
+12787,4264,532,TV,CA,TV Broadcast,2027-01-30,1,PG,8991.72,Signed
+12788,4264,337,Cinema,CA,Limited Theatrical,2026-11-13,1,PG,11618.63,Signed
+12789,4264,\N,Festival,GB,Festival Premiere,2026-08-15,1,PG,\N,Released
+12798,4268,918,Cinema,ID,Limited Theatrical,2026-11-28,15,All,10966.9,Signed
+12799,4268,895,Cinema,FR,Wide Theatrical,2027-01-26,15,All,2697.76,Signed
+12800,4268,302,TV,ES,TV Broadcast,2027-03-27,15,All,2613.85,Signed
+12801,4268,\N,Festival,ID,Festival Premiere,2026-10-27,15,All,\N,Scheduled
+12837,4281,359,Cinema,NL,Wide Theatrical,2026-11-19,18,12+,329258.02,Signed
+12838,4281,\N,Festival,NL,Festival Premiere,2026-10-06,18,12+,\N,Scheduled
+12839,4282,581,Cinema,GB,Limited Theatrical,2026-10-13,1,12A,80268.15,Signed
+12840,4282,660,Cinema,JP,Limited Theatrical,2026-11-22,1,12A,113820.8,Signed
+12841,4282,\N,Festival,GB,Festival Premiere,2026-07-26,1,12A,\N,Released
+12853,4286,849,International Sales,CN,Festival / Sales,2026-10-24,5,16+,2940.76,Signed
+12854,4286,684,Cinema,US,Limited Theatrical,2027-02-03,5,16+,12413.96,Signed
+12855,4286,\N,Festival,CN,Festival Premiere,2026-09-30,5,16+,\N,Released
+12873,4293,220,Cinema,BR,Wide Theatrical,2026-11-20,8,16+,788345.56,Signed
+12874,4293,357,Streaming,BR,Streaming Premiere,2026-11-26,8,16+,104664.75,Signed
+12875,4293,192,Cinema,AU,Wide Theatrical,2027-03-16,8,16+,55593.49,Signed
+12876,4293,\N,Festival,BR,Festival Premiere,2026-08-26,8,16+,\N,Released
+12889,4298,28,International Sales,US,Festival / Sales,2026-11-23,1,PG-13,102568.31,Signed
+12890,4298,497,Cinema,CA,Limited Theatrical,2026-12-28,1,PG-13,42456.99,Signed
+12891,4298,\N,Festival,US,Festival Premiere,2026-10-22,1,PG-13,\N,Scheduled
+12971,4324,1,Cinema,SE,Wide Theatrical,2026-10-27,19,16+,16723.81,Signed
+12972,4324,\N,Festival,SE,Festival Premiere,2026-09-24,19,16+,\N,Released
+12988,4330,769,Home Video / VOD,GB,Digital Release,2026-10-15,1,12A,169535.7,Signed
+12989,4330,837,Cinema,DE,Limited Theatrical,2027-02-07,1,12A,82175.34,Signed
+12990,4330,\N,Festival,GB,Festival Premiere,2026-08-27,1,12A,\N,Released
+12998,4333,325,Streaming,DK,Streaming Premiere,2026-10-16,20,12+,45355.5,Signed
+12999,4333,240,International Sales,BR,Festival / Sales,2026-10-18,20,12+,41279.48,Signed
+13000,4333,\N,Festival,DK,Festival Premiere,2026-07-23,20,12+,\N,Released
+13135,4379,283,Streaming,IT,Streaming Premiere,2026-11-05,6,All,9908.89,Signed
+13136,4379,707,Cinema,KR,Limited Theatrical,2026-12-23,6,All,21759.43,Signed
+13137,4379,\N,Festival,IT,Festival Premiere,2026-09-12,6,All,\N,Released
+13156,4385,570,Cinema,IT,Limited Theatrical,2026-12-09,18,All,55953.56,Signed
+13157,4385,861,Cinema,IT,Limited Theatrical,2027-02-09,18,All,6611.48,Signed
+13158,4385,533,Streaming,AU,Streaming Premiere,2026-12-13,18,All,6599.35,Signed
+13159,4385,\N,Festival,IT,Festival Premiere,2026-10-27,18,All,\N,Scheduled
+13173,4391,539,TV,CA,TV Broadcast,2026-11-09,1,PG,48221.79,Signed
+13174,4391,\N,Festival,CA,Festival Premiere,2026-10-06,1,PG,\N,Scheduled
+13175,4392,312,Cinema,DE,Limited Theatrical,2026-09-19,7,12+,66388.18,Released
+13176,4392,745,TV,IT,TV Broadcast,2026-11-29,7,12+,5665.79,Signed
+13177,4392,8,Home Video / VOD,IT,Digital Release,2026-12-28,7,12+,8584.9,Signed
+13178,4392,\N,Festival,DE,Festival Premiere,2026-08-02,7,12+,\N,Released
+13186,4395,608,Cinema,IN,Wide Theatrical,2026-10-04,2,U,40466.48,Signed
+13187,4395,186,Home Video / VOD,JP,Digital Release,2026-11-25,2,U,933.85,Signed
+13188,4395,946,International Sales,GB,Festival / Sales,2027-01-29,2,U,7479.15,Signed
+13189,4395,\N,Festival,IN,Festival Premiere,2026-08-20,2,U,\N,Released
+13192,4397,282,Cinema,US,Limited Theatrical,2026-11-26,1,PG-13,98863.54,Signed
+13193,4397,887,International Sales,GB,Festival / Sales,2026-12-25,1,PG-13,22977.4,Signed
+13194,4397,\N,Festival,US,Festival Premiere,2026-11-01,1,PG-13,\N,Scheduled
+13232,4411,924,International Sales,AU,Festival / Sales,2027-05-14,1,PG,3029052.02,Signed
+13233,4411,52,Cinema,ES,Limited Theatrical,2027-06-04,1,PG,2574881.45,Signed
+13234,4411,\N,Festival,AU,Festival Premiere,2027-03-22,1,PG,\N,Scheduled
+13297,4433,103,Cinema,US,Limited Theatrical,2027-04-14,1,PG-13,1913624.35,Signed
+13298,4433,277,International Sales,BR,Festival / Sales,2027-08-03,1,PG-13,723184.99,Signed
+13299,4433,\N,Festival,US,Festival Premiere,2027-02-10,1,PG-13,\N,Scheduled
+13303,4435,545,International Sales,RU,Festival / Sales,2026-11-21,11,12+,32761.33,Signed
+13304,4435,358,International Sales,US,Festival / Sales,2027-02-24,11,12+,6770.55,Signed
+13305,4435,\N,Festival,RU,Festival Premiere,2026-10-19,11,12+,\N,Scheduled
+13315,4439,63,Home Video / VOD,IN,Digital Release,2026-11-17,28,U,5898.29,Signed
+13316,4439,\N,Festival,IN,Festival Premiere,2026-09-21,28,U,\N,Released
+13339,4448,964,Cinema,KR,Wide Theatrical,2028-08-24,10,12+,121160750.42,Signed
+13340,4448,\N,Festival,KR,Festival Premiere,2028-06-28,10,12+,\N,Scheduled
+13341,4449,740,International Sales,US,Festival / Sales,2027-01-24,1,PG-13,63684.7,Signed
+13342,4449,790,Cinema,JP,Limited Theatrical,2027-03-29,1,PG-13,8178.31,Signed
+13343,4449,\N,Festival,US,Festival Premiere,2026-11-27,1,PG-13,\N,Scheduled
+13344,4450,645,Cinema,GB,Wide Theatrical,2026-10-26,1,12A,109956.32,Signed
+13345,4450,\N,Festival,GB,Festival Premiere,2026-09-28,1,12A,\N,Released
+13349,4452,767,Cinema,US,Limited Theatrical,2026-12-27,1,G,115245.59,Signed
+13350,4452,23,Home Video / VOD,GB,Digital Release,2027-01-17,1,G,2207.48,Signed
+13351,4452,71,Cinema,CA,Wide Theatrical,2027-03-07,1,G,57252.45,Signed
+13352,4452,\N,Festival,US,Festival Premiere,2026-10-08,1,G,\N,Scheduled
+13359,4455,437,International Sales,KR,Festival / Sales,2028-06-08,5,16+,13279221.91,Signed
+13360,4455,235,Cinema,IN,Limited Theatrical,2028-09-14,5,16+,9806298.64,Signed
+13361,4455,745,TV,IT,TV Broadcast,2028-09-11,5,16+,2775863.36,Signed
+13362,4455,\N,Festival,KR,Festival Premiere,2028-03-22,5,16+,\N,Scheduled
+13371,4459,161,Home Video / VOD,NG,Digital Release,2026-11-16,5,16+,4299.0,Signed
+13372,4459,641,Cinema,AU,Limited Theatrical,2026-12-29,5,16+,2309.66,Signed
+13373,4459,837,Cinema,DE,Limited Theatrical,2026-11-28,5,16+,1755.62,Signed
+13374,4459,\N,Festival,NG,Festival Premiere,2026-08-29,5,16+,\N,Released
+13377,4461,133,Cinema,DE,Wide Theatrical,2027-02-27,7,18+,1237916.67,Signed
+13378,4461,804,Cinema,CA,Wide Theatrical,2027-04-27,7,18+,591460.18,Signed
+13379,4461,419,Home Video / VOD,JP,Digital Release,2027-03-21,7,18+,104218.8,Signed
+13380,4461,\N,Festival,DE,Festival Premiere,2027-01-01,7,18+,\N,Scheduled
+13396,4466,862,Cinema,DE,Wide Theatrical,2027-11-25,7,18+,21907191.05,Signed
+13397,4466,645,Cinema,GB,Wide Theatrical,2028-02-28,7,18+,2957263.27,Signed
+13398,4466,\N,Festival,DE,Festival Premiere,2027-10-29,7,18+,\N,Scheduled
+13411,4470,516,International Sales,US,Festival / Sales,2027-02-04,1,R,258865.66,Signed
+13412,4470,\N,Festival,US,Festival Premiere,2026-11-17,1,R,\N,Scheduled
+13413,4471,803,Streaming,US,Streaming Premiere,2028-07-19,1,PG-13,107472798.21,Signed
+13414,4471,942,Home Video / VOD,BR,Digital Release,2028-10-29,1,PG-13,6837049.63,Signed
+13415,4471,84,Cinema,US,Wide Theatrical,2028-08-31,1,PG-13,40316487.43,Signed
+13416,4471,\N,Festival,US,Festival Premiere,2028-05-17,1,PG-13,\N,Scheduled
+13439,4479,328,International Sales,IN,Festival / Sales,2026-11-08,29,U,89784.07,Signed
+13440,4479,239,Home Video / VOD,ES,Digital Release,2027-02-26,29,U,12039.83,Signed
+13441,4479,757,Cinema,GB,Wide Theatrical,2026-12-04,29,U,49258.75,Signed
+13442,4479,\N,Festival,IN,Festival Premiere,2026-09-19,29,U,\N,Released
+13445,4481,861,Cinema,IT,Limited Theatrical,2026-12-25,6,12+,115874.82,Signed
+13446,4481,753,Cinema,AU,Wide Theatrical,2027-01-03,6,12+,35338.85,Signed
+13447,4481,\N,Festival,IT,Festival Premiere,2026-10-19,6,12+,\N,Scheduled
+13448,4482,123,Streaming,US,Streaming Premiere,2027-01-11,1,R,1099407.0,Signed
+13449,4482,\N,Festival,US,Festival Premiere,2026-11-27,1,R,\N,Scheduled
+13471,4490,393,Cinema,US,Limited Theatrical,2027-11-15,35,16+,11865884.04,Signed
+13472,4490,943,Home Video / VOD,FR,Digital Release,2028-02-28,35,16+,844455.38,Signed
+13473,4490,146,International Sales,IT,Festival / Sales,2028-02-12,35,16+,1133964.18,Signed
+13474,4490,\N,Festival,US,Festival Premiere,2027-09-26,35,16+,\N,Scheduled
+13483,4493,745,TV,IT,TV Broadcast,2026-11-20,6,16+,21810.24,Signed
+13484,4493,497,Cinema,CA,Limited Theatrical,2027-02-25,6,16+,17568.08,Signed
+13485,4493,\N,Festival,IT,Festival Premiere,2026-09-13,6,16+,\N,Released
+13513,4502,375,Cinema,GB,Limited Theatrical,2027-07-07,1,PG,38535298.76,Signed
+13514,4502,582,Cinema,JP,Limited Theatrical,2027-08-23,1,PG,4072297.92,Signed
+13515,4502,\N,Festival,GB,Festival Premiere,2027-05-05,1,PG,\N,Scheduled
+13532,4509,955,Streaming,KR,Streaming Premiere,2026-11-23,10,12+,42726.9,Signed
+13533,4509,739,TV,GB,TV Broadcast,2027-01-28,10,12+,4890.64,Signed
+13534,4509,\N,Festival,KR,Festival Premiere,2026-09-13,10,12+,\N,Released
+13564,4522,121,Home Video / VOD,KR,Digital Release,2027-07-17,10,16+,2171989.03,Signed
+13565,4522,\N,Festival,KR,Festival Premiere,2027-05-12,10,16+,\N,Scheduled
+13593,4532,613,Streaming,US,Streaming Premiere,2026-11-21,1,R,357508.12,Signed
+13594,4532,972,TV,ES,TV Broadcast,2027-02-11,1,R,26156.7,Signed
+13595,4532,\N,Festival,US,Festival Premiere,2026-09-08,1,R,\N,Released
+13596,4533,695,Streaming,GB,Streaming Premiere,2027-01-06,1,15,79497.56,Signed
+13597,4533,504,Cinema,ES,Limited Theatrical,2027-01-24,1,15,47339.71,Signed
+13598,4533,\N,Festival,GB,Festival Premiere,2026-10-17,1,15,\N,Scheduled
+13605,4536,621,Cinema,IT,Limited Theatrical,2026-11-28,6,16+,8905.94,Signed
+13606,4536,514,TV,FR,TV Broadcast,2027-02-26,6,16+,3230.14,Signed
+13607,4536,962,Cinema,US,Limited Theatrical,2027-02-20,6,16+,10651.37,Signed
+13608,4536,\N,Festival,IT,Festival Premiere,2026-10-29,6,16+,\N,Scheduled
+13609,4537,7,Cinema,ZA,Limited Theatrical,2026-12-24,1,16+,46592.47,Signed
+13610,4537,\N,Festival,ZA,Festival Premiere,2026-11-20,1,16+,\N,Scheduled
+13633,4545,8,Home Video / VOD,IT,Digital Release,2027-09-23,6,All,3142845.02,Signed
+13634,4545,\N,Festival,IT,Festival Premiere,2027-08-27,6,All,\N,Scheduled
+13635,4546,837,Cinema,DE,Limited Theatrical,2026-12-31,7,12+,249086.94,Signed
+13636,4546,\N,Festival,DE,Festival Premiere,2026-11-01,7,12+,\N,Scheduled
+13637,4547,567,Cinema,US,Limited Theatrical,2026-12-27,1,PG-13,334199.13,Signed
+13638,4547,421,TV,KR,TV Broadcast,2027-04-08,1,PG-13,37621.03,Signed
+13639,4547,220,Cinema,BR,Wide Theatrical,2027-04-07,1,PG-13,97909.47,Signed
+13640,4547,\N,Festival,US,Festival Premiere,2026-10-03,1,PG-13,\N,Scheduled
+13652,4552,70,TV,IT,TV Broadcast,2028-03-02,6,16+,14659500.96,Signed
+13653,4552,861,Cinema,IT,Limited Theatrical,2028-03-05,6,16+,2759869.98,Signed
+13654,4552,\N,Festival,IT,Festival Premiere,2028-01-18,6,16+,\N,Scheduled
+13674,4559,578,Cinema,IN,Wide Theatrical,2027-04-20,27,U,1780103.99,Signed
+13675,4559,337,Cinema,CA,Limited Theatrical,2027-07-02,27,U,145577.45,Signed
+13676,4559,539,TV,CA,TV Broadcast,2027-06-03,27,U,380052.92,Signed
+13677,4559,\N,Festival,IN,Festival Premiere,2027-01-27,27,U,\N,Scheduled
+13678,4560,80,Cinema,US,Limited Theatrical,2026-11-14,1,PG-13,89550.61,Signed
+13679,4560,601,Cinema,IT,Wide Theatrical,2026-12-04,1,PG-13,34876.41,Signed
+13680,4560,\N,Festival,US,Festival Premiere,2026-09-15,1,PG-13,\N,Released
+13686,4563,384,Streaming,MX,Streaming Premiere,2027-01-14,5,12+,40479.11,Signed
+13687,4563,749,Cinema,FR,Limited Theatrical,2027-02-12,5,12+,21026.38,Signed
+13688,4563,365,Cinema,DE,Limited Theatrical,2027-02-16,5,12+,21582.78,Signed
+13689,4563,\N,Festival,MX,Festival Premiere,2026-11-15,5,12+,\N,Scheduled
+13707,4569,208,Cinema,IN,Wide Theatrical,2026-12-02,2,UA,114299.8,Signed
+13708,4569,\N,Festival,IN,Festival Premiere,2026-09-10,2,UA,\N,Released
+13712,4571,418,Cinema,CA,Wide Theatrical,2027-08-31,1,R,7136277.86,Signed
+13713,4571,783,International Sales,CA,Festival / Sales,2027-12-23,1,R,2811401.43,Signed
+13714,4571,\N,Festival,CA,Festival Premiere,2027-07-26,1,R,\N,Scheduled
+13715,4572,95,Cinema,US,Limited Theatrical,2027-06-01,1,G,5631893.78,Signed
+13716,4572,452,Cinema,US,Limited Theatrical,2027-09-25,1,G,3615499.65,Signed
+13717,4572,192,Cinema,AU,Wide Theatrical,2027-08-21,1,G,651682.63,Signed
+13718,4572,\N,Festival,US,Festival Premiere,2027-03-29,1,G,\N,Scheduled
+13729,4577,676,Cinema,TR,Limited Theatrical,2026-12-23,13,16+,36520.94,Signed
+13730,4577,281,TV,DE,TV Broadcast,2027-01-21,13,16+,7189.24,Signed
+13731,4577,264,Cinema,DE,Limited Theatrical,2026-12-23,13,16+,42983.37,Signed
+13732,4577,\N,Festival,TR,Festival Premiere,2026-11-17,13,16+,\N,Scheduled
+13733,4578,803,Streaming,US,Streaming Premiere,2028-05-24,1,R,107314223.22,Signed
+13734,4578,\N,Festival,US,Festival Premiere,2028-04-09,1,R,\N,Scheduled
+13735,4579,561,Streaming,DE,Streaming Premiere,2027-02-13,7,18+,4125788.44,Signed
+13736,4579,543,Streaming,AU,Streaming Premiere,2027-02-28,7,18+,181669.25,Signed
+13737,4579,\N,Festival,DE,Festival Premiere,2027-01-05,7,18+,\N,Scheduled
+13738,4580,899,Cinema,FR,Wide Theatrical,2026-11-30,4,12+,43526.38,Signed
+13739,4580,477,Streaming,CA,Streaming Premiere,2027-01-18,4,12+,20924.4,Signed
+13740,4580,\N,Festival,FR,Festival Premiere,2026-09-03,4,12+,\N,Released
+13760,4587,965,Cinema,MX,Wide Theatrical,2027-05-23,5,12+,469940.71,Signed
+13761,4587,275,Home Video / VOD,GB,Digital Release,2027-09-13,5,12+,15164.4,Signed
+13762,4587,\N,Festival,MX,Festival Premiere,2027-04-03,5,12+,\N,Scheduled
+13763,4588,928,Streaming,US,Streaming Premiere,2027-11-17,1,PG-13,64041418.1,Signed
+13764,4588,805,TV,CA,TV Broadcast,2028-01-22,1,PG-13,9986046.2,Signed
+13765,4588,\N,Festival,US,Festival Premiere,2027-09-01,1,PG-13,\N,Scheduled
+13774,4592,805,TV,CA,TV Broadcast,2026-11-29,1,PG-13,20390.93,Signed
+13775,4592,\N,Festival,CA,Festival Premiere,2026-10-23,1,PG-13,\N,Scheduled
+13792,4598,973,International Sales,US,Festival / Sales,2028-03-09,1,PG-13,37438695.06,Signed
+13793,4598,258,TV,IN,TV Broadcast,2028-06-09,1,PG-13,3593639.68,Signed
+13794,4598,\N,Festival,US,Festival Premiere,2027-12-17,1,PG-13,\N,Scheduled
+13795,4599,790,Cinema,JP,Limited Theatrical,2027-08-16,3,12+,11324223.67,Signed
+13796,4599,890,Cinema,US,Wide Theatrical,2027-11-10,3,12+,4156622.13,Signed
+13797,4599,\N,Festival,JP,Festival Premiere,2027-06-13,3,12+,\N,Scheduled
+13808,4604,364,Cinema,US,Limited Theatrical,2027-03-13,1,R,59563.87,Signed
+13809,4604,\N,Festival,US,Festival Premiere,2027-02-20,1,R,\N,Scheduled
+13824,4610,699,Home Video / VOD,NL,Digital Release,2027-06-22,18,All,1283347.61,Signed
+13825,4610,294,International Sales,IT,Festival / Sales,2027-10-01,18,All,887715.19,Signed
+13826,4610,344,Cinema,GB,Limited Theatrical,2027-08-28,18,All,2759675.51,Signed
+13827,4610,\N,Festival,NL,Festival Premiere,2027-05-08,18,All,\N,Scheduled
+13830,4612,749,Cinema,FR,Limited Theatrical,2028-01-02,4,12+,117331961.45,Signed
+13831,4612,174,Cinema,CA,Wide Theatrical,2028-03-19,4,12+,31570645.6,Signed
+13832,4612,303,Cinema,JP,Limited Theatrical,2028-01-02,4,12+,39773610.89,Signed
+13833,4612,\N,Festival,FR,Festival Premiere,2027-11-14,4,12+,\N,Scheduled
+13834,4613,11,Cinema,KR,Wide Theatrical,2026-12-10,10,All,60432.78,Signed
+13835,4613,\N,Festival,KR,Festival Premiere,2026-10-30,10,All,\N,Scheduled
+13840,4615,265,Cinema,AU,Wide Theatrical,2027-07-04,1,PG-13,2246627.5,Signed
+13841,4615,\N,Festival,AU,Festival Premiere,2027-06-02,1,PG-13,\N,Scheduled
+13842,4616,408,Cinema,TR,Wide Theatrical,2027-06-20,13,16+,1889695.05,Signed
+13843,4616,438,Home Video / VOD,FR,Digital Release,2027-08-14,13,16+,111729.87,Signed
+13844,4616,\N,Festival,TR,Festival Premiere,2027-05-22,13,16+,\N,Scheduled
+13848,4618,594,Cinema,FR,Limited Theatrical,2028-03-21,4,All,45937366.66,Signed
+13849,4618,954,Home Video / VOD,IT,Digital Release,2028-04-10,4,All,5010868.77,Signed
+13850,4618,\N,Festival,FR,Festival Premiere,2028-02-08,4,All,\N,Scheduled
+13858,4622,49,International Sales,AE,Festival / Sales,2027-09-24,36,12+,2308846.35,Signed
+13859,4622,32,Cinema,AU,Wide Theatrical,2028-01-02,36,12+,1965885.57,Signed
+13860,4622,\N,Festival,AE,Festival Premiere,2027-08-18,36,12+,\N,Scheduled
+13864,4624,458,Home Video / VOD,CA,Digital Release,2027-12-01,1,PG-13,963921.93,Signed
+13865,4624,\N,Festival,CA,Festival Premiere,2027-09-28,1,PG-13,\N,Scheduled
+13873,4627,294,International Sales,IT,Festival / Sales,2027-07-18,6,All,3738603.6,Signed
+13874,4627,\N,Festival,IT,Festival Premiere,2027-06-06,6,All,\N,Scheduled
+13875,4628,519,TV,ID,TV Broadcast,2027-07-11,15,18+,2528782.38,Signed
+13876,4628,177,International Sales,GB,Festival / Sales,2027-08-28,15,18+,1015119.74,Signed
+13877,4628,537,TV,US,TV Broadcast,2027-07-11,15,18+,163458.07,Signed
+13878,4628,\N,Festival,ID,Festival Premiere,2027-04-20,15,18+,\N,Scheduled
+13885,4631,462,Cinema,IN,Wide Theatrical,2027-08-30,2,UA,10018604.93,Signed
+13886,4631,186,Home Video / VOD,JP,Digital Release,2027-11-27,2,UA,506614.25,Signed
+13887,4631,\N,Festival,IN,Festival Premiere,2027-07-23,2,UA,\N,Scheduled
+13888,4632,926,Cinema,IN,Limited Theatrical,2027-03-10,1,U,405428.03,Signed
+13889,4632,542,International Sales,IN,Festival / Sales,2027-04-05,1,U,423645.95,Signed
+13890,4632,\N,Festival,IN,Festival Premiere,2027-01-16,1,U,\N,Scheduled
+13891,4633,172,Home Video / VOD,GB,Digital Release,2027-06-30,1,12A,1675806.77,Signed
+13892,4633,119,Cinema,KR,Wide Theatrical,2027-08-13,1,12A,2246821.06,Signed
+13893,4633,\N,Festival,GB,Festival Premiere,2027-05-28,1,12A,\N,Scheduled
+13900,4636,751,Streaming,IN,Streaming Premiere,2027-03-17,1,U,244514.23,Signed
+13901,4636,798,Home Video / VOD,ES,Digital Release,2027-07-14,1,U,22318.8,Signed
+13902,4636,\N,Festival,IN,Festival Premiere,2027-01-18,1,U,\N,Scheduled
+13907,4638,139,Cinema,ID,Limited Theatrical,2027-02-19,15,12+,48616.81,Signed
+13908,4638,\N,Festival,ID,Festival Premiere,2027-01-11,15,12+,\N,Scheduled
+13909,4639,680,Cinema,US,Limited Theatrical,2027-10-13,1,PG,6353303.2,Signed
+13910,4639,626,TV,BR,TV Broadcast,2028-02-06,1,PG,617246.39,Signed
+13911,4639,\N,Festival,US,Festival Premiere,2027-08-29,1,PG,\N,Scheduled
+13912,4640,104,Home Video / VOD,MX,Digital Release,2027-10-05,4,16+,530786.18,Signed
+13913,4640,\N,Festival,MX,Festival Premiere,2027-08-28,4,16+,\N,Scheduled
+13914,4641,894,Cinema,IN,Wide Theatrical,2027-04-14,27,A,769866.07,Signed
+13915,4641,437,International Sales,KR,Festival / Sales,2027-07-04,27,A,211811.48,Signed
+13916,4641,\N,Festival,IN,Festival Premiere,2027-01-22,27,A,\N,Scheduled
+13917,4642,472,Cinema,RU,Limited Theatrical,2027-03-28,11,16+,71876.91,Signed
+13918,4642,\N,Festival,RU,Festival Premiere,2027-02-15,11,16+,\N,Scheduled
+13924,4645,548,TV,CN,TV Broadcast,2027-05-19,7,All,214650.66,Signed
+13925,4645,589,Cinema,IN,Limited Theatrical,2027-07-09,7,All,67799.7,Signed
+13926,4645,\N,Festival,CN,Festival Premiere,2027-04-24,7,All,\N,Scheduled
+13931,4647,206,Cinema,FR,Wide Theatrical,2027-02-16,4,18+,285011.36,Signed
+13932,4647,497,Cinema,CA,Limited Theatrical,2027-05-29,4,18+,27289.42,Signed
+13933,4647,418,Cinema,CA,Wide Theatrical,2027-02-27,4,18+,33623.99,Signed
+13934,4647,\N,Festival,FR,Festival Premiere,2026-12-10,4,18+,\N,Scheduled
+13935,4648,828,Cinema,IN,Limited Theatrical,2028-07-08,1,UA,27312758.21,Signed
+13936,4648,70,TV,IT,TV Broadcast,2028-07-27,1,UA,6456027.43,Signed
+13937,4648,\N,Festival,IN,Festival Premiere,2028-04-29,1,UA,\N,Scheduled
+13938,4649,713,Cinema,JP,Limited Theatrical,2027-09-17,3,16+,2776814.86,Signed
+13939,4649,931,Cinema,CA,Limited Theatrical,2027-10-06,3,16+,700003.94,Signed
+13940,4649,\N,Festival,JP,Festival Premiere,2027-08-13,3,16+,\N,Scheduled
+13941,4650,869,Streaming,AU,Streaming Premiere,2027-02-28,1,R,218583.66,Signed
+13942,4650,923,International Sales,ES,Festival / Sales,2027-04-08,1,R,37779.36,Signed
+13943,4650,\N,Festival,AU,Festival Premiere,2027-02-08,1,R,\N,Scheduled
+13944,4651,151,Cinema,IN,Limited Theatrical,2027-04-18,27,U,148264.52,Signed
+13945,4651,267,Cinema,KR,Wide Theatrical,2027-05-25,27,U,87170.35,Signed
+13946,4651,394,Cinema,IN,Wide Theatrical,2027-05-10,27,U,59915.07,Signed
+13947,4651,\N,Festival,IN,Festival Premiere,2027-02-08,27,U,\N,Scheduled
+13948,4652,517,International Sales,PL,Festival / Sales,2027-07-01,17,16+,1156840.89,Signed
+13949,4652,805,TV,CA,TV Broadcast,2027-10-12,17,16+,350419.53,Signed
+13950,4652,32,Cinema,AU,Wide Theatrical,2027-10-25,17,16+,974073.52,Signed
+13951,4652,\N,Festival,PL,Festival Premiere,2027-04-30,17,16+,\N,Scheduled
+13952,4653,853,Cinema,PL,Limited Theatrical,2027-06-11,17,12+,1482280.2,Signed
+13953,4653,240,International Sales,BR,Festival / Sales,2027-08-13,17,12+,90868.5,Signed
+13954,4653,\N,Festival,PL,Festival Premiere,2027-03-27,17,12+,\N,Scheduled
+13959,4655,504,Cinema,ES,Limited Theatrical,2027-04-03,5,16+,45171.05,Signed
+13960,4655,52,Cinema,ES,Limited Theatrical,2027-04-16,5,16+,8462.41,Signed
+13961,4655,\N,Festival,ES,Festival Premiere,2027-03-08,5,16+,\N,Scheduled
+13962,4656,648,TV,AU,TV Broadcast,2027-12-22,1,R,2834344.66,Signed
+13963,4656,713,Cinema,JP,Limited Theatrical,2028-03-05,1,R,6412807.5,Signed
+13964,4656,419,Home Video / VOD,JP,Digital Release,2027-12-25,1,R,2535490.9,Signed
+13965,4656,\N,Festival,AU,Festival Premiere,2027-12-02,1,R,\N,Scheduled
+13966,4657,500,TV,US,TV Broadcast,2027-03-20,1,PG-13,281076.81,Signed
+13967,4657,862,Cinema,DE,Wide Theatrical,2027-07-16,1,PG-13,243979.23,Signed
+13968,4657,\N,Festival,US,Festival Premiere,2027-01-19,1,PG-13,\N,Scheduled
+13969,4658,898,Cinema,JP,Wide Theatrical,2027-11-01,3,12+,1306745.82,Signed
+13970,4658,450,Cinema,CA,Wide Theatrical,2027-12-02,3,12+,185325.8,Signed
+13971,4658,\N,Festival,JP,Festival Premiere,2027-08-25,3,12+,\N,Scheduled
+13972,4659,726,Cinema,US,Limited Theatrical,2028-05-15,1,PG,51481860.27,Signed
+13973,4659,754,Cinema,KR,Wide Theatrical,2028-08-01,1,PG,5407733.19,Signed
+13974,4659,533,Streaming,AU,Streaming Premiere,2028-07-22,1,PG,24645933.06,Signed
+13975,4659,\N,Festival,US,Festival Premiere,2028-03-29,1,PG,\N,Scheduled
+13982,4662,857,Streaming,RU,Streaming Premiere,2027-04-25,11,16+,188911.69,Signed
+13983,4662,353,TV,BR,TV Broadcast,2027-05-23,11,16+,21057.45,Signed
+13984,4662,\N,Festival,RU,Festival Premiere,2027-03-14,11,16+,\N,Scheduled
+13987,4664,148,Home Video / VOD,US,Digital Release,2027-05-27,1,PG-13,924088.87,Signed
+13988,4664,2,Cinema,IT,Wide Theatrical,2027-06-08,1,PG-13,1179071.38,Signed
+13989,4664,\N,Festival,US,Festival Premiere,2027-03-12,1,PG-13,\N,Scheduled
+13990,4665,501,Cinema,AU,Limited Theatrical,2027-04-16,1,PG-13,132317.46,Signed
+13991,4665,2,Cinema,IT,Wide Theatrical,2027-05-26,1,PG-13,36110.02,Signed
+13992,4665,522,Streaming,CA,Streaming Premiere,2027-06-10,1,PG-13,51437.84,Signed
+13993,4665,\N,Festival,AU,Festival Premiere,2027-01-26,1,PG-13,\N,Scheduled
+13994,4666,825,Cinema,US,Limited Theatrical,2028-03-28,1,NR,6682488.87,Signed
+13995,4666,83,Home Video / VOD,GB,Digital Release,2028-06-14,1,NR,645813.5,Signed
+13996,4666,8,Home Video / VOD,IT,Digital Release,2028-05-23,1,NR,1389120.86,Signed
+13997,4666,\N,Festival,US,Festival Premiere,2028-02-02,1,NR,\N,Scheduled
+14005,4669,44,Cinema,ID,Limited Theatrical,2027-08-13,15,16+,2095181.62,Signed
+14006,4669,304,Cinema,US,Limited Theatrical,2027-11-14,15,16+,2185039.75,Signed
+14007,4669,402,Cinema,DE,Wide Theatrical,2027-10-16,15,16+,1488571.13,Signed
+14008,4669,\N,Festival,ID,Festival Premiere,2027-07-12,15,16+,\N,Scheduled
+14011,4671,72,Cinema,BR,Limited Theatrical,2027-02-14,8,12+,29432.29,Signed
+14012,4671,395,Cinema,CA,Wide Theatrical,2027-02-15,8,12+,10647.49,Signed
+14013,4671,532,TV,CA,TV Broadcast,2027-06-13,8,12+,12111.05,Signed
+14014,4671,\N,Festival,BR,Festival Premiere,2026-12-01,8,12+,\N,Scheduled
+14015,4672,446,Home Video / VOD,AU,Digital Release,2027-03-24,1,PG-13,463804.07,Signed
+14016,4672,\N,Festival,AU,Festival Premiere,2027-01-23,1,PG-13,\N,Scheduled
+14030,4677,441,Cinema,AR,Limited Theatrical,2029-01-31,5,12+,17111520.04,Signed
+14031,4677,\N,Festival,AR,Festival Premiere,2028-12-07,5,12+,\N,Scheduled
+14036,4679,400,Cinema,IN,Limited Theatrical,2028-11-25,1,UA,115094096.76,Signed
+14037,4679,626,TV,BR,TV Broadcast,2029-01-27,1,UA,4875492.58,Signed
+14038,4679,\N,Festival,IN,Festival Premiere,2028-10-03,1,UA,\N,Scheduled
+14045,4682,54,Cinema,IT,Limited Theatrical,2027-04-12,6,12+,35791.19,Signed
+14046,4682,387,Home Video / VOD,GB,Digital Release,2027-06-15,6,12+,4151.5,Signed
+14047,4682,532,TV,CA,TV Broadcast,2027-06-02,6,12+,11288.35,Signed
+14048,4682,\N,Festival,IT,Festival Premiere,2027-02-15,6,12+,\N,Scheduled
+14071,4691,63,Home Video / VOD,IN,Digital Release,2027-09-17,1,U,1537888.45,Signed
+14072,4691,972,TV,ES,TV Broadcast,2027-11-09,1,U,307447.75,Signed
+14073,4691,\N,Festival,IN,Festival Premiere,2027-07-14,1,U,\N,Scheduled
+14102,4701,12,Home Video / VOD,US,Digital Release,2027-05-05,8,All,996314.86,Signed
+14103,4701,513,Streaming,BR,Streaming Premiere,2027-08-16,8,All,259529.14,Signed
+14104,4701,\N,Festival,US,Festival Premiere,2027-02-13,8,All,\N,Scheduled
+14105,4702,825,Cinema,US,Limited Theatrical,2028-12-04,1,PG,52486931.07,Signed
+14106,4702,\N,Festival,US,Festival Premiere,2028-10-21,1,PG,\N,Scheduled
+14121,4707,100,Home Video / VOD,US,Digital Release,2027-03-15,1,PG-13,51629.65,Signed
+14122,4707,239,Home Video / VOD,ES,Digital Release,2027-04-04,1,PG-13,6014.81,Signed
+14123,4707,\N,Festival,US,Festival Premiere,2027-01-30,1,PG-13,\N,Scheduled
+14127,4709,59,Cinema,MX,Limited Theatrical,2027-06-02,5,16+,1143214.44,Signed
+14128,4709,\N,Festival,MX,Festival Premiere,2027-04-03,5,16+,\N,Scheduled
+14142,4715,109,TV,US,TV Broadcast,2027-10-22,1,PG,7097849.38,Signed
+14143,4715,\N,Festival,US,Festival Premiere,2027-08-16,1,PG,\N,Scheduled
+14144,4716,974,Cinema,ZA,Wide Theatrical,2027-11-10,1,16+,588250.54,Signed
+14145,4716,711,Cinema,IN,Wide Theatrical,2027-11-20,1,16+,829024.72,Signed
+14146,4716,702,Cinema,US,Wide Theatrical,2028-02-15,1,16+,800400.57,Signed
+14147,4716,\N,Festival,ZA,Festival Premiere,2027-10-19,1,16+,\N,Scheduled
+14148,4717,846,Cinema,PH,Wide Theatrical,2027-09-14,1,All,446672.51,Signed
+14149,4717,543,Streaming,AU,Streaming Premiere,2027-12-29,1,All,249554.58,Signed
+14150,4717,992,International Sales,DE,Festival / Sales,2027-12-09,1,All,159512.55,Signed
+14151,4717,\N,Festival,PH,Festival Premiere,2027-08-17,1,All,\N,Scheduled
+14175,4725,802,Cinema,DE,Wide Theatrical,2027-07-26,7,18+,1073506.01,Signed
+14176,4725,417,Cinema,US,Wide Theatrical,2027-10-08,7,18+,202382.69,Signed
+14177,4725,197,Cinema,CA,Wide Theatrical,2027-11-08,7,18+,296035.19,Signed
+14178,4725,\N,Festival,DE,Festival Premiere,2027-05-03,7,18+,\N,Scheduled
+14179,4726,35,International Sales,US,Festival / Sales,2027-05-05,1,PG-13,416174.51,Signed
+14180,4726,293,Home Video / VOD,IN,Digital Release,2027-09-01,1,PG-13,185308.16,Signed
+14181,4726,\N,Festival,US,Festival Premiere,2027-03-21,1,PG-13,\N,Scheduled
+14187,4729,721,International Sales,US,Festival / Sales,2027-09-19,1,PG-13,1463903.54,Signed
+14188,4729,381,Cinema,JP,Wide Theatrical,2028-01-02,1,PG-13,132208.22,Signed
+14189,4729,476,Cinema,BR,Wide Theatrical,2027-12-05,1,PG-13,638332.2,Signed
+14190,4729,\N,Festival,US,Festival Premiere,2027-08-29,1,PG-13,\N,Scheduled
+14191,4730,963,Cinema,US,Wide Theatrical,2027-07-20,1,PG-13,654361.56,Signed
+14192,4730,387,Home Video / VOD,GB,Digital Release,2027-08-18,1,PG-13,20428.35,Signed
+14193,4730,972,TV,ES,TV Broadcast,2027-09-19,1,PG-13,180730.18,Signed
+14194,4730,\N,Festival,US,Festival Premiere,2027-05-19,1,PG-13,\N,Scheduled
+14195,4731,785,International Sales,GB,Festival / Sales,2027-04-12,1,15,209537.94,Signed
+14196,4731,\N,Festival,GB,Festival Premiere,2027-02-08,1,15,\N,Scheduled
+14197,4732,994,International Sales,ES,Festival / Sales,2027-08-26,5,All,8077766.71,Signed
+14198,4732,283,Streaming,IT,Streaming Premiere,2027-12-19,5,All,4472172.65,Signed
+14199,4732,267,Cinema,KR,Wide Theatrical,2027-08-28,5,All,2778225.65,Signed
+14200,4732,\N,Festival,ES,Festival Premiere,2027-06-15,5,All,\N,Scheduled
+14216,4738,807,Cinema,MX,Wide Theatrical,2027-11-23,5,16+,3519377.97,Signed
+14217,4738,121,Home Video / VOD,KR,Digital Release,2028-02-01,5,16+,70731.98,Signed
+14218,4738,729,Cinema,JP,Limited Theatrical,2028-03-05,5,16+,1675601.81,Signed
+14219,4738,\N,Festival,MX,Festival Premiere,2027-09-28,5,16+,\N,Scheduled
+14220,4739,604,TV,IN,TV Broadcast,2027-05-14,28,U,82099.45,Signed
+14221,4739,397,Cinema,US,Wide Theatrical,2027-08-17,28,U,54179.65,Signed
+14222,4739,\N,Festival,IN,Festival Premiere,2027-03-31,28,U,\N,Scheduled
+14223,4740,910,TV,BR,TV Broadcast,2027-07-11,8,12+,71927.05,Signed
+14224,4740,71,Cinema,CA,Wide Theatrical,2027-10-04,8,12+,165478.48,Signed
+14225,4740,\N,Festival,BR,Festival Premiere,2027-06-03,8,12+,\N,Scheduled
+14226,4741,762,Cinema,IN,Limited Theatrical,2028-12-01,2,UA,12282748.79,Signed
+14227,4741,861,Cinema,IT,Limited Theatrical,2029-03-17,2,UA,23989231.02,Signed
+14228,4741,\N,Festival,IN,Festival Premiere,2028-09-07,2,UA,\N,Scheduled
+14241,4746,986,Home Video / VOD,US,Digital Release,2027-08-10,1,PG-13,628827.69,Signed
+14242,4746,268,Cinema,KR,Wide Theatrical,2027-09-26,1,PG-13,1829267.24,Signed
+14243,4746,\N,Festival,US,Festival Premiere,2027-06-04,1,PG-13,\N,Scheduled
+14244,4747,853,Cinema,PL,Limited Theatrical,2028-02-26,17,All,19679071.17,Signed
+14245,4747,448,Cinema,ES,Wide Theatrical,2028-05-29,17,All,18198324.48,Signed
+14246,4747,42,TV,GB,TV Broadcast,2028-06-18,17,All,2418409.76,Signed
+14247,4747,\N,Festival,PL,Festival Premiere,2028-01-04,17,All,\N,Scheduled
+14248,4748,273,Cinema,IN,Wide Theatrical,2027-10-04,2,U,152483.74,Signed
+14249,4748,\N,Festival,IN,Festival Premiere,2027-07-09,2,U,\N,Scheduled
+14250,4749,481,International Sales,AR,Festival / Sales,2028-04-12,4,All,20486684.88,Signed
+14251,4749,750,Cinema,JP,Wide Theatrical,2028-07-28,4,All,7045075.22,Signed
+14252,4749,\N,Festival,AR,Festival Premiere,2028-03-07,4,All,\N,Scheduled
+14294,4764,937,Cinema,IT,Limited Theatrical,2028-01-24,6,16+,2006313.05,Signed
+14295,4764,206,Cinema,FR,Wide Theatrical,2028-04-11,6,16+,317535.87,Signed
+14296,4764,\N,Festival,IT,Festival Premiere,2027-11-30,6,16+,\N,Scheduled
+14300,4766,564,International Sales,US,Festival / Sales,2027-10-08,1,PG,205706.35,Signed
+14301,4766,\N,Festival,US,Festival Premiere,2027-08-24,1,PG,\N,Scheduled
+14304,4768,895,Cinema,FR,Wide Theatrical,2027-05-04,4,16+,134656.4,Negotiating
+14305,4768,474,Streaming,US,Streaming Premiere,2027-06-23,4,16+,96208.16,Negotiating
+14306,4768,\N,Festival,FR,Festival Premiere,2027-03-31,4,16+,\N,Scheduled
+14322,4773,688,Cinema,JP,Limited Theatrical,2027-05-08,3,12+,420437.12,Negotiating
+14323,4773,105,Home Video / VOD,FR,Digital Release,2027-07-02,3,12+,21953.51,Negotiating
+14324,4773,\N,Festival,JP,Festival Premiere,2027-02-15,3,12+,\N,Scheduled
+14325,4774,467,Cinema,GB,Wide Theatrical,2027-06-27,1,12A,469704.9,Negotiating
+14326,4774,436,TV,IT,TV Broadcast,2027-08-16,1,12A,17539.9,Negotiating
+14327,4774,\N,Festival,GB,Festival Premiere,2027-04-12,1,12A,\N,Scheduled
+14332,4776,691,Cinema,GB,Wide Theatrical,2027-07-24,1,12A,184402.87,Negotiating
+14333,4776,\N,Festival,GB,Festival Premiere,2027-06-30,1,12A,\N,Scheduled
+14334,4777,203,TV,ES,TV Broadcast,2027-05-17,8,16+,154706.05,Negotiating
+14335,4777,\N,Festival,ES,Festival Premiere,2027-02-28,8,16+,\N,Scheduled
+14345,4781,827,Cinema,IN,Limited Theatrical,2027-07-08,1,UA,299830.72,Negotiating
+14346,4781,138,Cinema,BR,Wide Theatrical,2027-09-18,1,UA,111915.81,Negotiating
+14347,4781,985,International Sales,ES,Festival / Sales,2027-09-18,1,UA,68562.06,Negotiating
+14348,4781,\N,Festival,IN,Festival Premiere,2027-05-05,1,UA,\N,Scheduled
+14359,4785,924,International Sales,AU,Festival / Sales,2027-09-07,1,R,267754.42,Negotiating
+14360,4785,342,Home Video / VOD,IT,Digital Release,2027-12-12,1,R,74568.31,Negotiating
+14361,4785,\N,Festival,AU,Festival Premiere,2027-07-02,1,R,\N,Scheduled
+14403,4800,744,Cinema,US,Limited Theatrical,2028-01-29,1,PG,9116614.03,Signed
+14404,4800,174,Cinema,CA,Wide Theatrical,2028-02-09,1,PG,1023384.78,Signed
+14405,4800,\N,Festival,US,Festival Premiere,2027-11-10,1,PG,\N,Scheduled
+14411,4803,753,Cinema,AU,Wide Theatrical,2027-06-24,1,PG-13,458214.75,Negotiating
+14412,4803,284,TV,BR,TV Broadcast,2027-09-30,1,PG-13,61654.79,Negotiating
+14413,4803,\N,Festival,AU,Festival Premiere,2027-04-26,1,PG-13,\N,Scheduled
+14439,4813,543,Streaming,AU,Streaming Premiere,2027-10-28,1,R,1609831.71,Negotiating
+14440,4813,386,International Sales,GB,Festival / Sales,2028-02-15,1,R,290657.13,Negotiating
+14441,4813,\N,Festival,AU,Festival Premiere,2027-09-08,1,R,\N,Scheduled
+14467,4821,112,Cinema,IT,Wide Theatrical,2027-07-24,6,16+,1176160.35,Negotiating
+14468,4821,783,International Sales,CA,Festival / Sales,2027-11-20,6,16+,366154.8,Negotiating
+14469,4821,\N,Festival,IT,Festival Premiere,2027-05-03,6,16+,\N,Scheduled
+14504,4834,878,TV,GB,TV Broadcast,2028-08-03,1,15,28972504.13,Signed
+14505,4834,81,TV,ES,TV Broadcast,2028-09-04,1,15,5750282.13,Signed
+14506,4834,\N,Festival,GB,Festival Premiere,2028-05-24,1,15,\N,Scheduled
+14532,4845,13,Streaming,MX,Streaming Premiere,2027-07-20,5,16+,118182.31,Negotiating
+14533,4845,265,Cinema,AU,Wide Theatrical,2027-10-26,5,16+,10202.08,Negotiating
+14534,4845,460,Cinema,IN,Limited Theatrical,2027-10-27,5,16+,12351.37,Negotiating
+14535,4845,\N,Festival,MX,Festival Premiere,2027-06-11,5,16+,\N,Scheduled
+14557,4853,709,Cinema,US,Limited Theatrical,2028-06-20,1,R,128136897.94,Negotiating
+14558,4853,541,Streaming,US,Streaming Premiere,2028-08-01,1,R,33755371.78,Negotiating
+14559,4853,\N,Festival,US,Festival Premiere,2028-04-01,1,R,\N,Scheduled
+14566,4857,359,Cinema,NL,Wide Theatrical,2028-04-12,22,16+,5388050.21,Negotiating
+14567,4857,\N,Festival,NL,Festival Premiere,2028-02-19,22,16+,\N,Scheduled
+14568,4858,703,Cinema,IN,Limited Theatrical,2027-06-18,2,UA,42095.29,Negotiating
+14569,4858,450,Cinema,CA,Wide Theatrical,2027-06-30,2,UA,13679.3,Negotiating
+14570,4858,\N,Festival,IN,Festival Premiere,2027-04-29,2,UA,\N,Scheduled
+14571,4859,481,International Sales,AR,Festival / Sales,2027-06-28,5,16+,83382.91,Negotiating
+14572,4859,\N,Festival,AR,Festival Premiere,2027-05-21,5,16+,\N,Scheduled
+14582,4863,218,Home Video / VOD,FR,Digital Release,2027-09-21,4,12+,501921.22,Negotiating
+14583,4863,\N,Festival,FR,Festival Premiere,2027-07-30,4,12+,\N,Scheduled
+14603,4871,277,International Sales,BR,Festival / Sales,2027-08-05,8,All,115918.7,Negotiating
+14604,4871,\N,Festival,BR,Festival Premiere,2027-06-05,8,All,\N,Scheduled
+14605,4872,137,International Sales,DK,Festival / Sales,2029-07-20,20,16+,128003364.44,Signed
+14606,4872,805,TV,CA,TV Broadcast,2029-10-09,20,16+,39833949.63,Signed
+14607,4872,394,Cinema,IN,Wide Theatrical,2029-11-10,20,16+,72415494.68,Signed
+14608,4872,\N,Festival,DK,Festival Premiere,2029-05-21,20,16+,\N,Scheduled
+14640,4885,27,Cinema,AU,Wide Theatrical,2028-07-18,1,PG,33907607.01,Signed
+14641,4885,\N,Festival,AU,Festival Premiere,2028-06-02,1,PG,\N,Scheduled
+14683,4900,496,Cinema,IN,Limited Theatrical,2028-11-29,1,U,16182093.18,Signed
+14684,4900,594,Cinema,FR,Limited Theatrical,2028-12-20,1,U,5956537.77,Signed
+14685,4900,573,Cinema,JP,Wide Theatrical,2028-12-12,1,U,8778164.42,Signed
+14686,4900,\N,Festival,IN,Festival Premiere,2028-09-07,1,U,\N,Scheduled
+14702,4905,270,Streaming,FR,Streaming Premiere,2027-10-12,4,All,1091932.68,Negotiating
+14703,4905,\N,Festival,FR,Festival Premiere,2027-09-20,4,All,\N,Scheduled
+14704,4906,861,Cinema,IT,Limited Theatrical,2027-08-16,6,12+,29778.12,Negotiating
+14705,4906,867,TV,US,TV Broadcast,2027-09-03,6,12+,23556.32,Negotiating
+14706,4906,345,Cinema,JP,Wide Theatrical,2027-10-28,6,12+,23242.58,Negotiating
+14707,4906,\N,Festival,IT,Festival Premiere,2027-06-30,6,12+,\N,Scheduled
+14708,4907,776,TV,GB,TV Broadcast,2028-01-11,1,12A,1041611.22,Negotiating
+14709,4907,30,Home Video / VOD,FR,Digital Release,2028-04-19,1,12A,107226.45,Negotiating
+14710,4907,\N,Festival,GB,Festival Premiere,2027-10-18,1,12A,\N,Scheduled
+14723,4912,550,Cinema,GB,Limited Theatrical,2027-09-16,1,12A,139393.92,Negotiating
+14724,4912,596,Cinema,JP,Wide Theatrical,2027-11-24,1,12A,6937.91,Negotiating
+14725,4912,\N,Festival,GB,Festival Premiere,2027-07-03,1,12A,\N,Scheduled
+14726,4913,333,Cinema,FR,Limited Theatrical,2028-03-14,4,All,10169019.04,Negotiating
+14727,4913,218,Home Video / VOD,FR,Digital Release,2028-04-23,4,All,893201.23,Negotiating
+14728,4913,\N,Festival,FR,Festival Premiere,2027-12-16,4,All,\N,Scheduled
+14819,4943,440,Cinema,ID,Wide Theatrical,2028-07-12,15,18+,4396051.22,Negotiating
+14820,4943,\N,Festival,ID,Festival Premiere,2028-06-18,15,18+,\N,Scheduled
+14869,4959,751,Streaming,IN,Streaming Premiere,2027-09-16,29,UA,153023.27,Negotiating
+14870,4959,834,Cinema,DE,Wide Theatrical,2027-11-21,29,UA,30810.85,Negotiating
+14871,4959,\N,Festival,IN,Festival Premiere,2027-08-12,29,UA,\N,Scheduled
+14875,4961,560,Cinema,IN,Limited Theatrical,2027-11-06,1,U,82973.59,Negotiating
+14876,4961,407,Cinema,IN,Wide Theatrical,2027-12-31,1,U,27558.62,Negotiating
+14877,4961,216,Cinema,GB,Limited Theatrical,2028-02-26,1,U,39797.59,Negotiating
+14878,4961,\N,Festival,IN,Festival Premiere,2027-09-02,1,U,\N,Scheduled
+14906,4972,280,Cinema,US,Limited Theatrical,2027-10-06,1,R,203683.04,Negotiating
+14907,4972,\N,Festival,US,Festival Premiere,2027-07-17,1,R,\N,Scheduled
+14915,4975,123,Streaming,US,Streaming Premiere,2028-01-01,1,R,132423.3,Negotiating
+14916,4975,640,Cinema,US,Limited Theatrical,2028-01-27,1,R,68866.32,Negotiating
+14917,4975,\N,Festival,US,Festival Premiere,2027-12-03,1,R,\N,Scheduled
+14920,4977,704,TV,US,TV Broadcast,2029-09-03,1,PG-13,45852833.59,Signed
+14921,4977,272,Cinema,IT,Wide Theatrical,2029-11-12,1,PG-13,42646710.76,Signed
+14922,4977,749,Cinema,FR,Limited Theatrical,2029-11-23,1,PG-13,49078704.94,Signed
+14923,4977,\N,Festival,US,Festival Premiere,2029-08-13,1,PG-13,\N,Scheduled
+14953,4987,222,Cinema,US,Wide Theatrical,2027-11-09,1,PG,233820.33,Negotiating
+14954,4987,798,Home Video / VOD,ES,Digital Release,2028-03-07,1,PG,21459.68,Negotiating
+14955,4987,\N,Festival,US,Festival Premiere,2027-10-10,1,PG,\N,Scheduled
+14956,4988,41,TV,GB,TV Broadcast,2027-12-26,1,15,47805.73,Negotiating
+14957,4988,\N,Festival,GB,Festival Premiere,2027-10-03,1,15,\N,Scheduled
+14979,4996,179,Cinema,AR,Wide Theatrical,2028-11-24,5,All,1051346.83,Negotiating
+14980,4996,367,Cinema,IT,Limited Theatrical,2028-12-30,5,All,299740.0,Negotiating
+14981,4996,\N,Festival,AR,Festival Premiere,2028-10-17,5,All,\N,Scheduled

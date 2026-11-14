@@ -1,0 +1,51 @@
+role_id,role_name,description,department_id
+1,Director,Creative lead of the film,6
+2,Assistant Director,1st AD - runs the set and the shooting schedule,6
+3,Second Assistant Director,"2nd AD - call sheets, cast and background coordination",6
+4,Script Supervisor,Continuity and script notes,6
+5,Producer,"Oversees finance, schedule and delivery",12
+6,Executive Producer,Financing / executive oversight,12
+7,Line Producer,Day-to-day budget and logistics,12
+8,Production Manager,"Manages crew, vendors and costs",12
+9,Production Coordinator,"Office coordination, travel and paperwork",12
+10,Production Assistant,General set and office support,12
+11,Location Manager,"Scouts, secures and manages locations",9
+12,Transport Captain,Leads unit transport and drivers,9
+13,Screenwriter,Writes or adapts the screenplay,16
+14,Composer,Original score,11
+15,Actor,On-screen performer,3
+16,Voice Actor,Voice / dubbing performer,3
+17,Stunt Performer,Performs stunts and action doubling,14
+18,Stunt Coordinator,Designs and supervises stunts,14
+19,Casting Director,Casts actors,4
+20,Cinematographer,Director of photography,2
+21,Camera Operator,Operates the camera,2
+22,First Assistant Camera,Focus puller,2
+23,Second Assistant Camera,Clapper loader / camera assistant,2
+24,Steadicam Operator,Stabilised camera operator,2
+25,Drone Pilot,Aerial cinematography,2
+26,Digital Imaging Technician,Data wrangling and on-set colour,2
+27,Gaffer,Chief lighting technician,8
+28,Best Boy Electric,Gaffer's assistant,8
+29,Lighting Technician,Rigs and operates lights,8
+30,Key Grip,Head of grip department,8
+31,Grip,Camera support and rigging,8
+32,Production Sound Mixer,Records on-set sound,13
+33,Boom Operator,Operates the boom microphone,13
+34,Sound Designer,Designs the soundscape in post,13
+35,Foley Artist,Creates footstep and prop sounds,13
+36,Re-recording Mixer,Final mix,13
+37,Production Designer,Head of the visual world of the film,1
+38,Art Director,Runs the art department,1
+39,Set Decorator,Dresses sets,1
+40,Prop Master,Sources and manages props,1
+41,Construction Coordinator,Builds sets,1
+42,Costume Designer,Designs costumes,5
+43,Wardrobe Assistant,Costume maintenance on set,5
+44,Makeup Artist,Makeup and prosthetics,10
+45,Hair Stylist,Hair design and styling,10
+46,VFX Supervisor,Leads visual effects,15
+47,VFX Artist,"Compositing, CG and effects",15
+48,Special Effects Technician,Practical effects on set,15
+49,Editor,Edits the picture,7
+50,Colorist,Colour grading,7
