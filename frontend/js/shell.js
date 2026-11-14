@@ -161,12 +161,11 @@
         ),
         h('div', { class: 'row' },
           h('button', { class: 'icon-btn', id: 'theme-btn', title: 'Toggle dark mode', onclick: () => { DP.setTheme(DP.state.theme === 'dark' ? 'light' : 'dark'); const b = document.getElementById('theme-btn'); DP.clear(b).append(icon(DP.state.theme === 'dark' ? 'sun' : 'moon')); } }, icon(DP.state.theme === 'dark' ? 'sun' : 'moon')),
-          h('button', { class: 'icon-btn', id: 'sound-btn', title: DP.state.sound !== false ? 'Mute sound effects' : 'Enable sound effects', onclick: () => DP.toggleSound() }, icon(DP.state.sound !== false ? 'volume-2' : 'volume-x')),
           h('button', { class: 'btn grow', onclick: () => DP.logout() }, icon('log-out'), 'Sign out'))));
     const top = h('header', { class: 'topbar' },
       h('button', { class: 'icon-btn menu-btn', onclick: () => side.classList.toggle('open'), 'aria-label': 'Menu' }, icon('menu')),
       h('div', { class: 'title', id: 'crumb' }, 'DecaPic'),
-      h('div', { class: 'searchbtn', id: 'searchbtn', onclick: DP.palette }, icon('search'), 'Search projects, people, scenes…', h('kbd', null, 'Ctrl K')),
+      h('div', { class: 'searchbtn', id: 'searchbtn', onclick: () => DP.openPalette() }, icon('search'), 'Search projects, people, scenes…', h('kbd', null, 'Ctrl K')),
       buildAccountSwitcher());
     r.append(h('div', { class: 'app' }, side, h('div', { class: 'main' }, top, h('main', { class: 'view', id: 'view' }))));
   }
@@ -181,7 +180,7 @@
   };
 
   // ---------------------------------------------------------------- command palette (Ctrl+K)
-  DP.palette = () => {
+  DP.openPalette = () => {
     const { o, close } = ui.overlay(); let sel = 0, items = [];
     const box = h('div', { class: 'cmdk' }); const res = h('div', { class: 'res' });
     const quick = NAV.filter((n) => n.path && (!n.perm || DP.can(n.perm))).map((n) => ({ type: 'page', label: 'Go to ' + n.label, sub: '', path: n.path, ic: n.icon }));
@@ -197,7 +196,7 @@
     input.addEventListener('keydown', (e) => { if (e.key === 'ArrowDown') { sel = Math.min(items.length - 1, sel + 1); draw(); e.preventDefault(); } else if (e.key === 'ArrowUp') { sel = Math.max(0, sel - 1); draw(); e.preventDefault(); } else if (e.key === 'Enter' && items[sel]) go(items[sel]); });
     box.append(input, res); o.append(box); items = quick; draw(); setTimeout(() => input.focus(), 50);
   };
-  document.addEventListener('keydown', (e) => { if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k' && DP.state.user) { e.preventDefault(); DP.palette(); } });
+  document.addEventListener('keydown', (e) => { if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'k' && DP.state.user) { e.preventDefault(); DP.openPalette(); } });
 
   // ---------------------------------------------------------------- login
   DP.pages.login = async (ctx) => {

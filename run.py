@@ -11,4 +11,4 @@ if __name__ == '__main__':
     if '--no-browser' not in sys.argv:
         threading.Thread(target=lambda: (time.sleep(2.5), webbrowser.open(url)), daemon=True).start()
     print(f'\n  DecaPic is starting at {url}   (Ctrl+C to stop)\n')
-    uvicorn.run('app.main:app', host='127.0.0.1', port=config.PORT, app_dir=os.path.join(ROOT, 'backend'), log_level='info')
+    uvicorn.run('app.main:app', host='127.0.0.1', port=config.PORT, app_dir=os.path.join(ROOT, 'backend'), log_level='info', reload=True)

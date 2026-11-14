@@ -1,7 +1,7 @@
 /* DecaPic frontend core - tiny framework: DOM helper, API client, UI components, charts, router. No build step. */
 (function () {
   'use strict';
-  const DP = (window.DP = { pages: {}, state: { user: null, token: localStorage.getItem('dp_token') || null, theme: localStorage.getItem('dp_theme') || 'light', sound: localStorage.getItem('dp_sound') !== 'off', meta: null }, charts: [] });
+  const DP = (window.DP = { pages: {}, state: { user: null, token: localStorage.getItem('dp_token') || null, theme: localStorage.getItem('dp_theme') || 'light', sound: true, meta: null }, charts: [] });
 
   // ---------------------------------------------------------------- DOM helper
   function append(el, kids) { for (const k of kids.flat(Infinity)) { if (k == null || k === false) continue; el.append(k.nodeType ? k : document.createTextNode(String(k))); } }
@@ -33,29 +33,29 @@
   DP.sleep = (ms) => new Promise((r) => setTimeout(r, ms));
   DP.can = (perm) => !!(DP.state.user && DP.state.user.permissions.includes(perm));
 
-  // ---------------------------------------------------------------- sound effects (Web Audio API, 100% offline)
+  // ---------------------------------------------------------------- sound effects (Web Audio API, 100% offline, always on)
   let audioCtx = null;
   function getAudioContext() {
     if (typeof window === 'undefined') return null;
     if (!audioCtx && (window.AudioContext || window.webkitAudioContext)) {
-      try { audioCtx = new (window.AudioContext || window.webkitAudioContext)(); } catch (e) {}
+      try { audioCtx = new (window.AudioContext || window.webkitAudioContext)(); } catch (e) { }
     }
     if (audioCtx && audioCtx.state === 'suspended') {
-      audioCtx.resume().catch(() => {});
+      audioCtx.resume().catch(() => { });
     }
     return audioCtx;
   }
 
   let lastHoverSound = 0;
   DP.sound = {
-    hover: (freq = 520, drop = 360, dur = 0.035, vol = 0.035) => {
-      if (DP.state.sound === false) return;
+    hover: (freq = 560, drop = 360, dur = 0.04, vol = 0.08) => {
       const now = performance.now();
-      if (now - lastHoverSound < 40) return;
+      if (now - lastHoverSound < 35) return;
       lastHoverSound = now;
       try {
         const ctx = getAudioContext();
         if (!ctx) return;
+        if (ctx.state === 'suspended') ctx.resume();
         const osc = ctx.createOscillator();
         const gain = ctx.createGain();
         osc.type = 'sine';
@@ -68,39 +68,27 @@
         gain.connect(ctx.destination);
         osc.start(t);
         osc.stop(t + dur + 0.005);
-      } catch (e) {}
+      } catch (e) { }
     },
     click: () => {
-      if (DP.state.sound === false) return;
       try {
         const ctx = getAudioContext();
         if (!ctx) return;
+        if (ctx.state === 'suspended') ctx.resume();
         const osc = ctx.createOscillator();
         const gain = ctx.createGain();
         osc.type = 'triangle';
         const t = ctx.currentTime;
         osc.frequency.setValueAtTime(560, t);
         osc.frequency.exponentialRampToValueAtTime(260, t + 0.045);
-        gain.gain.setValueAtTime(0.05, t);
+        gain.gain.setValueAtTime(0.09, t);
         gain.gain.exponentialRampToValueAtTime(0.0001, t + 0.045);
         osc.connect(gain);
         gain.connect(ctx.destination);
         osc.start(t);
         osc.stop(t + 0.05);
-      } catch (e) {}
+      } catch (e) { }
     }
-  };
-
-  DP.toggleSound = () => {
-    DP.state.sound = !DP.state.sound;
-    localStorage.setItem('dp_sound', DP.state.sound ? 'on' : 'off');
-    const btn = document.getElementById('sound-btn');
-    if (btn) {
-      DP.clear(btn).append(icon(DP.state.sound ? 'volume-2' : 'volume-x'));
-      btn.title = DP.state.sound ? 'Mute sound effects' : 'Enable sound effects';
-    }
-    ui.toast(DP.state.sound ? 'Sound effects enabled' : 'Sound effects muted', 'info');
-    if (DP.state.sound) DP.sound.click();
   };
 
   // ---------------------------------------------------------------- formatting
@@ -152,7 +140,8 @@
     DP.chartDefaults(); DP.charts.forEach((c) => { try { c.update('none'); } catch (e) { /* destroyed */ } });
   };
   DP.colors = () => { const d = DP.state.theme === 'dark'; return { teal: '#10c49f', mint: '#00cc99', tan: '#c5aa8d', coral: '#ef7b5f', gold: '#e8b64a', sky: '#4f9de8', violet: '#8b7cf0', ink: d ? '#e9f6f2' : '#06130f', grid: d ? 'rgba(255,255,255,.07)' : 'rgba(6,40,30,.07)', text: d ? '#8fa89e' : '#62766e', card: d ? '#0d1a17' : '#ffffff' }; };
-  DP.palette = () => { const c = DP.colors(); return [c.teal, c.tan, c.coral, c.sky, c.violet, c.gold, c.mint, '#9aa9a3']; };
+  DP.colorPalette = () => { const c = DP.colors(); return [c.teal, c.tan, c.coral, c.sky, c.violet, c.gold, c.mint, '#9aa9a3']; };
+  DP.palette = DP.colorPalette;
   DP.chartDefaults = () => {
     if (!window.Chart) return; const c = DP.colors();
     Chart.defaults.font.family = "'Outfit', system-ui, sans-serif"; Chart.defaults.font.size = 12; Chart.defaults.color = c.text; Chart.defaults.borderColor = c.grid;
@@ -193,14 +182,16 @@
   ui.skeleton = (n = 3, block) => h('div', null, block ? h('div', { class: 'skeleton block' }) : null, Array.from({ length: n }, (_, i) => h('div', { class: 'skeleton line', style: { width: 100 - i * 11 + '%' } })));
   ui.empty = (msg, ic) => h('div', { class: 'empty' }, icon(ic || 'search'), h('div', null, msg || 'Nothing here yet'));
   ui.tag = (text, kind) => h('span', { class: 'tag ' + (kind || '') }, text);
-  const STATUS_KIND = { Completed: 'ok', Active: 'ok', Approved: 'ok', Available: 'ok', Released: 'ok', Present: 'ok', Signed: 'ok', Resolved: 'ok', 'In Production': 'teal', 'Post-production': 'violet', 'Pre-production': 'info', Development: 'tan', Scheduled: 'info', Draft: 'tan',
-    Closed: 'bad', Cancelled: 'bad', Absent: 'bad', Late: 'warn', Critical: 'bad', High: 'warn', Delayed: 'warn', Pending: 'warn', Negotiating: 'warn', 'In Progress': 'teal', Moderate: 'warn', Low: 'info', Medium: 'warn', Major: 'bad', Minor: 'info', Unavailable: 'bad', Busy: 'warn' };
+  const STATUS_KIND = {
+    Completed: 'ok', Active: 'ok', Approved: 'ok', Available: 'ok', Released: 'ok', Present: 'ok', Signed: 'ok', Resolved: 'ok', 'In Production': 'teal', 'Post-production': 'violet', 'Pre-production': 'info', Development: 'tan', Scheduled: 'info', Draft: 'tan',
+    Closed: 'bad', Cancelled: 'bad', Absent: 'bad', Late: 'warn', Critical: 'bad', High: 'warn', Delayed: 'warn', Pending: 'warn', Negotiating: 'warn', 'In Progress': 'teal', Moderate: 'warn', Low: 'info', Medium: 'warn', Major: 'bad', Minor: 'info', Unavailable: 'bad', Busy: 'warn'
+  };
   ui.status = (s) => ui.tag(s || '-', STATUS_KIND[s] || '');
   ui.bar = (value, max, kind) => { const pct = Math.max(0, Math.min(100, max ? (value / max) * 100 : 0)); const i = h('i'); requestAnimationFrame(() => setTimeout(() => (i.style.width = pct + '%'), 60)); return h('div', { class: 'bar ' + (kind || '') }, i); };
   ui.ring = (frac, label, o = {}) => {
     const size = o.size || 110, sw = o.stroke || 11, r = (size - sw) / 2, C = 2 * Math.PI * r; const col = o.color || 'var(--teal)';
-    const fg = document.createElementNS('http://www.w3.org/2000/svg', 'circle'); ['cx', 'cy'].forEach((a) => fg.setAttribute(a, size / 2)); fg.setAttribute('r', r); fg.setAttribute('fill', 'none'); fg.setAttribute('class', 'fg'); fg.setAttribute('stroke', col); fg.setAttribute('stroke-width', sw); fg.setAttribute('stroke-dasharray', C); fg.setAttribute('stroke-dashoffset', C);
-    const bg = document.createElementNS('http://www.w3.org/2000/svg', 'circle'); ['cx', 'cy'].forEach((a) => bg.setAttribute(a, size / 2)); bg.setAttribute('r', r); bg.setAttribute('fill', 'none'); bg.setAttribute('class', 'bg'); bg.setAttribute('stroke-width', sw);
+    const fg = document.createElementNS('http://www.w3.org/2000/svg', 'circle');['cx', 'cy'].forEach((a) => fg.setAttribute(a, size / 2)); fg.setAttribute('r', r); fg.setAttribute('fill', 'none'); fg.setAttribute('class', 'fg'); fg.setAttribute('stroke', col); fg.setAttribute('stroke-width', sw); fg.setAttribute('stroke-dasharray', C); fg.setAttribute('stroke-dashoffset', C);
+    const bg = document.createElementNS('http://www.w3.org/2000/svg', 'circle');['cx', 'cy'].forEach((a) => bg.setAttribute(a, size / 2)); bg.setAttribute('r', r); bg.setAttribute('fill', 'none'); bg.setAttribute('class', 'bg'); bg.setAttribute('stroke-width', sw);
     const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); svg.setAttribute('width', size); svg.setAttribute('height', size); svg.append(bg, fg);
     requestAnimationFrame(() => setTimeout(() => fg.setAttribute('stroke-dashoffset', C * (1 - Math.max(0, Math.min(1, frac)))), 80));
     return h('div', { class: 'ring', style: { width: size + 'px', height: size + 'px' } }, svg, h('div', { class: 'c' }, h('b', null, o.center != null ? o.center : F.pctf(frac)), h('span', null, label || '')));
@@ -262,8 +253,10 @@
   ui.callout = (msg, kind, ic) => h('div', { class: 'callout ' + (kind || '') }, icon(ic || (kind === 'bad' ? 'circle-alert' : kind === 'warn' ? 'triangle-alert' : 'info')), h('div', null, msg));
   ui.impact = (items, nameMap) => {
     const max = Math.max(0.0001, ...items.map((i) => Math.abs(i.impact)));
-    return h('div', { class: 'impact' }, items.map((i) => { const w = (Math.abs(i.impact) / max) * 50; const bar = h('i', { class: i.impact > 0 ? 'pos' : 'neg' }); requestAnimationFrame(() => setTimeout(() => (bar.style.width = w + '%'), 80));
-      return h('div', { class: 'r' }, h('span', { class: 'nm', title: i.feature }, (nameMap && nameMap[i.feature]) || F.title(i.feature)), h('div', { class: 'b' }, bar), h('span', { class: 'num tiny muted', style: { textAlign: 'right' } }, (i.impact > 0 ? '+' : '') + (Math.abs(i.impact) < 1 ? i.impact.toFixed(2) : i.impact.toFixed(1)))); }));
+    return h('div', { class: 'impact' }, items.map((i) => {
+      const w = (Math.abs(i.impact) / max) * 50; const bar = h('i', { class: i.impact > 0 ? 'pos' : 'neg' }); requestAnimationFrame(() => setTimeout(() => (bar.style.width = w + '%'), 80));
+      return h('div', { class: 'r' }, h('span', { class: 'nm', title: i.feature }, (nameMap && nameMap[i.feature]) || F.title(i.feature)), h('div', { class: 'b' }, bar), h('span', { class: 'num tiny muted', style: { textAlign: 'right' } }, (i.impact > 0 ? '+' : '') + (Math.abs(i.impact) < 1 ? i.impact.toFixed(2) : i.impact.toFixed(1))));
+    }));
   };
   ui.confirm = (msg, onYes, label) => ui.modal({ title: 'Are you sure?', body: h('p', { class: 'muted' }, msg), actions: [{ label: 'Cancel' }, { label: label || 'Yes, continue', cls: 'primary', onClick: onYes }] });
 
@@ -292,17 +285,17 @@
   // Global hover sound for interactive elements across all dashboards & pages
   if (typeof document !== 'undefined') {
     const unlockAudio = () => {
-      getAudioContext();
-      document.removeEventListener('pointerdown', unlockAudio);
-      document.removeEventListener('keydown', unlockAudio);
+      const ctx = getAudioContext();
+      if (ctx && ctx.state === 'suspended') ctx.resume().catch(() => { });
     };
-    document.addEventListener('pointerdown', unlockAudio, { passive: true });
-    document.addEventListener('keydown', unlockAudio, { passive: true });
+    ['pointerdown', 'mousedown', 'keydown', 'touchstart', 'pointermove'].forEach((evt) => {
+      document.addEventListener(evt, unlockAudio, { passive: true });
+    });
 
     document.addEventListener('mouseover', (e) => {
       if (!e.target || !e.target.closest) return;
       const target = e.target.closest(
-        '.card.hover, .card.kpi, .proj-card, .film-card, .btn, .icon-btn, .nav a, .chip, .tabs button, .list-row, .tbl tr.click, .searchbtn, .demo, .account-switcher, .switch'
+        'button, a, .card, .kpi, .proj-card, .film-card, .btn, .icon-btn, .nav a, .chip, .tabs button, .list-row, .tbl tr, .searchbtn, .demo, .account-switcher, .switch'
       );
       if (!target) return;
       if (e.relatedTarget && target.contains(e.relatedTarget)) return;

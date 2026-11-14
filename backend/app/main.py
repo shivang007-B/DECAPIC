@@ -6,9 +6,19 @@ from . import config as C, db
 from .routes import auth, dashboard, projects, catalog
 
 app = FastAPI(title='DecaPic', version='1.0', default_response_class=db.DPJSON)
+
+@app.middleware("http")
+async def add_no_cache_headers(request: Request, call_next):
+    response = await call_next(request)
+    if not request.url.path.startswith("/vendor"):
+        response.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+        response.headers["Pragma"] = "no-cache"
+        response.headers["Expires"] = "0"
+    return response
+
 for r in (auth.router, dashboard.router, projects.router, catalog.router):
     app.include_router(r)
-try:                                           # ML + SQL Lab routers (added in later steps)
+try:                                           # ML + SQL Lab routers
     from .routes import ml, lab
     app.include_router(ml.router); app.include_router(lab.router)
 except ImportError as e:                       # pragma: no cover
@@ -33,4 +43,4 @@ app.mount('/vendor', StaticFiles(directory=C.FRONTEND_DIR / 'vendor'), name='ven
 
 @app.get('/{path:path}', include_in_schema=False)
 def spa(path: str):
-    return FileResponse(C.FRONTEND_DIR / 'index.html')
+    return FileResponse(C.FRONTEND_DIR / 'index.html', headers={"Cache-Control": "no-cache, no-store, must-revalidate", "Pragma": "no-cache", "Expires": "0"})
